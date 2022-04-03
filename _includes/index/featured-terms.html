@@ -49,5 +49,6 @@
             {% for s in topTerms %}
             <a class="btn btn-sm btn-{{ include.btn-color | default: 'info' }} m-1" href="{{ s | strip | url_param_escape | prepend: '/browse.html#' | relative_url }}">{{ s | strip }}</a>{% endfor %}
         </p>
+        <a class="btn btn-sm btn-outline-secondary mt-2" href="{{ '/browse.html' | relative_url }}">View all</a>
     </div>
 </div>

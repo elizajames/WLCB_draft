@@ -4,7 +4,7 @@ layout: about
 permalink: /records.html
 ---
 
-{% include feature/nav-menu.html sections="Meeting Minutes;About the About Page" %}
+{% include feature/nav-menu.html sections="Meeting Minutes;Programs" %}
 
 ## Meeting Minutes
 
@@ -21,3 +21,5 @@ All materials included here are held at the Maryland Historical Society and are 
 The notebooks containing the minutes were transcribed by members of the 2017-2018 Aperio team, Professor Jean Lee Cole, Cynthia Requardt, and members of the Friends School class of 2018. These materials were transcribed with the support of an Aperio Series of Humane Texts grant from the Center for the Humanities at Loyola University Maryland.
 
 [Minute Book, 1892-1893](/1892_1893.html)
+
+## Programs
