@@ -19,10 +19,9 @@ The notebooks containing the minutes were transcribed by members of the 2017-201
 
 {::comment}
 CHANGETHIS Link
-[Minute Book, 1892-1893](https://elizajames.github.io/WLCB_draft/1892_1893.html)
 
 {:/comment}
-[Minute Book, 1892-1893](/1892_1893.html)
+[Minute Book, 1892-1893](https://elizajames.github.io/WLCB_draft/1892_1893.html)
 
 
 
