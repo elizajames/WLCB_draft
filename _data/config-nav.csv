@@ -1,7 +1,9 @@
 display_name,stub,dropdown_parent
-Home,/
-Virtual Library,/browse.html
-Records,/records.html
-Timeline,/timeline.html
-Data,/data.html
-About,/about.html
+Home,/,
+Virtual Library,/browse.html,
+Records,,
+Timeline,/timeline.html,
+Data,/data.html,
+About,/about.html,
+Meeting Minutes,/meeting_minutes.html,Records
+Programs,/programs.html,Records

@@ -1,11 +1,8 @@
 ---
-title: Club Records
+title: Meeting Minutes
 layout: about
-permalink: /records.html
+permalink: /meeting_minutes.html
 ---
-
-{% include feature/nav-menu.html sections="Meeting Minutes;Programs" %}
-
 ## Meeting Minutes
 
 The Woman's Literature Club of Baltimore papers at the Maryland Historical Society include over 3,000 pages of minutes of Club meetings recorded between 1890 and 1920. Although the Club continued to exist through the 1930s, minutes for the 1920-1941 period are no longer extant.
@@ -22,8 +19,10 @@ The notebooks containing the minutes were transcribed by members of the 2017-201
 
 {::comment}
 CHANGETHIS Link
-{:/comment}
 [Minute Book, 1892-1893](https://elizajames.github.io/WLCB_draft/1892_1893.html)
+
+{:/comment}
+[Minute Book, 1892-1893](/1892_1893.html)
 
 
 
