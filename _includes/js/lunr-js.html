@@ -27,7 +27,7 @@ var idx = lunr(function () {
 
 /* search function */
 function lunr_search () {
-  var urls_to_exclude = ["/records.html", null];
+  var urls_to_exclude = ["/records.html", null, "/objects/","/item.html"];
   var resultdiv = $('#lunrResults');
   var query = $('#lunrSearchBox').val();//.toLowerCase();
   /* basic search that supports operators */
@@ -45,8 +45,6 @@ function lunr_search () {
         }
       })
     });*/
-    /*REMOVE RESULTS WHERE ID=NULL*/
-    /*FIX LINKS FOR PAGES MAYBE AFTER for (var item in result) {?*/
   resultdiv.empty();
   var temp_length = result.length;
   for (var item in result){
