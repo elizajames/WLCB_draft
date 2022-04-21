@@ -27,6 +27,7 @@ var idx = lunr(function () {
 
 /* search function */
 function lunr_search () {
+  var urls_to_exclude = ["/records.html", null];
   var resultdiv = $('#lunrResults');
   var query = $('#lunrSearchBox').val();//.toLowerCase();
   /* basic search that supports operators */
@@ -47,8 +48,14 @@ function lunr_search () {
     /*REMOVE RESULTS WHERE ID=NULL*/
     /*FIX LINKS FOR PAGES MAYBE AFTER for (var item in result) {?*/
   resultdiv.empty();
-  resultdiv.prepend('<tr><td><h4 class="mt-3">' + result.length + ' Result(s) found</h4></td></tr>');
-  urls_to_exclude = ["/records.html", null];
+  var temp_length = result.length;
+  for (var item in result){
+    var ref = result[item].ref;
+    if (urls_to_exclude.includes(store[ref].id)){ 
+      temp_length -= 1;
+    }
+  }
+  resultdiv.prepend('<tr><td><h4 class="mt-3">' + temp_length + ' Result(s) found</h4></td></tr>');
   for (var item in result) {
     var ref = result[item].ref;
     if (!(urls_to_exclude.includes(store[ref].id))){
