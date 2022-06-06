@@ -106,7 +106,7 @@ permalink: /bios.html
     <tr>
     <td><a href="https://elizajames.github.io/WLCB_draft/"><img src="https://elizajames.github.io/WLCB_draft/assets/img/LetitiaWrenshall.jpg" alt="Letitia Humphreys Yonge Wrenshall"><br />Letitia Humphreys Yonge Wrenshall</a></td>
     <td><a href="https://elizajames.github.io/WLCB_draft/"><img src="https://elizajames.github.io/WLCB_draft/assets/img/NoBioImage.jpg" alt="Jane Zacharias"><br />Jane Zacharias</a></td>
-    <td></a></td>
-    <td></a></td>
+    <td></td>
+    <td></td>
 </tr>
 </table>
