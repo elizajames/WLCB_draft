@@ -30,53 +30,7 @@ permalink: /blog.html
 
 [**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 25, 2018
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 19, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 14, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 12, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 12, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 12, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 12, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 11, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 11, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 11, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 11, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 10, 2018
-
 [**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 28, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 27, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 26, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 26, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 26, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 25, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 25, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 25, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 25, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 25, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 25, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 25, 2018
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 19, 2018
 
 [**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 13, 2018
 
