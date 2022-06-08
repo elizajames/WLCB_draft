@@ -11,19 +11,13 @@ permalink: /blog.html
 
 ## 2019
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, December 21, 2019
+[*A Christmas poem from Elizabeth Latimer*](https://elizajames.github.io/WLCB_draft/2019-12-21.html) by Jean Lee Cole, December 21, 2019
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, December 15, 2019
+[*A Living Counterpart to the WLCB*](https://elizajames.github.io/WLCB_draft/2019-10-20.html) by Jean Lee Cole, October 20, 2019
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, October 20, 2019
+[*Why the WLCB opposed suffrage*](https://elizajames.github.io/WLCB_draft/2019-08-19.html) by Jean Lee Cole, August 19, 2019
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, October 9, 2019
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, August 19, 2019
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, July 29, 2019
-
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 7, 2019
+[*Haughton & Haughton, dressmakers to the (Baltimore) stars*](https://elizajames.github.io/WLCB_draft/2019-03-07.html) by Jean Lee Cole, March 7, 2019
 
 
 ## 2018

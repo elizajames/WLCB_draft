@@ -22,14 +22,14 @@ permalink: /bios.html
 <tr>
     <td><a href="https://elizajames.github.io/WLCB_draft/EmilyAtwater.html"><img src="https://elizajames.github.io/WLCB_draft/assets/img/EmilyAtwater.jpg" alt="Emily Paret Atwater"><br />Emily Paret Atwater</a></td>
     <td><a href="https://elizajames.github.io/WLCB_draft/OctaviaBates.html"><img src="https://elizajames.github.io/WLCB_draft/assets/img/OctaviaBates.jpg" alt="Octavia Williams Bates"><br />Octavia Williams Bates</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/"><img src="https://elizajames.github.io/WLCB_draft/assets/img/VirginiaBowie.jpg" alt="Virginia Berkley Bowie"><br />Virginia Berkley Bowie</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/"><img src="https://elizajames.github.io/WLCB_draft/assets/img/NoBioImage.jpg" alt="Emma Fenwick Brent"><br />Emma Fenwick Brent</a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/VirginiaBowie.html"><img src="https://elizajames.github.io/WLCB_draft/assets/img/VirginiaBowie.jpg" alt="Virginia Berkley Bowie"><br />Virginia Berkley Bowie</a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/EmmaBrent.html"><img src="https://elizajames.github.io/WLCB_draft/assets/img/NoBioImage.jpg" alt="Emma Fenwick Brent"><br />Emma Fenwick Brent</a></td>
 </tr>
 <tr>
-    <td><a href="https://elizajames.github.io/WLCB_draft/"><img src="https://elizajames.github.io/WLCB_draft/assets/img/MargaretBriscoe.jpg" alt="Margaret Sutton Briscoe"><br />Margaret Sutton Briscoe</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/"><img src="https://elizajames.github.io/WLCB_draft/assets/img/NoBioImage.jpg" alt="Caroline Canfield Bullock"><br />Caroline Canfield Bullock</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/"><img src="https://elizajames.github.io/WLCB_draft/assets/img/LucyCautley.jpg" alt="Lucy Randolph Cautley"><br />Lucy Randolph Cautley</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/"><img src="https://elizajames.github.io/WLCB_draft/assets/img/VirginiaCloud.jpg" alt="Virginia Woodward Cloud"><br />Virginia Woodward Cloud</a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft//MargaretBriscoe.html"><img src="https://elizajames.github.io/WLCB_draft/assets/img/MargaretBriscoe.jpg" alt="Margaret Sutton Briscoe"><br />Margaret Sutton Briscoe</a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/CarolineBullock.html"><img src="https://elizajames.github.io/WLCB_draft/assets/img/NoBioImage.jpg" alt="Caroline Canfield Bullock"><br />Caroline Canfield Bullock</a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft//LucyCautley.html"><img src="https://elizajames.github.io/WLCB_draft/assets/img/LucyCautley.jpg" alt="Lucy Randolph Cautley"><br />Lucy Randolph Cautley</a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/VirginiaCloud.html"><img src="https://elizajames.github.io/WLCB_draft/assets/img/VirginiaCloud.jpg" alt="Virginia Woodward Cloud"><br />Virginia Woodward Cloud</a></td>
 </tr>
 <tr>
     <td><a href="https://elizajames.github.io/WLCB_draft/"><img src="https://elizajames.github.io/WLCB_draft/assets/img/NoBioImage.jpg" alt="Mary Noyes Colvin"><br />Mary Noyes Colvin</a></td>
