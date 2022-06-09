@@ -78,16 +78,16 @@ permalink: /blog.html
 
 [**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 27, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 22, 2017
+[*Motives Behind Giving*](https://elizajames.github.io/WLCB_draft/2017-06-22-motives.html) by Katie Kazmierski, June 22, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 22, 2017
+[*Club and Their Associations*](https://elizajames.github.io/WLCB_draft/2017-06-22-club.html) by Ellen Roussel, June 22, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 22, 2017
+[*Halls of Memory*](https://elizajames.github.io/WLCB_draft/2017-06-22.html) by Hunter Flynn, June 22, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 21, 2017
+[*Programs, Revisited*](https://elizajames.github.io/WLCB_draft/2017-06-21.html) by Clara Love, June 21, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 15, 2017
+[*Forming Their Identity*](https://elizajames.github.io/WLCB_draft/2017-06-15-forming.html) by Sydney Johnson, June 15, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 15, 2017
+[*Snippets from Nine Years of Club Programs*](https://elizajames.github.io/WLCB_draft/2017-06-15-snippets.html) by Clara Love, June 15, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 14, 2017
+[*American Identity*](https://elizajames.github.io/WLCB_draft/2017-06-14.html) by Hunter Flynn, June 14, 2017

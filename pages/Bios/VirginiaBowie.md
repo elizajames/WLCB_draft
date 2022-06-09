@@ -22,4 +22,4 @@ Frederick Schoenfeld
 
 "Leading Society Folk Who Will Appear in the Chinese Musical Comedy at Lehmann's Hall." *Baltimore Sun*, Sunday, March 3, 1906: 7.
 
-[View Bowies's Works](https://elizajames.github.io/WLCB_draft/browse.html#bowie)
+[View Bowie's Works](https://elizajames.github.io/WLCB_draft/browse.html#bowie)
