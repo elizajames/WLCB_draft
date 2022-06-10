@@ -60,23 +60,23 @@ permalink: /blog.html
 
 [**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, July 18, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, July 16, 2017
+[*Women’s education in Baltimore: Goucher & Lutherville*](https://elizajames.github.io/WLCB_draft/017-07-16-womens.html) by Hunter Flynn, July 16, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, July 16, 2017
+[*Germans at Lehmann’s Hall*](https://elizajames.github.io/WLCB_draft/2017-07-16-germans.html) by Jean Lee Cole, July 16, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, July 13, 2017
+[*Lehmann’s Hall–What are you?*](https://elizajames.github.io/WLCB_draft/2017-07-13.html) by Ellen Roussel, July 13, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, July 13, 2017
+[*Titles, Texts, and Some Sapphic Poems*](https://elizajames.github.io/WLCB_draft/2017-07-13-titles.html) by Clara Love, July 13, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, July 12, 2017
+[*What was the Edgar Allan Poe Memorial Association?*](https://elizajames.github.io/WLCB_draft/2017-07-12.html) by Katie Kazmierski, July 12, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 29, 2017
+[*Shortchanging the Janitress*](https://elizajames.github.io/WLCB_draft/2017-06-29-shortchanging.html) by Ellen Roussel, June 29, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 29, 2017
+[*It’s 1909 and I smell drama*](https://elizajames.github.io/WLCB_draft/2017-06-29-its-1909.html) by Katie Kazmierski, June 29, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 28, 2017
+[*Publication*](https://elizajames.github.io/WLCB_draft//2017-06-28.html) by Clara Love, June 28, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, June 27, 2017
+[*Language and Education*](https://elizajames.github.io/WLCB_draft/2017-06-27.html) by Hunter Flynn, June 27, 2017
 
 [*Motives Behind Giving*](https://elizajames.github.io/WLCB_draft/2017-06-22-motives.html) by Katie Kazmierski, June 22, 2017
 
