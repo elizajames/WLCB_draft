@@ -22,43 +22,43 @@ permalink: /blog.html
 
 ## 2018
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, May 22, 2018
+[*Endings and sequels*](https://elizajames.github.io/WLCB_draft/2018-05-22.html) by Jean Lee Cole, May 22, 2018
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, May 7, 2018
+[*The Salon at last!*](https://elizajames.github.io/WLCB_draft/2018-05-07.html) by Jean Lee Cole, May 7, 2018
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, April 2, 2018
+[*More from the slush pile*](https://elizajames.github.io/WLCB_draft/2018-04-02.html) by Jean Lee Cole, April 2, 2018
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, March 25, 2018
+[*The Slush Pile*](https://elizajames.github.io/WLCB_draft/2018-03-25.html) by Jean Lee Cole, March 25, 2018
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 28, 2018
+[*Ellen Duvall: A look at the whole person*](https://elizajames.github.io/WLCB_draft/2018-02-28.html) by Katie Kazmierski, February 28, 2018
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, February 13, 2018
+[*Contemporary Critics*](https://elizajames.github.io/WLCB_draft/2018-02-13.html) by Jean Lee Cole, February 13, 2018
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, January 23, 2018
+[*Hey hey, the class begins!*](https://elizajames.github.io/WLCB_draft/2018-01-23.html) by Jean Lee Cole, January 23, 2018
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, January 8, 2018
+[*The House of Mirth … at last*](https://elizajames.github.io/WLCB_draft/2018-01-08.html) by Jean Lee Cole, January 8, 2018
 
 ## 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, October 27, 2017
+[*Hurrah for volunteers!*](https://elizajames.github.io/WLCB_draft/2017-10-27.html) by Jean Lee Cole, October 27, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, October 5, 2017
+[*Bmore Historic Unconference!*](https://elizajames.github.io/WLCB_draft/2017-10-05.html) by Clara Love, October 5, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, August 17, 2017
+[*Meeting the Members—Henrietta Szold*](https://elizajames.github.io/WLCB_draft/2017-08-17.html) by Sydney Johnson, August 17, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, August 10, 2017
+[*Documenting the only voting these women were allowed to take part in because they lived, and we continue to live, in a patriarchal society*](https://elizajames.github.io/WLCB_draft/2017-08-10-documenting.html) by Ellen Roussel, August 10, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, August 10, 2017
+[*Peaceful Politics?*](https://elizajames.github.io/WLCB_draft/2017-08-10-peaceful.html) by Clara Love, August 10, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, August 3, 2017
+[*Arguing for Creative Ability in Women by Ignoring the Topic*](https://elizajames.github.io/WLCB_draft/2017-08-03.html) by Ellen Roussel, August 3, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, July 31, 2017
+[*An Obscurity among Obscurities, Miss Laura de Valin*](https://elizajames.github.io/WLCB_draft/2017-07-31.html) by Jean Lee Cole, July 31, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, July 27, 2017
+[*Consistency, Thou Art a Jewel*](https://elizajames.github.io/WLCB_draft/2017-07-27.html) by Clara Love, July 27, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, July 25, 2017
+[*Getting to the bottom of Lanier’s burial*](https://elizajames.github.io/WLCB_draft/2017-07-25.html) by Hunter Flynn, July 25, 2017
 
-[**](https://elizajames.github.io/WLCB_draft/) by Jean Lee Cole, July 18, 2017
+[*A Moment in Time/What Kind of Legacy?*](https://elizajames.github.io/WLCB_draft/2017-07-18.html) by Clara Love, July 18, 2017
 
 [*Women’s education in Baltimore: Goucher & Lutherville*](https://elizajames.github.io/WLCB_draft/017-07-16-womens.html) by Hunter Flynn, July 16, 2017
 
