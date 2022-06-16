@@ -1,11 +1,13 @@
+﻿---
+layout: page
+title: 1892-1893 meeting minutes
+permalink: /minutes/
+
 ---
-title: 1892-1893 Minutes
-layout: about
-permalink: /1892_1893.html
----
+
 ### SEPT. 27, 1892-MAY 20, 1893
 
-Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3
+Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3, book dated Mar. 19, 1890-Nov. 29, 1892
 
 [172]
 
@@ -50,7 +52,7 @@ We were reminded that there is no clause in our Constitution providing for the f
 
 The two suggested amendments will be proposed and voted upon at a subsequent meeting.
 
-The President then read a letter from Miss [Charlotte Dellacklot] Thompson, the very efficient Treasurer of the Club, resigning her office, giving us her reason that she was about to begin a regular collegiate course of study, and had gone to enter Bryn Mawr College. A further letter to Mrs. [Francese Litchfield] Turnbull was read, sending vouchers and letters from her bankers to the President and first Vice President. The President said that this vacancy might now be regularly filled, but that the whole question of Miss Thompson's successor could be deferred until the meeting of next Tuesday.
+The President then read a letter from Miss [Charlotte de Macklot] Thompson, the very efficient Treasurer of the Club, resigning her office, giving us her reason that she was about to begin a regular collegiate course of study, and had gone to enter Bryn Mawr College. A further letter to Mrs. [Francese Litchfield] Turnbull was read, sending vouchers and letters from her bankers to the President and first Vice President. The President said that this vacancy might now be regularly filled, but that the whole question of Miss Thompson's successor could be deferred until the meeting of next Tuesday.
 
 Mrs. Turnbull then announced that the first article of the programme related to a subject about which we shall certainly hear much during the coming year. It was a reading by Mrs. [Alice Emma Sauerwein] Lord from her "Drama of Christopher Columbus",--the Man of Destiny." She read parts of the 3rd and 5th Acts of her Drama.[^Vision] First, showing Columbus before the Junta at Grenada, pleading for the means and the authority to carry out his great ideas, and plans "for the glory of the nation and the Church."  Also, a love scene between Columbus and Beatrice Enriquez,--in a Moorish mosque, turned Christian Church,--in the midst of which the Queen sends to demand his presence immediately; and the conflict is depicted between love and ambition. Then Columbus is shown before Ferdinand and Isabella, defending the theory of the spherical shape
 [^Vision]: Lord published her play under the title _A Vision's Quest_ in 1899 with  Cushing & Company, Baltimore. [Full-text available online at Archive.org](https://archive.org/details/visionsquest00lord).
@@ -257,7 +259,7 @@ Miss Haughton seconded this motion; and it received an affirmative vote.
 
 [197]
 
-After some discussion a vote was taken on Miss Milnor's resolution--as amended--, on the filling of vacancies in the Board of Management; and it was carried; with only 2 votes against it.
+After some discussion a vote was taken on Miss [Mary Worthington] Milnor's resolution--as amended--, on the filling of vacancies in the Board of Management; and it was carried; with only 2 votes against it.
 
 Mrs. Graham then made the motion to proceed to the election of Corresponding Secretary.
 
@@ -336,7 +338,7 @@ And every winter change to spring."
 
 --struck the answering chord in our heaarts. Miss Reese also read to us: "In the Garden at Swainston."
 
-Miss Grace then read, in place of Mrs. [Eliza W.] Hoblitzell, who was not able to be present with us, an Article from "English Stems," by a Mr. Ward, written in 1853. He wrote of "Events in Greece"; and, in that connection, spoke of the "noble pilgrim" to Greece of thirty years before, and of the motives which inspired his sacrifice to that struggling nation. But he tells us that "ignorance of Byron is now considered a becoming thing;
+Miss Grace then read, in place of Mrs. [Priscilla Paca] Hoblitzell, who was not able to be present with us, an Article from "English Stems," by a Mr. Ward, written in 1853. He wrote of "Events in Greece"; and, in that connection, spoke of the "noble pilgrim" to Greece of thirty years before, and of the motives which inspired his sacrifice to that struggling nation. But he tells us that "ignorance of Byron is now considered a becoming thing;
 
 [203]
 
@@ -377,7 +379,7 @@ he says:--
 When I have crossed the Bar."
 </POETRY>
 
-Mrs [Francese Litchfield] Turnbull then gave us, very approximately, Sir Edwin Arnold's poem in answer to "Crossing the Bar," beginning with--
+Mrs. [Francese Litchfield] Turnbull then gave us, very approximately, Sir Edwin Arnold's poem in answer to "Crossing the Bar," beginning with--
 
 <POETRY>
 "No moaning of the Bar,"--
@@ -395,7 +397,7 @@ Our President also read Dr. Van Dyke's poem,--"In Lucem Transitus," telling that
 
 A request was made that the Introduction to ["]In Memoriam["] should be read;--which was done by Mrs. [Elizabeth Turner] Graham. Our meeting might have seemed incomplete, if that had been left out.
 
-After a few more of the most beautiful lines from the same poem;--Mrs. Turnbull told us that we had to regret the absence of Miss [Sarah Holland] Adams, who could have given us some of the pleasant experiences of her sister, Mrs. Fields;[^Fields]--the latter lady having twice visited Tennyson in his own home.
+After a few more of the most beautiful lines from the same poem;--Mrs. Turnbull told us that we had to regret the absence of Miss [Elizabeth] Adams, who could have given us some of the pleasant experiences of her sister, Mrs. Fields;[^Fields]--the latter lady having twice visited Tennyson in his own home.
 [^Fields]: Annie Adams Fields (1834-1915) was a writer and poet who became a prominent figure in the world of Boston publishing by virtue of being the second wife of James T. Fields of the Ticknor and Fields publishing company. After James Fields died in 1881, Annie Fields joined in domestic and emotional partnership with the writer Sarah Orne Jewett, in an arrangement commonly referred to as a "Boston marriage." Throughout her life, Fields promoted and facilitated the publication of women writers. 
 
 Mrs. Turnbull also read to us the last
@@ -463,7 +465,7 @@ She also told us of the remarkable Mexican woman--artist and poet--Doña Juana I
  
 She reminded us that the Art of a nation has a profound significance for us, when we study its history. Perhaps it may have the same [significance] when we try to study its destiny also.
 
-The next Article on our programme was a Review by Mrs. Miller of the late German novel, "Ground Arms,"--"Die Waffen Nieder"--, of which a German critic is reported to have said: It is not a book, it is an event."--[^Ground]
+The next Article on our programme was a Review by Mrs. [Maria W.] Miller of the late German novel, "Ground Arms,"--"Die Waffen Nieder"--, of which a German critic is reported to have said: It is not a book, it is an event."--[^Ground]
 [^Ground]: _Ground Arms!: The Story of a Life,_ by Bertha von Suttner (1843-1914) was published in 1892 in an English-language translation by Alice Asbury Abbott. Von Suttner was the first woman to be awarded the Nobel Peace Prize, in 1905. Miller quotes from Asbury's preface in her summarized remarks.
 
 Mrs. Miller told us that this novel is said to have produced as great a sensation in Germany as "Uncle Tom's Cabin" once did in America. The Author--Baroness Von Suttner, a noble Austrian woman,--had been known before this publication as the writer of two tender and witty society novels. But here she treats of the realities of war: making them tremendously
@@ -558,7 +560,7 @@ The announcement was made that the Meeting
 
 [216]
 
-of next Tuesday would be under the direction of the Committee on Fiction. Also, that Mrs. Miller had resigned the Chairmanship of this Committee; and that the President had been requested to accept it,--and had consented to do so. The programme for next Tuesday was also announced.
+of next Tuesday would be under the direction of the Committee on Fiction. Also, that Mrs. [Maria W.] Miller had resigned the Chairmanship of this Committee; and that the President had been requested to accept it,--and had consented to do so. The programme for next Tuesday was also announced.
 
 Announcement was made of the Literary Lectures of Miss Claudia Stuart.
 
@@ -637,7 +639,7 @@ Miss Grace showed us some interesting photographs and some beautiful, fine embro
 
 She also, afterwards, showed us a little printed book in the Basque language;--reminding us that Basque is a language, and not a dialect. It was a rare and curious thing, and probably new to most of us.
 
-The next Article on our programme was: "The Tramp Problem, as it is Met in Baltimore," by Miss Margaret Briscoe.[^Briscoe]
+The next Article on our programme was: "The Tramp Problem, as it is Met in Baltimore," by Miss Margaret [Sutton] Briscoe.[^Briscoe]
 [^Briscoe]: "The Tramp Problem in Baltimore" was published in the _Christian Union_ in the Aug. 26, 1892 edition.
 
 She spoke of the finely illustrated edition of the Persian poem "Omar K[h]ayyam"; and of that illustration,--which surely all who have seen it will remember,--of human hands, helpless and appealing, striving to uplift themselves; with the lines of a sort of net-work over and through them, of which we can not tell whether they are the cords on which to hold and limb upward; or the bands to bind them down.
@@ -677,7 +679,7 @@ The meeting adjourned.
 
 The 64th General Meeting of the Woman's Literary Club of Baltimore was held on Tuesday afternoon, November 15th, 1892, at No. 12 East Centre Street.
 
-There were several guests present; including Miss Litchfield [Grace Denio Litchfield], and Mrs Joh[n?] Stewart.
+There were several guests present; including Miss Litchfield [Grace Denio Litchfield], and Mrs. Joh[n?] Stewart.
 
 The President called the Meeting to order. The Recording Secretary read the Minutes of the previous Meeting, on November 8th.
 
@@ -766,7 +768,7 @@ The Recording Secretary read the Minutes of the Meeting of November 15th;--which
 It was announced that Mrs. Johnson, the lady who has the responsible position of superintendent, of the prison for women at Sherborn, Massachusetts,[^MRW] will be in Baltimore at the approaching Prison Reform Congress; and that our fellow member, Mrs.  [M. N.] Perry, will open her parlors,--920 Madison Avenue,--on Tuesday, November 29th at half past 11 A.M., to those of us who wish to meet Mrs. Johnson; and will be glad to have the members of the Club avail themselves of the opportunity to make that lady’s acquaintance.
 [^MRW]: The Massachusetts Reformatory for Women opened in Sherborn, MA in 1877. It is now known as the Massacusetts Correctional Institution-Framingham. Clara Barton served as superintendent of the prison for nine months in 1883 and was replaced by Ellen Johnson, discussed at this meeting.
 
-Miss [Sarah Holland] Adams was requested to tell us something more about Mrs. [Ellen] Johnson, and her work. Miss Adams spoke of a visit of three days she had made to see this prison--exclusively for women,--not for the worst criminals of the sex,--but for women convicted of minor offenses,--such as drunken[n]ess, and similar transgressions.
+Miss [Elizabeth] Adams was requested to tell us something more about Mrs. [Ellen] Johnson, and her work. Miss Adams spoke of a visit of three days she had made to see this prison--exclusively for women,--not for the worst criminals of the sex,--but for women convicted of minor offenses,--such as drunken[n]ess, and similar transgressions.
 
 In the last fifteen years, the institution has been wonderfully successful in its work of preserving women, who may have just turned into a downward course, from sinking any lower; and giving them a chance to rise to something higher and better. The place is home-like, and the inmates take an interest in the work done there;--such word as wash-
 
@@ -888,7 +890,7 @@ Mrs. Graham then announced that a meeting of all those who are interested in the
 
 Mrs. [Mary Noyes] Colvin moved that we now adjourn; in order to attend the Meeting at the Christian Association Building. She also said she hoped as many of us as possible would attend that Meeting.
 
-Miss [Mary F.] Grace spoke of our wish to hear the Articles of Mrs. Whitelock and Miss [Maria H.] Middleton appointed to be read at this Meeting of our Club.
+Miss [Mary F.] Grace spoke of our wish to hear the Articles of Mrs. George [Louise Clarkson] Whitelock and Miss [Maria H.] Middleton appointed to be read at this Meeting of our Club.
 
 Mrs. Colvin and Mrs. Graham said they hoped to hear these Articles on a future occasion.
 
@@ -937,7 +939,7 @@ We enjoyed the characteristic words and actions of the lady and her guide, havin
 
 in love use their own tongues."  It is Bulwer Lytton who says: "Persons in the higher ranks of society, so exposed to _ennui,_ are either rendered totally incapable of real love,--or they love far more intensely than those in a lower station".
 
-Our next Article was by Miss Middleton, and was on: "Time and Time-pieces."
+Our next Article was by Miss [Maria H.] Middleton, and was on: "Time and Time-pieces."
 
 She spoke of the earliest times and time pieces;--of the heavenly bodies, "set to rule over the day, and over the night,"--of the old myth of Saturn, or Chronos, offspring of Heaven and Earth,--of the measurement of time by the stars, as they became or ceased to be visible in the heavens,--of the Chaldeau shepherds, with their early Astronomy,--of the clepsydra, and of the sun-dials used by the monks in the 12th century,--of the altar at Stonehenge,--of the candles and lanterns of the middle ages,--on to the days of Galileo and to more modern times,--down to the highly improved clocks and watches of the present day.
 
@@ -945,7 +947,7 @@ Then leaving the time measurers, Miss Middleton took up time itself, in its eart
 
 She closed by reading a poem by Charles Stuart Calverly on Forever. "Forever," he said, "is now one word, but our rude forefathers deemed it two";--and, after dwelling on the meaning and spirit of the word, with humor and pathos, he says he is not altogether sure that our ancestors erred in dividing it.
 
-Miss Piggot next gave us a poem of her own, formerly read before the "Lend a Hand Club" of Mt. Washington. It was called: "How Queen Isabella Lent a Hand."
+Miss [Margaret Moore] Piggot next gave us a poem of her own, formerly read before the "Lend a Hand Club" of Mt. Washington. It was called: "How Queen Isabella Lent a Hand."
 
 She described a certain Christopher Columbus,
 
@@ -969,6 +971,8 @@ End of 66th Meeting.
 
 [MS 988, Box 3, Book 2]
 
+Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3, book dated Dec. 6, 1892-Dec. 19, 1893
+
 [ii]
 
 ### Woman's Literary Club of Baltimore.
@@ -977,7 +981,6 @@ End of 66th Meeting.
 
 ### December 6th 1892 to December 19th 1893[^LC note1]
 [^LC note1]: Crane's note: The first volume contained the records of General Meetings and Meetings of the Board of Management also. It has now been thought better to separate them; and this volume is to contain only the Minutes of General Meetings.
-
 
 
 [1]
@@ -1284,7 +1287,7 @@ _"Woman's Literary Club_.--In honor of the holiday season the rooms of the Woman
 
 [19]
 
-mistletoe and evergreens, and the afternoon was spent in informed conversation and in the enjoyment of refreshments. The only paper read was by Miss Margaret Piggott, whose subject was: "A War-Time Christmas in a North Carolina Plantation." Miss Piggott's father was a commandant of the Confederate State's Medical Laboratory near Lincolnton, North Carolina. An amusing description was given of the Christmas feast, over which the guests made merry, notwithstanding the fact that its principal features were cakes made of sorghum molasses, and egg-flip made of brandy distilled from persimmons or of rum from the sorghum molasses, and the modest meal illuminated by candles made by the hostess herself, with wicks plaited by her little children.
+mistletoe and evergreens, and the afternoon was spent in informed conversation and in the enjoyment of refreshments. The only paper read was by Miss Margaret [Moore] Piggott, whose subject was: "A War-Time Christmas in a North Carolina Plantation." Miss Piggott's father was a commandant of the Confederate State's Medical Laboratory near Lincolnton, North Carolina. An amusing description was given of the Christmas feast, over which the guests made merry, notwithstanding the fact that its principal features were cakes made of sorghum molasses, and egg-flip made of brandy distilled from persimmons or of rum from the sorghum molasses, and the modest meal illuminated by candles made by the hostess herself, with wicks plaited by her little children.
 
 A number of gifts of books were received yesterday by the Club, including Cardinal [James] Gibbons's "Faith of our Fathers" and "Our Christian Heritage," presented and inscribed by the author, "Goth's Tales of the Chesapeake" and "Mrs. Reynolds and Hamilton," presented by the author "Goth," (George Alfred Townsend,) and Mrs. M. [Marguerite] E. Easter's volume of poems "Clytie."
 
@@ -1303,14 +1306,14 @@ The Corresponding Secretary filling temporarily the place of the Recording Secre
 
 Announcement was made that the semi-annual meeting of the Executive Board for the consideration of names presented for membership was postponed until January 10th;--no names having been officially received.
 
-It was moved by Miss [Mary F.] Grace that a resolution of sympathy be passed and tendered to the Recording Secretary in her bereavement. This resolution, seconded by Mrs. [Henry H.] Eames, and carried, was duly formed and forwarded by the Corresponding Secretary.
+It was moved by Miss [Mary F.] Grace that a resolution of sympathy be passed and tendered to the Recording Secretary in her bereavement. This resolution, seconded by Mrs. [Caroline S.] Eames, and carried, was duly formed and forwarded by the Corresponding Secretary.
 
 Miss [Edith] Duer then moved that an alteration be made in Article IV, Section 5 of the Constitution, and Mrs. [Rebecca] Griffin suggested an amendment.[^IV]
 [^IV]: This section of the Club constitution appears to have involved the methods by which new members would be voted in.
 
 This matter was carried over to be proposed and voted upon at the next meeting of the Club on January 10th.
 
-The first literary article of the programme was by Mrs. [John A.] Sloan. It gave a careful and artistic account of "The Influence of Egyptian and Assyrian Art upon the Greeks."  It treated of the Country's geographical disadvantages, physical limitations, and necessary conservatism, evolving eventual[l]y that marvellous sculpture which is still young today to its wisest interpreters.
+The first literary article of the programme was by Mrs. [Morton Wortham] Sloan. It gave a careful and artistic account of "The Influence of Egyptian and Assyrian Art upon the Greeks."  It treated of the Country's geographical disadvantages, physical limitations, and necessary conservatism, evolving eventual[l]y that marvellous sculpture which is still young today to its wisest interpreters.
 
 The second paper was presented by Miss [Alice] Morison, and was a thorough and interesting description of "The Temple of Mike Apteros, and its relation to Greek Architecture."
 
@@ -1369,7 +1372,7 @@ The President announced that some complimentary tickets had been sent to the Clu
 
 A letter was presented by Mrs. [Gertrude Pierce] Easby conveying an Invitation from the New Century Club of Wilmington, Delaware to the Woman's Literary Club of Baltimore, to a Literary Entertainment and Reception, on the occasion of the Opening of the new Club House of the New Century Club on the 31st of January.
 
-They hope to have present two or more representatives from each of ten or twelve literary clubs. It was proposed that Mrs. Easby, who is a member of our Club, and also one of the Club in Wilmington, and at least one other one of our members, should accept this polite invitation, as the delegates or representatives of our Club. Various names were proposed, including those of Mrs. [Francese Litchfield] Turnbull, Mrs. [Louise C.] Haman, Miss [Sarah Holland] Adams, Mrs. [Rebecca] Griffin and Mrs. [W. Woolsey] Johnson. Mrs. Johnson agreed to accept the invitation; and it was expected that Miss [Mary Wilcox] Brown would also be able to do so.
+They hope to have present two or more representatives from each of ten or twelve literary clubs. It was proposed that Mrs. Easby, who is a member of our Club, and also one of the Club in Wilmington, and at least one other one of our members, should accept this polite invitation, as the delegates or representatives of our Club. Various names were proposed, including those of Mrs. [Francese Litchfield] Turnbull, Mrs. [Louise C.] Haman, Miss [Elizabeth] Adams, Mrs. [Rebecca] Griffin and Mrs. [Susanna] Johnson. Mrs. Johnson agreed to accept the invitation; and it was expected that Miss [Mary Wilcox] Brown would also be able to do so.
 
 The first Article on our Programme was by Mrs. [Letitia Humphreys Yonge] Wrenshall on "The American Mounds and Mound-Builders." It was finely illustrated by drawings and maps. Mrs. Wrenshall had herself seen the mounds lately opened at Macon, Georgia.
 
@@ -1440,7 +1443,7 @@ It is perhaps a little unfortunate that our Salon this month takes place on the 
 
 [28]
 
-as the anniversary meeting at Wilmington, as at this Salon, Mrs. [Rebecca] Griffin and Mrs. [Letitia Humphreys Yonge] Wrenshall are expected to preside over the discussion of the very interesting papers given to us by them on January 17th. Mrs. Miller and Mrs. Backus might however be inclined to visit us, and perhaps to contribute to our entertainment during the next few weeks.
+as the anniversary meeting at Wilmington, as at this Salon, Mrs. [Rebecca] Griffin and Mrs. [Letitia Humphreys Yonge] Wrenshall are expected to preside over the discussion of the very interesting papers given to us by them on January 17th. Mrs. [Maria W.] Miller and Mrs. Backus might however be inclined to visit us, and perhaps to contribute to our entertainment during the next few weeks.
 
 Mrs. [Annie Leakin] Sioussat, from the Committee appointed to consider the resolution for amending the Constitution, in Article V. Section 5., reported that only some little progress had been made; one member of their Committee having been absent from their deliberations, they could not make a full report to the Club at this time; but that if the numbers of the Committee were full in the future, they would do so at a later meeting.
 
@@ -1549,7 +1552,7 @@ The Library Record was open for the first time.
 
 Letters were read from Mrs. Olive Thorne Miller and Mrs. Florence Earle Coates,-- the latter expressing her pleasure at having been elected an Honorary Member of the Club.
 
-An Invitation was received from the “Lend a Hand Club[“] of Mt. Washington to our members, for February 1st;-- Mrs. Olive Thorne Miller being the guest of honor on that day. The names of the seven new members voted by the Board of Management on January 10th, and read to the Club on the same day was again read. These names were: Miss Cewas,-- Miss [Lucy] Cousins,-- Miss [Imogen] George,-- Mrs. [Thomas] Morris,-- Miss [Pauline Covington] Rust,-- Mrs. Frederick [Florence McIntyre] Tyson,-- and Miss [Henrietta] Wilmer. After refreshments and conversation, the meeting adjourned.
+An Invitation was received from the “Lend a Hand Club[“] of Mt. Washington to our members, for February 1st;-- Mrs. Olive Thorne Miller being the guest of honor on that day. The names of the seven new members voted by the Board of Management on January 10th, and read to the Club on the same day was again read. These names were: Miss Cewas,-- Miss [Lucy] Comins,-- Miss [Imogen] George,-- Mrs. [Thomas] Morris,-- Miss [Pauline Covington] Rust,-- Mrs. Frederick [Florence McIntyre] Tyson,-- and Miss [Henrietta] Wilmer. After refreshments and conversation, the meeting adjourned.
 
 [38]
 
@@ -1561,11 +1564,11 @@ The President called the meeting to order; and the Recording Secretary read the 
 
 The President announced that we were to have this afternoon a visit from Miss Julia Marlowe; -- also that Mr. Ford had sent to the Club some fine photographs of Miss Marlowe, taken in her different dramatic characters.
 
-The President then requested the new members present to come forward, and be presented to the Club. Miss Cenas, Mrs. [Florence McIntyre] Tyson and Miss [Lucy] Cousins complied with this request.
+The President then requested the new members present to come forward, and be presented to the Club. Miss Cenas, Mrs. [Florence McIntyre] Tyson and Miss [Lucy] Comins complied with this request.
 
 The President then read the Club’s Certificate of the Membership. She said that some persons had objected to its statements with regard to our aims and efforts as a Club,--thinking them entirely too serious. But, as we had only two hours to be together in each week, we did not know how to do better than to be helpful to each other.
 
-The President then announced that this meeting was to be under the direction of Miss [Sarah Holland] Adams, the chairman of the Committee on Art.
+The President then announced that this meeting was to be under the direction of Miss [Elizabeth] Adams, the chairman of the Committee on Art.
 
 The first Article on the Programme was by Miss [Annie C.] Volck, and was called “Chips from Blocks, Old and New.” Miss Volck told
 
@@ -1692,7 +1695,7 @@ We were told of the oyster-tonging; -- and of the new branches of industry, wher
 
 We could join with Miss Dorsey in hoping that, if Maryland can not have her Nelson Page or Craddock, some Maryland woman may yet gather our native violets, may yet show the beauties of the State we love.
 
-The next reading was by Mrs. Whitelock, of a story of her own. It was called: “Love’s House, a Thought Materialization.”[^love2]
+The next reading was by Mrs. George [Louise Clarkson] Whitelock, of a story of her own. It was called: “Love’s House, a Thought Materialization.”[^love2]
 [^love2]: This story was to have been presented at the Oct. 11, 1892 meeting. It was published in _A Mad Madonna and Other Stories_ (Boston: Joseph Knight, 1895) and an excerpt is also included in _Parole Femine: Words and Lives of the WLCB_ (Baltimore: Apprentice House, 2019).
 
 She painted two young lovers -- like two young birds -- marrying in the spring, and building and furnishing the house for themselves, -- and Love, -- to dwell in. There is a mother-in-law, and a fair young foster-sister of the wife, in the story. Through he first, perhaps consciously, through the second, unconsciously, we are told, comes, or seems to come:
@@ -1779,7 +1782,7 @@ The President announced that the first article of the Business before us was the
 
 The Committee presented majority and minority Reports.
 
-The majority Report, signed by Mrs. [Louise Clarkson] Whitelock, Mrs. Hamman [Louise C. Haman], Mrs. William Woolsey Johnson, and Mrs. [Annie Leakin] Sioussat, announced; that: In their opinion it is not advisable at this time to adopt the proposed Amendment.”
+The majority Report, signed by Mrs. [Louise Clarkson] Whitelock, Mrs. Hamman [Louise C. Haman], Mrs. William Woolsey [Susanna] Johnson, and Mrs. [Annie Leakin] Sioussat, announced; that: In their opinion it is not advisable at this time to adopt the proposed Amendment.”
 
 The minority Report, signed by Miss Duer, said that: “She is in favor of adopting the Amendment proposed.”
 
@@ -1805,7 +1808,7 @@ The President called attention to the fact of our being now very late in the Clu
 
 and to the consideration we ought to give to our real and important work, -- the work for which we have our existence as a Club.
 
-After some discussion, in which Mrs. Colvin, Miss Duer, Mrs. [Caroline Canfield] Bullock and others took part, -- Mrs. [Robert] Atkinson asked the President herself: “if she really desired to postpone action on the subjects under discussion till the end of the year?”
+After some discussion, in which Mrs. Colvin, Miss Duer, Mrs. [Caroline Canfield] Bullock and others took part, -- Mrs. [Laura] Atkinson asked the President herself: “if she really desired to postpone action on the subjects under discussion till the end of the year?”
 
 On receiving an affirmative reply, Mrs. Atkinson said the -- “the wish of so acceptable a President ought certainly to have weight with us.[“]
 
@@ -1867,16 +1870,16 @@ January 26th, 1893.
 
 The majority Report was, as previously recorded, adopted, by a large majority, at the full meeting of the Club on February 21st, 1893.
 
-[Reception of the Academy of Sciences.[^Club room]
+### [Reception of the Academy of Sciences.[^Club room]
 [^Club room]: The Academy of Sciences would be the meeting place of the WLCB for the next two decades.
 
 On the evening of February 21st, 1893, the Academy of Sciences of Baltimore held a Reception to dedicate its new building on the corner of Franklin and Cathedral Streets.
 
 The Reception was held in the large room furnished and prepared by the Woman’s Literary Club; -- and the Club members were, of course, among the guests of the occasion.]
 
-### 22nd Salon. W.L.C. [February 28th, 1893], at the corner of Franklin and Cathedral Streets.
-
 [58]
+
+### 22nd Salon. W.L.C. [February 28th, 1893], at the corner of Franklin and Cathedral Streets.
 
 Being our first meeting in our new quarters, this Salon partook of the nature of a more general Reception than usual, as invitations were sent to a number of our friends, both ladies and gentlemen to be present.
 
@@ -1894,7 +1897,7 @@ A few words were said by the Reverend Dr. Leakin.
 
 [59]
 
-An animated discussion on “Woman’s Work and Wages” was carried on, in which Mrs. [Annie Leakin] Sioussat, Miss [Edith] Duer, Miss [Fanny] Hoffman, Miss Brown and others participated, with great interest.
+An animated discussion on “Woman’s Work and Wages” was carried on, in which Mrs. [Annie Leakin] Sioussat, Miss [Edith] Duer, Miss [Fanny] Hoffman, Miss [Mary Wilcox] Brown and others participated, with great interest.
 
 The President spoke of the efficient young Chairman of the Committee on Economics, and congratulated the Committee on the work that it had done.
 
@@ -1908,7 +1911,7 @@ The President, Mrs. [Francese Litchfield] Turnbull, called the meeting to order.
 
 The Recording Secretary read the Minutes of the two meetings on February 14th and February 21st; which were adopted.
 
-The President said a few words in reference to the meeting of last Friday, March 3rd, under the direction of the Committee on Economics, for which a general invitation had been extended to the whole Club; and at which an address had been given by Archdeacon Moran on “Women’s Guilds to aid Woman’s Work”; and the efforts made for their improvement. Mrs Turnbull went on to speak of the meetings of our Club Committee on Economics,
+The President said a few words in reference to the meeting of last Friday, March 3rd, under the direction of the Committee on Economics, for which a general invitation had been extended to the whole Club; and at which an address had been given by Archdeacon Moran on “Women’s Guilds to aid Woman’s Work”; and the efforts made for their improvement. Mrs. Turnbull went on to speak of the meetings of our Club Committee on Economics,
 
 [60]
 
@@ -1918,7 +1921,7 @@ Notice was also given of the meetings of the Committee on Fiction, on Friday mor
 
 The President then announced that the Programme for our meeting about to be held had been prepared by Miss [Lizette Woodworth] Reese, the Chairman of the Committee on Poetry; but that, to our great regret, Miss Reese was unable to be with us this afternoon, owing to the death of her brother. In deference to her, and her affliction, it had been concluded to postpone her programme until she could be with us again, and personally do justice to the care she had bestowed upon it.
 
-Miss Brown made a motion for the expression of our sympathy with Miss Reese in her present sorrow; which was adopted.
+Miss [Mary Wilcox] Brown made a motion for the expression of our sympathy with Miss Reese in her present sorrow; which was adopted.
 
 Mrs. Turnbull then read a poem by Miss Reese, which seemed appropriate to our thoughts of her on this occasion. It was called: "The Shepherd comes, the Shepherd goes,"--and tells us of the Good Shepherd, "who leads his happy sheep to pastures green and deep,”-- “whose call each one must wait”; and of the little lamb who followed him to the fold,”--all in Miss Reese’s own musically measured words.
 
@@ -2120,7 +2123,7 @@ After speaking of the libraries, and the readings, given to make these poor peop
 Miss [Virginia Woodward] Cloud, the Librarian, then announced the gift to the club of five volumes of the Works of the late Mrs. Almira Lincoln Phelps,[^Phelps] from her children—Judge Phelps, Miss Phelps, and Mrs. O’Brien. They had hoped to present all of their mother’s Works; but some of them were out of print, and inaccessible at present.
 [^Phelps]: Born in Connecticut in 1793, Almira Hart Lincoln Phelps (1793-1884) was a lifelong educator. She taught science classes at the Troy Female Seminary in New York (where her sister, Emma Hart Willard, served as principal) and authored several textbooks which entered widespread use. In 1841, she was appointed principal of the Patapsco Female Institute in what is now Ellicott City, MD, west of Baltimore in Howard County, a position she held until 1856. In addition to her science books, she authored two novels, _Caroline Westerly_ (1833) and _Ida Norman_ (1850). She resided in Baltimore until her death in 1884.
 
-The Club was also presented, by our fellow-member, Miss [Sarah Holland] Adams, with a Photograph she had secured in Venice, representing “The Last Home of Robert Browning.[”] The Meeting adjourned.
+The Club was also presented, by our fellow-member, Miss [Elizabeth] Adams, with a Photograph she had secured in Venice, representing “The Last Home of Robert Browning.[”] The Meeting adjourned.
 
 ### 23rd Salon. [March 28, 1893]
 
@@ -2300,21 +2303,23 @@ The Recording Secretary read the Minutes of the meeting of April 4th,--which wer
 
 The President announced that this meeting was to have been under the direction of Mrs. [Julia R.] Tutwiler, the Chairman of the Committee on the Florentine Commonwealth;--but, that she had just received a note telling her that Mrs. Tutwiler was unable to be present; and, to our great regret, her Article of the Programme, on Fillipo Strozzi, would have to be omitted.
 
-The first article given us was by Mrs. Edward H. [Rebecca] Griffin, and was: “A Few Words about Fra Angelico.” She spoke of having intended to give us at some time the result of a study of Michel Angelo, the great master; but that the time given her now was too short for so grand a subject. And sometimes it is well to look at those good and true and noble artists who are not the greatest masters in Art—to whom we make the lowest reverence;--but who are like natural, innocent children, or like fresh flowers, whose bloom we almost fear to injure by handling.
+The first article given us was by Mrs. Edward H. [Rebecca] Griffin, and was: “A Few Words about Fra Angelico.” She spoke of having intended to give us at some time the result of a study of Michel Angelo [Michaelangelo], the great master; but that the time given her now was too short for so grand a subject. And sometimes it is well to look at those good and true and noble artists who are not the greatest masters in Art—to whom we make the lowest reverence;--but who are like natural, innocent children, or like fresh flowers, whose bloom we almost fear to injure by handling.
 
 Of the early life of Fra Angelico we know little; but of his faith and spiritual nature his works have much to tell. After he had accepted the religious life, his allegiance to his vows was perfect. It is related of him that, when dining at the Pope’s table, he declined to eat meat, because his own Prior had not given him leave to do so. He sought for no honors; not
 
 [87]
 
-even those of the Church. When an archbishopric was offered to him, he asked that it might be given to his friend Antonino, whose devotion and charity made him worthy of the place. And Antonino,--in whose character our essayist found much in common with one who lived in our own time, Cardinal Newman,--was made an archbishop in place of Fra Angelico.
+even those of the Church. When an archbishopric was offered to him, he asked that it might be given to his friend Antonino, whose devotion and charity made him worthy of the place. And Antonino,--in whose character our essayist found much in common with one who lived in our own time, Cardinal [John Henry] Newman,--was made an archbishop in place of Fra Angelico.
 
-The flowers of Angelico’s art were flowers of Paradise;--he was a mystic, as truly so as Madame Guyon, or Thomas-a-Kempis;--in simple devotion to his ideals, he looked up from himself to his God. But he did not escape the pitfalls incident to his kind of treatment of Art; and on some minds his pure and spiritual work makes no impression.
+The flowers of Angelico’s art were flowers of Paradise;--he was a mystic, as truly so as Madame Guyon, or Thomas-a-Kempis;--in simple devotion to his ideals, he looked up from himself to his God.[^guyon] But he did not escape the pitfalls incident to his kind of treatment of Art; and on some minds his pure and spiritual work makes no impression.
+[^guyon]: Jeanne-Marie Bouvier de la Motte-Guyon (1648-1717), French mystic imprisoned for her book _A Short and Very Easy Method of Prayer_ (1685); Thomas á Kempis (1380-1471), author of _The Imitation of Christ_ (1441).
 
 Mrs. Griffin spoke of a painter of our own time, who paints nothing that does not show some spiritual beauty;--who, having agreed to paint a picture for a Club, was told that what was wanted was a portrait of President Arthur. He answered: “But he is only a handsome man.”
 
-We were told of the works of Giotto, and of those of Oreagno; and especially of a carving in stone by Oreagno representing the Death of the Virgin;--of which we were shown a beautiful reproduction.
+We were told of the works of Giotto, and of those of Orcagno [Orcagna]; and especially of a carving in stone by Orcagno [Orcagna] representing the Death of the Virgin;--of which we were shown a beautiful reproduction.[^orcagna]
+[^orcagna]: Probably a reference to Andrea de Cione Orcagna's _Death and Assumption of the Virgin_ (1359) in the Church of Orsanmichele, Florence, Italy.
 
-Our essayist spoke of Angelico as being all softness and resignation, instead of force; and yet as lacking none of the maximus of Art. If he is not first natural, then spiritual,--if he seems to begin with the latter quality,—still he is natural in his child-like faith.
+Our essayist spoke of Angelico as being all softness and resignation, instead of force; and yet as lacking none of the maxims of Art. If he is not first natural, then spiritual,--if he seems to begin with the latter quality,—still he is natural in his child-like faith.
 
 The message he gives might almost as well have been given by music. His gardens are of those never formed by man, his religious awe adheres to religious
 
@@ -2326,15 +2331,16 @@ Mrs. Griffin spoke of the “Last Judgement” of Michel Angelo as seeming to be
 
 “Michel Angelo,” continued our essayist, “seems as as strong as the elements in their power,--and Fra Angelico as beautiful as the flowers in the woods.”
 
-Our next article was by Miss [Emma Fenwick] Brent, on, “Two Italian Writers,--Petrarch and Bocaccio.” She spoke of the works done in the days that knew not paper and gunpowder, when the compas was not fully known to sailors, and the ships of the Northmen were directed by the flight of ravens, who were taken into the ship when it set sail, and let loose
+Our next article was by Miss [Emma Fenwick] Brent, on, “Two Italian Writers,--Petrarch and Bocaccio.” She spoke of the works done in the days that knew not paper and gunpowder, when the compas[s] was not fully known to sailors, and the ships of the Northmen were directed by the flight of ravens, who were taken into the ship when it set sail, and let loose
 
 [89]
 
-after the voyage began. But the orientals, the Chinese—Miss Brent’s favorite orientals—had long known of the compass, among other things of value; and they made long voyages,--even, it is not said to our own American coasts.
+after the voyage began. But the orientals, the Chinese—Miss Brent’s favorite orientals—had long known of the compass, among other things of value; and they made long voyages,--even, it is now said, to our own American coasts.
 
-In telling us of the rich and beautiful republic of Florence in the fourteenth century, Miss Brent spoke of the Florentine love of beauty in its various manifestations. She then of that time when, if Florence and De Medici were not convertible terms, a Medici might at least say: “I am the State.”
+In telling us of the rich and beautiful republic of Florence in the fourteenth century, Miss Brent spoke of the Florentine love of beauty in its various manifestations. She then [spoke] of that time when, if Florence and De Medici were not convertible terms, a Medici might at least say: “I am the State.”
 
-She told us of Petrarch, the son of an exile, much of whose life was passed away from his beloved Florence. Then of the really lovely Laura, who may have been a coquette; but who at least did not drag her lover down from truth and goodness; but elevated and refined him; and, also, inspired those beautiful poems, on which rests his most enduring fame.
+She told us of Petrarch, the son of an exile, much of whose life was passed away from his beloved Florence. Then of the really lovely Laura, who may have been a coquette; but who at least did not drag her lover down from truth and goodness; but elevated and refined him; and, also, inspired those beautiful poems, on which rests his most enduring fame.[^Petrarch]
+[^Petrarch]: Brent is referring to Petrarch's sonnets, many of which were addressed to "Laura."
 
 Miss Brent painted Petrarch’s life as, on the whole, noble, intellectual and true;--she told of his friends, and of his influence on them, and on the age he lived in.
 
@@ -2349,9 +2355,10 @@ We were told of Petrarch’s receiving of the laurel crown of the poet in the Ca
 Miss Brent dwelt upon Petrarch’s share in that revival of learning in Italy, which preceeded the revival of Art, and on the close connection of both revivals.
 
 The two interesting articles we had heard read relating to Italian artists and Italian writers made very appropriate the introduction of the subject which next claimed our attention;--“The Theatre of Arts and Letters.”[^*]
-[^*]: Crane's note: I believe the Society of “The Theatre of Arts and Letters” a few months after this meeting, ceased to exist. Recording Secretary
+[^*]: _Crane's note:_ I believe the Society of “The Theatre of Arts and Letters” a few months after this meeting, ceased to exist. Recording Secretary
 
-The President announced that the next paper on the programme would be deferred, to receive a visitor. That we had probably heard of the Society of the “Theatre of Arts and Letters” of New York and Boston; with which were connected many names representing the highest culture and standing. That its object was the elevation of the Drama. That she introduced as the representation of this society, Miss Fischer, the President of the Twelfth Night Club of New York.
+The President announced that the next paper on the programme would be deferred, to receive a visitor. That we had probably heard of the Society of the “Theatre of Arts and Letters” of New York and Boston; with which were connected many names representing the highest culture and standing. That its object was the elevation of the Drama. That she introduced as the representation of this society, Miss [Alice] Fischer, the President of the Twelfth Night Club of New York.[^Fischer]
+[^Fischer]: Fischer (1865-1947) was an actress and founded the Twelfth Night Club, the first theatrical club for women, in 1891.
 
 Miss Fischer said that she had not expected to make a speech; that was a member of the company now playing under the auspices of the Theatre of the Arts and Letters at the Lyceum Theatre in this city, and that she was president of a younger club than ours.
 
@@ -2365,7 +2372,7 @@ She said that an informal Reception was to be held on Thursday afternoon, at the
 
 The President of our Club asked if it was not the intention of this society to elevate the Drama and to make it noble,--with also its dramatic literature?
 
-Miss Fischer responded with an account of the work already done, and work projected by the Society, and of its efforts to bring forward the best and purest American writers and actors,--“we care,” she said, “all of us, I suppose, proud of being Americans.”
+Miss Fischer responded with an account of the work already done, and work projected by the Society, and of its efforts to bring forward the best and purest American writers and actors,--“we are,” she said, “all of us, I suppose, proud of being Americans.”
 
 The President hoped that the society would give the kind of performances to which a mother could take her children;--free from all that has kept some of us away from Theatre in former years. She spoke of the membership’s in-
 
@@ -2377,7 +2384,7 @@ Mrs. [Elizabeth Turner] Graham moved that we accept the invitation to become mem
 
 After some little discussion the motion to accept Mr. McDowell’s invitation to the Woman’s Literary Club of Baltimore to become honorary members of the Theatre of Arts and Letters, was made by Mrs. [Anna Dolores Tiernan] Tait, and seconded by Mrs. [Aileen B. C.] Dammann;--and carried without opposition.
 
-[Miss Fischer afterwards invited the officers of the Club, and their escorts to occupy a box at the performance of the Theatre of Arts and Letters on Friday Night, as her own guests.]
+[_Crane's note._ Miss Fischer afterwards invited the officers of the Club, and their escorts to occupy a box at the performance of the Theatre of Arts and Letters on Friday Night, as her own guests.]
 
 A proposal was made that Mademoiselle Mellé should now be requested to read to us her article on French Education. A little discussion arose on the question whether the article should be read in English or in French?—but finally the reading was deferred.
 
@@ -2389,9 +2396,9 @@ Mrs. Whitelock told us of one whom she called the only poet she ever knew;--not 
 
 Inspired;--artist souls seem still to be born there and to become one in spirit with their environment. The poet within him freed itself;--he took notes, breathings of those things that the old artists said to him. Instead of his nineteenth century identity, he was the exponent of the old artists’ speech,--of the eternal truths of Art. Happy poet!—the makers of Florence looked out upon him from their marbles. Giotto told him of works more real than marble, created before Rafael was born.
 
-“How can you classify them all?” she said, “if you despise catalogues and guide books?” “Why classify at all?” he answered, “sacred Art never demanded it.” “—We do not count by five great masters,--or by one hundred. Art is not all Italian.” “There is an innumerable host of beautiful painters,--there are those who cry to you:” You have left us out!”—the whole illustrious number of the great unknown. They do not haunt me,--they are all remembered. There are the saints and martyrs true to nature, in the time when Art was a reality, instead of a trade;--when the artist asked the lofty privilege of frescoing the walls of his monastery. I take notes, different from guide-books. Publishers will not take them. There are scores of books,--critical ones about the old masters. If I wrote a book, a guide to the soul,--might not a publisher have a soul? The poet discerns not as the critic; he unfolds the soul; but the world wants not poetry. I will give you my books.”
+“How can you classify them all?” she said, “if you despise catalogues and guide books?” “Why classify at all?” he answered, “sacred Art never demanded it.” “—We do not count by five great masters,--or by one hundred. Art is not all Italian.” “There is an innumerable host of beautiful painters,--there are those who cry to you: 'You have left us out!'”—the whole illustrious number of the great unknown. They do not haunt me,--they are all remembered. There are the saints and martyrs true to nature, in the time when Art was a reality, instead of a trade;--when the artist asked the lofty privilege of frescoing the walls of his monastery. I take notes, different from guide-books. Publishers will not take them. There are scores of books,--critical ones about the old masters. If I wrote a book, a guide to the soul,--might not a publisher have a soul? The poet discerns not as the critic; he unfolds the soul; but the world wants not poetry. I will give you my books.”
 
-“When she read it,” says Mrs. Whitelock, I concluded that my poet was right about the publishers.”
+“When I had read it,” says Mrs. Whitelock, ["]I concluded that my poet was right about the publishers.”
 
 The meeting adjourned.
 
@@ -2403,7 +2410,7 @@ The eighty second Meeting of the Woman’s Literary Club of Baltimore was held o
 
 The Recording Secretary read the the previous meeting on April 11th.
 
-The President announced the programme for next meeting on April 25th; which would be a Salon; but she reminded the members present that it had been decided to have some literary exercises on the evenings of our social meetings; and to postpone the adjournment, on these occasions, until six o’clock, in order to give time for the literary as well as for the social features of our Salons. Mrs. Turnbull next read a letter from an elderly lady in Brooklin, giving an interesting account of the collection of Woman’s Works of Kings County, New York, to be sent to the Chicago Exposition. She told of the remarkable and somewhat unexpected success with which the efforts to make this collection have been rewarded. Besides very many strictly literary works, going to the year 1743, there were those of an astronomer, a geologist, a map-drawer, a writer of music, and of other departments of menial labor among women, who had been too modest for any noisy fame formerly.
+The President announced the programme for next meeting on April 25th; which would be a Salon; but she reminded the members present that it had been decided to have some literary exercises on the evenings of our social meetings; and to postpone the adjournment, on these occasions, until six o’clock, in order to give time for the literary as well as for the social features of our Salons. Mrs. Turnbull next read a letter from an elderly lady in Brooklin [Brooklyn], giving an interesting account of the collection of Woman’s Works of Kings County, New York, to be sent to the Chicago Exposition. She told of the remarkable and somewhat unexpected success with which the efforts to make this collection have been rewarded. Besides very many strictly literary works, going to the year 1743, there were those of an astronomer, a geologist, a map-drawer, a writer of music, and of other departments of menial labor among women, who had been too modest for any noisy fame formerly.
 
 The letter was written to Mrs. Turnbull, who was personally interested, and also identified with the contributors to the collection described. The writer, as our President told us, seems late in life to preserve the mental vigor and lively interests of youth.
 
@@ -2411,17 +2418,17 @@ The letter went on to speak with great and
 
 [95]
 
-grateful praise of the wise and successful labors of the lady to whom the business of making this collection had been mainly committed;-- Mrs. [Packer], formerly Miss Jones of Baltimore, a sister of our former fellow-member, Mrs. Alan [P]. Smith [May (?) Smith].
+grateful praise of the wise and successful labors of the lady to whom the business of making this collection had been mainly committed;-- Mrs. Packer, formerly Miss Jones of Baltimore, a sister of our former fellow-member, Mrs. Alan [P]. Smith.
 
 Announcement was made of gifts to our library--including Miss Emily [V.] Mason’s “Southern Poems of the War.”
 
 The programme of this evening was under the direction of Miss Mary Worthington Milnor, Chairman of the Committee on “The Artists and Authors of Maryland”.
 
-The first article on our programme was by Miss [Sarah H.] Bennett, and was on “Rhinehart, Our Maryland Sculptor.” She spoke of a visit to Rhinehart’s early home in Carroll County. Also of her meeting there an old man, who expressed a sort of mild wonder over the summer boarders and visitors who came to that place, and take pictures of it, and ask questions about the young man, who, many years ago, lived there; who worked in stone, “and wanted to make images,-- he did not care for much else.”
+The first article on our programme was by Miss [Sarah H.] Bennett, and was on “Rhinehart, Our Maryland Sculptor.” She spoke of a visit to Rhinehart’s [William Henry Rinehart] early home in Carroll County. Also of her meeting there an old man, who expressed a sort of mild wonder over the summer boarders and visitors who came to that place, and take pictures of it, and ask questions about the young man, who, many years ago, lived there; who worked in stone, “and wanted to make images,-- he did not care for much else.”
 
 As the old man talked, the artist of the visiting said; “Art is the real witness of what is behind this show.”
 
-“His people,” the old man went on [to] tell, “were well to do; but they did not care for the image business. He went away with either thirty nine or sixty nine cents in his pocket to Baltimore, and got work in a marble yard in Howard Street; where they [gave] him very particular work to to do,-- mantlepieces, and even monuments,- and he might have been a partner in the marble works,-- but he wouldn’t give up the images; and he heard of a place where they make them better than they do here; and he would go there”,-- The old man added;
+“His people,” the old man went on [to] tell, “were well to do; but they did not care for the image business. He went away with either thirty nine or sixty nine cents in his pocket to Baltimore, and got work in a marble yard in Howard Street; where they [gave] him very particular work to to do,-- mantlepieces, and even monuments,- and he might have been a partner in the marble works,-- but he wouldn’t give up the images; and he heard of a place where they make them better than they do here; and he would go there,”-- The old man added;
 
 [96]
 
@@ -2429,13 +2436,15 @@ As the old man talked, the artist of the visiting said; “Art is the real witne
 
 It was well to turn from this version of the opinions of Rhinehart’s early neighbors, to the unchanged face of Nature, and see what Rhinehart saw when his artist soul was born, and first began to grow[,] before he went to that desirable country where they do the work he loved better than they do it here;-- and to hear the artist of the party repeat, “Art is the real witness of what is behind this show.”
 
-Miss Milnor then read an account of the ceremony attending the unveiling of Rhinehart’s stature of Chief Justice Taney, near our Washington Monument; the actual unveiling having been done by a great grandson of the Chief Justice.
+Miss [Mary Worthington] Milnor then read an account of the ceremony attending the unveiling of Rhinehart’s statue of Chief Justice Taney, near our Washington Monument; the actual unveiling having been done by a great grandson of the Chief Justice.[^Taney]
+[^Taney]: The statue of Robert. B. Taney by William Henry Rinehart was unveiled in the north garden of Mount Vernon Place in Baltimore in 1887. It was removed in August 2017 along with three other monuments associated with the Confederacy. Taney authored the majority opinion in Dred Scott v. Sandford (1857), which claimed that Black people "had no rights which the white man was "bound to respect." 
 
 We were told of the seventy five thousand dollars left by Rhinehart for the promotion of Art, and for the benefit of young sculptors in Maryland.
 
-In contrast we were told of his having begun his work at the marble cutter’s for two dollars and fifty cents a week; which only sufficed for his board and washing;-- his father having given him his trunk, fifty cents, and a lesson in economy. We heard also of the appreciation and patronage of our fellow citizen, Mr. Walters, who was instrumental in his going to Italy, and in much of his subsequent success.
+In contrast we were told of his having begun his work at the marble cutter’s for two dollars and fifty cents a week; which only sufficed for his board and washing;-- his father having given him his trunk, fifty cents, and a lesson in economy. We heard also of the appreciation and patronage of our fellow citizen, Mr. [Henry] Walters, who was instrumental in his going to Italy, and in much of his subsequent success.[^Walters]
+[^Walters]: Henry Walters (1848-1931) was the founder of the Walters Art Museum in Baltimore (referred to as "Walter's Gallery" in the subsequent paragraph.
 
-His works were mentioned;-- especially The Woman of Samaria, now in Walter’s Gallery; [Clythe?], which he called his master-piece; [Endymion?]; the Bronze doors in the Capitol at Washington; The Angel of the Resurrection; &c.
+His works were mentioned;-- especially The Woman of Samaria, now in Walter’s Gallery; Clytie, which he called his master-piece; Endymion; the Bronze doors in the Capitol at Washington; The Angel of the Resurrection; &c.
 
 Miss [Mary F.] Grace was requested to tell us something of
 
@@ -2445,9 +2454,9 @@ Her acquaintance with Rhinehart in Rome. She spoke of having seen him in Baltimo
 
 “Rhinehart,” said Miss Grace, “had the head of a demi-god, and the body of a peasant,-- and the most luminous kind of eyes, like a pair of stars. He ate bread and butter like other mortals; his conversation was not remarkable,-- yet he was a delightful companion. We know that there was a romance in his life-- he was engaged to Miss Kummer, who had the felicity of dying in his presence; if that was a felicity.
 
-Mrs. Turnbull then spoke of the artist Powers as having had most beautiful eyes,-- divinely beautiful, in the sense in which Art can be called divine,-- and a superb head.
+Mrs. Turnbull then spoke of the artist [Hiram] Powers as having had most beautiful eyes,-- divinely beautiful, in the sense in which Art can be called divine,-- and a superb head.
 
-Miss Grace then read a poem by Miss [Emma Fenwick] Brent called “The Toying Page.” Before she began reading, our attention was called to the fine bronze statue of “The Toying Page,” by Keyser, another Maryland artist. The statue is three quarters life size, and is owned by Mrs. O’Donovan, who had kindly loaned it --through Miss Milnor-- to the Club for this occasion.
+Miss Grace then read a poem by Miss [Emma Fenwick] Brent called “The Toying Page.” Before she began reading, our attention was called to the fine bronze statue of “The Toying Page,” by [Ephraim] Keyser, another Maryland artist. The statue is three quarters life size, and is owned by Mrs. O’Donovan, who had kindly loaned it --through Miss [Mary Worthington] Milnor-- to the Club for this occasion.
 
 Miss Brent’s poem spoke of the handsome careless young page, toying with fine tempered steel, which thoughts of lady’s bower, or battle field,-- until he feels a little wound.
 
@@ -2457,20 +2466,20 @@ Then of the youth and maiden, who stand before the statue, and as he looks at he
 
 -ed,-- he knows himself bound.
 
-Miss Milnor gave us some account of the works of [Ephraim?] Keyser,-- his De Kalb Monument,-- his Psyche,--his Pet Falcon,-- his bust of Cardinal Gibbons, &c. Also his Memorial to President Arthur of Albany,-- and the statue of the same President, ordered to be placed in the city of New York.
+Miss [Mary Worthington] Milnor gave us some account of the works of Ephraim Keyser,-- his De Kalb Monument,-- his Psyche,--his Pet Falcon,-- his bust of Cardinal Gibbons, &c. Also his Memorial to President Arthur of Albany,-- and the statue of the same President, ordered to be placed in the city of New York.
 
 Miss Brent referred to the large bequest of Rhinehart for the education of young students of sculpture in Maryland; also to the beauty, grace and dignity of his works; and said that she feared that his services to his own State were all forgotten, as she had never seen a flower upon his grave.
 
 The suggestion was made that the member of our Club should, at least once a year decorate the graves of Rhinehart, Edgar Poe, Sidney Lanier and of any others of the authors of artists of Maryland whose graves are with us. To the suggestion of doing this on Decoration Day; Miss Brent answered, that “it was a day sacred
 
 [poetry]
-“[Love?] and tears for the blue,
+“Love and tears for the blue,
 Tears and love for the gray!”
 [/poetry]
 
 To the suggestion of All Saints’ Day, she said that “so many of our people would go to “God’s Acre” on that day, it might be well for the Club to make another choice.”
 
-After some discussion, a resolution was offered by Miss Brown, and seconded by Miss Grace appointing All Saints’ Day, November 2nd, for decorating the graves of Lanier, Poe, Rhinehart, and others of the artists and authors of Maryland; and appointing Miss Milnor and Miss Brent [the?] Committee to have this affair in [charge?], with the power to add other members to their Committee to assist them. This notion was carried without opposition.
+After some discussion, a resolution was offered by Miss [Mary Wilcox] Brown, and seconded by Miss Grace, appointing All Saints’ Day, November 2nd, for decorating the graves of Lanier, Poe, Rhinehart, and others of the artists and authors of Maryland; and appointing Miss [Mary Worthington] Milnor and Miss Brent the Committee to have this affair in charge, with the power to add other members to their Committee to assist them. This motion was carried without opposition.
 
 [99]
 
@@ -2478,14 +2487,557 @@ The next article on our programme was by Mrs. Edward Shippen, and was on “War 
 
 She said that she had wished very much to correct the errors in an Article in the Century Magazine, signed by Mr. Brander Mathews; in which the strange assertion was made that our national song, The Star Spangled Banner, was written to fit an old tune. In the same article also, an erroneous account was given of the setting to music of the song “Maryland, My Maryland.”
 
-Mrs. Shippen, who owns the original manuscript of The Star Spangled Banner, as begun on the back of an old letter, told us how Francis S. Key and a friend of his, went, in the kindness of their hearts, on board one of the English War Ships to try to obtain the release of another American and civilian friend of theirs, detained a prisoner of the enemy. Though finally successful in their mission, they were themselves detained on ship-board, while the attack on Fort McHenry was being made. How they afterwards described with great animation the surprise and anxiety of the three Americans while the firing went on. How the trouble of their souls grew greater when, before day,” the red glare and the bombs bursting in air” ceased to be seen and heard, and the fear came to them that the [cessation] meant surrender. But as soon as there was enough morning light to see that “our flag was still there”, Mr. Key, in the first enthusiasm of that assurance, began to write his song, on the back of an old letter. He wrote it out fully that same night after he came back to Baltimore, and showed it to his brother-in-law, Judge Nicholson, Chief Justice of the State. It was Judge Nicholson who fitted it to the tune of [Anacreon?] in Heaven, which
+Mrs. Shippen, who owns the original manuscript of The Star Spangled Banner, as begun on the back of an old letter, told us how Francis S. [Scott] Key and a friend of his, went, in the kindness of their hearts, on board one of the English War Ships to try to obtain the release of another American and civilian friend of theirs, detained a prisoner of the enemy. Though finally successful in their mission, they were themselves detained on ship-board, while the attack on Fort McHenry was being made. How they afterwards described with great animation the surprise and anxiety of the three Americans while the firing went on. How the trouble of their souls grew greater when, before day, ”the red glare and the bombs bursting in air” ceased to be seen and heard, and the fear came to them that the [cessation] meant surrender. But as soon as there was enough morning light to see that “our flag was still there,” Mr. Key, in the first enthusiasm of that assurance, began to write his song, on the back of an old letter. He wrote it out fully that same night after he came back to Baltimore, and showed it to his brother-in-law, Judge Nicholson, Chief Justice of the State. It was Judge Nicholson who fitted it to the tune of Anacreon in Heaven, which
 
 [100]
 
-suited it wonderfully well; and who received the gift of the original manuscript. It was soon known and sung all over Baltimore; and very soon afterward, all over our country.
+suited it wonderfully well; and who received the gift of the original manuscript. It was soon known and sung all over Baltimore; and very soon afterward, all over the country.
 
 The tune of Maryland My Maryland was also not a native one, although like that of the Star Spangled Banner, it would seem as though it ought to have been so.
 
-Mrs. Shippen told us that one day, while our Civil War was raging, Mr. [Rozier?] Dulany took a copy of the song Maryland My Maryland,-- then recently written by Mr. J.R. Randall,- to the house of Mr. Carroll, where a party of the fair young ladies of Baltimore were accustomed to meet and spend their time making clothes for the Confederate soldiers. The song was received with enthusiasm; so was the suggestion to sing it; and various airs and old college tunes were tried to be fitted to it. Miss Jennie Cary at last chose one of these old college tunes which suited the words extremely well.
+Mrs. Shippen told us that one day, while our Civil War was raging, Mr. Rozier Dulany took a copy of the song Maryland my Maryland, —then recently written by Mr. J. R. Randall,—to the house of Mr. Carroll, where a party of the fair young ladies of Baltimore were accustomed to meet and spend their time making clothes for the Confederate soldiers. The song was received with enthusiasm; so was the suggestion to sing it; and various airs and old college tunes were tried to be fitted to it. Miss Jennie Cary at last chose one of these old college tunes which suited the words extremely well.[^MMM]
+[^MMM]: "Maryland, My Maryland," the state song from 1929-2021, was sung to the tune of the familiar German Christmas carol "O Tannenbaum"; the tune was also used for college and high school anthems and fight songs, as noted by Shippen in her article.
 
-Mr. Dulany was forthwith requested to have the words and music published together; but he positively declined to do so,-- for the reason that; “Fort McHenry was entirely too near. Some of the young ladies suggested that “men were too ti
+Mr. Dulany was forthwith requested to have the words and music published together; but he positively declined to do so, for the reason that: “Fort McHenry was entirely too near.[“] Some of the young ladies suggested that “men were too timid for anything.” Finally Miss Rebecca Lloyd Nicholson said that “her father was a Union man, and she was not afraid.”—she would publish it herself. She took it to the music store of Miller and Beacham for publication; —and soon the words and music were known all over the South,–and elsewhere too.
+
+Mrs. Shippen authenticated her account, not only by attesting her presence in the party of girls described, but by the further statement: “_I_ was the Miss Rebecca Lloyd Nicholson, who had the song published,—myself.”
+
+She said that her father was a believer in State
+
+[101]
+
+Rights; but he thought that the battle to be fought out at the polls, and not with the sword. She spoke of those who gave their lives, and of those gave the loved ones dearer than their own lives, to fight for what they believed to be the Right. But she thought we could all of us now join in a few lines she quoted from Maryland My Maryland, and a few more from The Star Spangled Banner.
+
+We were given other sad or stirring songs by Southern writers; —one on the dying words of a young soldier who had been the only support of an aged mother: “Who will care for Mother, now”;— “A Mother’s Prayer,” with words and music by Mr. Otto Sutro;—the ringing “Stonewall Jackson’s Way,” by Dr. [John Williamson] Palmer; “The Vacant Chair,” written in Massachusetts, but sung both in North and South; “Dixie’s Land,” an old Minstrels’ Song; —“The Southern Cross,” set to the same tune as “The Star Spangled Banner[“]; a song “To the Exchanged Prisoners,” written by Mr. J. Teackle Wallis, when he was a prisoner in Fort Warren, in 1862; and “God Save the South,” by Mr. George H. Miles of Baltimore. Of course, “The Girl I Left Behind Me” was a song not forgotten by soldiers of either side.
+
+Mrs. Shippen’s very entertaining article was received with applause.
+
+Mrs. Turnbull announced, that the Committee for decorating the graves of authors and artists of Maryland, next All Souls’ Day, would publish a notice a week before that time, that those interested in this work may send flowers to the Committee room of the Club. She wished that this work might be known as the work of the Club.
+
+Mrs. Turnbull also spoke of the great sorrow that had fallen on a member of our Board of Management, Miss [Henrietta] Szold, in the death of her sister. Mrs. [Annie Leakin] Sioussat was requested to draw up a resolution ex[tending] the sym[p]athy of her fellow members for Miss Szold.
+
+A vote of thanks was passed to Mrs. O’Donovan for
+
+[102]
+
+loan of her bronze statue of “The Toying Page.”
+
+The meeting adjourned.
+
+### 24th Salon. [Apr. 25, 1893]
+
+The 24th Salon of the Woman’s Literary Club of Baltimore was held on Tuesday, April 25, 1893, at the corner of Franklin and Cathedral Streets.
+
+The Recording Secretary having been absent can only copy the newspaper report of this meeting.
+
+#### Report in the Baltimore Sun of April 26th, 1893.
+
+“The Woman’s Literary Club enjoyed yesterday afternoon the usual monthly “Salon,” at which the reading of papers and poems was followed by informal talk and five o’clock tea. A bright and interesting paper on “The Education of French Girls” was read by Mademoiselle [Rosine] Mellé, instructor in French at Bryn Mawr School. Several unpublished letters by Sidney Lanier, written in the poet’s exquisite style, were read by Mrs. Turnbull,—who also read a charming little poem entitled “Twilight’s Hush,—an Etching,” by Mrs. Marguerite E. Easter.—Mrs. John M. Miller read a letter written by Madame Jerome Bonaparte, who was the beautiful Betsy Patterson, to her father while she was in England, and inclosing a piece of a ball gown, which she wore on some special occasion.—“My Lady’s Eyes,” a poem by Miss Anna Vernon Dorsey of Washington was also read.”
+
+[103]
+
+### 83rd Meeting.
+
+The eighty third meeting of the Woman’s Literary Club of Baltimore was held on Tuesday, May 2nd, 1893, at the corner of Franklin and Cathedral Streets.
+
+The President, Mrs. Turnbull was in the chair.
+
+The Recording Secretary read the Minutes of the meeting on Tuesday, April 18th.
+
+The Recording Secretary also read the names of some new members presented at the meeting of the Board of Management, just adjourned, which had been approved by the Board, and were now duly submitted to the Club.
+
+The President announced that our next meeting would be under the direction of the Committee on Economics. Also that are present meeting would be under the direction of the Committee on Fiction, of which Mrs. [Louise Clarkson] Whitelock and Miss [Sarah H.] Bennett were the Chairmen.
+
+Our programme called for two articles on the Definitions of the Romantic and the Realistic Schools of Fiction;—but it was announced that the first Essay would be omitted, and that only the one on the Realistic School would be read to us. The name of the author of this article was not given. It was read by Miss [Annie S.] Perot.
+
+It spoke of Realism, tersely defined, as truth, a statement of facts, with nothing extenuated, and nought set down in malice. Realism may give us noble ideals of life, but it does not analyze motives; it deals only with results. It portrays life often in humble conditions, but it needs not to describe vulgarities,—nor to thrust them before us;—it ought to preserve the dignity of literature. Theories are not denied,—but only recognized by their results. Realism may laugh at Romanticism, and tell us that man can not live on love alone, but all 
+
+[104]
+
+the realities of life belong to it, while life remains.
+
+We may be reminded of Mr. [John] Ruskin’s assertion that: “Finding the world of Literature more or less divided into Thinkers and Seers, I believe we shall find also that the Seers are wholly the greater race of the two.”
+
+Our next article was by Mrs. [Louise Clarkson] Whitelock, and was read by Mrs. [Morton Wortham] Sloan. It was on “Morality in Fiction.”
+
+Mrs. Whitelock [spoke] of moral Fiction as not that which is especially opposed to immorality, but as that which is pure and unhurtful. She spoke of those who read and admire Zola; and yet who would abhor and find disgusting in actual life scenes he paints. She reminded us of the late “Agnostic Novels” also. Then of the apparently well-meaning stories which have a bad lack of moral tone, and no comprehension of the higher life, or of what Wordsworth calls “high thinking.” But she thought it is possible to teach without preaching, and those of us who have young daughters and nieces well perhaps be disposed to give them the old-fashioned moral novel to read.
+
+Mrs. Whitelock spoke of Hyperion, and of the works of “Miss Mulock,” as many of us continue to call her. We may call them “romantic,” but they give us high ideals, and we can hope and believe that such ideals will not fail us in the future.
+
+Our programme promised us several short stories; and these had been written under the direction of the Fiction Committee. The subject was the same in every case, and it has been given to the several riders by the Committee. The subject was the meeting, after separation, of a man and a woman who had in lovers;—and each story was limited to two thou-
+
+[105]
+
+sand words.
+
+The first of the stories was written by Miss Bennett, and read by herself. The title was “Shadows.”
+
+She described a little town, half-buried in snow, the trees bending under their heavy white covering, while a hard, beaten track, shining like silver, led up to the top of the hill. At one end of this path a tall, thin man was beating his hands together. From the other came a short and stout women, with black hair and eyes, who carried a basket on her arm; and was thinking aloud. The subject of her audible meditation was the momentous question of turning and repairing a dress, which had not only seen good service, but had apparently been turned and repaired before.
+
+“Gimp at seventeen cents a yard won’t do, and the dressmaker won’t skimp,” she said. “Ruffles would be better, taken out of the back breadth, and then nobody would know it for the same dress.”
+
+Suddenly she recognizes Luke Rollins, and with the voice and manner of bygone years tells him that he is the last man she would have expected to see that day;—well he answers that “Ca’line Smoot” was the last woman he would have looked for there.
+
+“Ca’line Smallwood,” she answered, adding that the old rhyme said: “Change the name and not the letter, change for words and not for better;[“] but she wouldn’t say that in her case this had been true. She told him, moreover, that she was staying there with her “Cousin Lisbeth.”
+
+As they talked on the woman was saying to herself, “I won’t ask after Maria. She played me a mean trick.” Nor did the man ask after Jonah Smallwood, his successful rival. And so they went on talking, with
+
+[105]
+
+the shadows of Maria and Jonah Smallwood, unbidden,—forbidden recognition,—but actively felt.
+
+The woman said Cousin Lisbeth was most particular, and it wouldn’t do to keep her table waiting for supper. But then they talked of [a] winter evening, long before, when there had been music and dancing, and they were both sure nobody else could ever play as well as the old colored fiddler did then. Still, no matter what subject they discussed, Ca’line whispered, “I won’t ask after Maria.”
+
+But it last when Luke turned to go, she called after him, “Luke, how’s Maria?”
+
+“Maria?” said Luke, “Why, Maria’s dead. She died five years ago. Poor Maria changed very much before she died. How’s Jonah?”
+
+“He’s dead too,—eighteen months ago,” answered Ca’line. “He was a good provider.”
+
+“I’m going your way Ca’line,” said Luke, “and I can carry the basket just as well as not.[“]
+
+The moon rose, and they thought of the new moon of a time long past, when they looked over their shoulders to make wishes they believed it would come true.
+
+Then, like overgrown children, they repeated their wishes as they walked on did the new moon that was rising again, now.
+The next story was; “An Episode in Chamouni,[“] written and read by Mrs. [Alice Emma Sauerwein] Lord.
+
+She told of a party traveling in Switzerland. It comprised an American lady, not unconscious nor unappreciative of the grand scenery around then, but sometimes constrained to yawn,—her little daughter,—her husband who was a pros-
+
+[107]
+
+perous American, and a Frenchman with whom he talked about money, while both of the two latter appeared unmoved by the grandeur and sublimity of Nature.
+
+“Mrs. Irving is always tired,” says her husband. She sympathizes with the mountaineers as he notices the laborious life they lead; but when she offers them money, and they refuse it, she is reminded that they are peasants, but not beggars.
+
+Reaching a hotel in the evening, and feeling tired of the carriage, she goes out with her little daughter to take a walk. They find such Alpine roses and blue bells as they have seen nowhere else, but they also lose their way.
+
+And here she meets again the man who had put the span of half the world between them, after that time when they had met and parted, in England, years before. He asks whether she is happy in her worship of the golden calf, and he claims the right to ask, because of all she once condemned him to suffer. She answers that she has two dear children, and an indulgent husband. She hopes he had forgiven and forgotten the past, and that the world has been kind to him also.
+
+He picked [up] the tired child, and told her he was Mr. Gray no longer. Two cousins had died, making him a Lord. If she had known that would happen, it would have been unnecessary to sell her birthright. But they were quits,—and each knew that another mile-stone on life’s road had been passed.
+
+On their return, when she introduced her friend, Lord Hatton[,] to her husband, it was a little difficult to interpret the artless prattle of the child to the money-king about the golden calf,
+
+[108]
+
+And also afterwards, when the young Lord presents a beautiful woman as his wife, She says, “I shall always thank Chamouni for this meeting”;—and her husband says, “In America, you know, we are all lords.”
+
+The next story was by Miss [Louisa Courtland Osburne] Haughton, and was called: “So Runs the World Away.”
+
+Adolphus had gone away from Penelope 10 years earlier, and women learn much in that length of time. She kept his photograph,—and he had said “Auf Wiedersehen”; —but he had not come back yet, and perhaps he did not get many of her thoughts.
+
+There were rivals for her love,—two artists, especially, who hated each other as [only] rivals in love, and artists can. The beautiful piece of work by artist number one,—representing Penelope in the act of refusing the suit of Philander—artist number two—was very much admired. Some people said there must be a Ulysses somewhere else,—otherwise she could not afford to wait. These of course were her dear, dear friends.
+
+One day Adolphus comes to call, and is asked to come back to dine. While he is gone, she sits down to the piano, to think. Perhaps she must take a poor counterfeit, if not a reality;—but the heart once warm may have grown careless. The ten years might have been longer still;—there might have been some one else.
+
+In due course of time they were married. Where they happy? Well, yes;—but she has devoted herself to music, and Adolphus has hated it.
+
+Miss Bennett gave us the Minutes of the Fiction Class of our Club, written by Mrs. [Louise Clarkson] Whitelock.
+
+There had been much original work done, consist-
+
+[109]
+
+ing of stories, essays, critiques; reviews of Mr. [William Dean] Howells’s sometimes very unjust criticisms, and of those by Mr. Brander Matthews.[^Howells] The attendance had always been good, and the interest unflagging.
+[^Howells] Howells and Matthews (1852-1929) were editors and literary critics; Howells was a longtime editor of the _Atlantic Monthly_ and Matthews wrote criticism for the _New York Times_ and became a professor at Columbia University in 1892.
+
+Our programme have been shortened, and Mrs. Turnbull had been requested to read to us some extracts from her own last book, “Val Maria,” and she had consented to do so.
+
+She read first the opening of the book, to give the setting of the story. She painted the estate of Val Maria, and the home of count Louis de Montal, with his wife in only child, Felix, as a spot of seclusion and peace; with the statue in shrine of the Madonna of Val Maria,—a statue not beautiful artistically, or even capable of being beautified by the mellowing touch of time; but sacred to the village-folks, who are free to find on this Virgin’s face whatever expression it was in their hearts to give her.
+
+It was at the time of the Directory, the Reign of Terror was passed, and the young general Bonaparte was rising into notice. The life of the village in the life of the castle unfold before us naturally and attractively. The child Felix is beautiful and enthusiastic,—too spiritual for length of days, and with the purity unsullied by earthly evil. The Count has a knightly soul, and, giving the First Consul credit for an absorbing and disinterested love for France, accepts the position of senator, scarcely confessing to himself that he had begun to count on Bonaparte as the savior of his country.
+
+The child shares his fathers enthusiasm, and
+
+[110]
+
+makes of the First Consul, and afterwards of the Emperor, in his own mind, the truest and noblest of heroes.
+
+Mrs. Turnbull read the scene in the studio, where the boy-Artist shows his father his studies for the head of Napoleon, some day to be put into marble. The father can only listen to the child who—
+
+[poetry]
+“—still is nature’s priest;
+And by the vision splendid
+Is on his way attended.”
+[/poetry]
+
+although—
+
+[poetry]
+“—the man perceives it die away.
+And fade into the light of common day.”
+[/poetry]
+
+Mrs. Turnbull also read to us a scene in Florence, where the mother takes her son to what had been her own early home, and the boy is delighted by the wonders he finds there.
+
+Finally we were given the last scene in the book. The boy has made the bust of his beloved ruler of men,—as his pure eyes saw him. This last scene is a striking piece of word-painting. The time is during the fateful “hundred days”[^100];—and the world-worn emperor is brought face-to-face with the image of himself,—as he perhaps might and ought to have been,—in the presence of the image’s creator, the youthful sculptor, lying calmly waiting for “the unbidden guest,” in “the beauty of holiness,” in
+[^100]: The "Hundred Days" marked the final stage of the rule of Napoleon Bonaparte, the 110 days between his return to Paris on Mar. 20, 1815 from exile on the island of Elba to the second restoration of King Louis XVIII on July 8, 1815.
+
+[poetry]
+“—the faith that looks through death.” [/poetry]
+
+The thanks of the Club having been given to our president for her reading; the meeting adjourned.
+
+[111]
+
+### 84th Meeting [May 9, 1893]
+
+The eighty-fourth meeting of the Woman’s LIterary Club of Baltimore was held on Tuesday May 9th, 1893, at the corner of Cathedral and Franklin Streets.
+
+Mrs. Turnbull, the President[,] called the meeting to order; and the Recording Secretary read the minutes of the meeting of May 2nd.
+
+The announcement was made that two books have been presented to the Club, one by Miss Whitney, and one by professor Milton Whitney.
+
+The names of new members which had received favorable action by the Board of Management — and no objection from the Club—where again read to the Club. They were six in number;—Mrs. Bertha Hall Ahrens,—Mrs. R. K. [Lucy Randolph] Cautley,—Miss Mary D. [Dorsey] Davis,—Mrs. Sidney [Clara B. Newman] Turner,—Mrs. Henry J. Oudesluys,—and Mrs. R. M. Wiley.
+
+Mrs.[Caroline Canfield] Bullock, the Treasurer, read her yearly Report,—in this case,—dating from last November, when she accepted the office, until the present time. It was a clear and satisfactory statement of the items of receipts and expenditures,—showing good management, and avoidance of debt, and closing with a balance in the bank. The balance with which our treasurer began her work, was forty-eight dollars seventy-nine cents [$48.79],— Received up to May 1883, eight hundred thirty dollars one cent [$800.01], making the Assets eight hundred seventy eight dollars eighty cents—$878.80. The Expenditures were seven hundred twenty two dollars seventy two cents—$722.72—, leaving a Balance of one hundred fifty six dollars eight cents— $155.08. Miss [Mary F.] Grace said we are to be congratulated on
+
+[112]
+
+receiving such a Report,—and moved a vote of thanks to the Treasurer.
+
+Our President said that we had never been in debt.
+
+Miss Grace’s motion was seconded by Miss [Lizette Woodworth] Reese, and was carried without opposition.
+
+The President showed us a cup and saucer presented to the Club by Miss [Eliza] Ridgely,—a beautiful specimen of gilding, looking like gold itself, which was the discovery and work of a woman.
+
+It was announced [that] the meeting of the next Tuesday would be under the direction of the Committee on Current Criticism, of which Mrs. [Aileen B. C.] Dammann is chairman.
+
+The meeting being held was under the direction of the Committee on Economics, under the Chairmanship of Miss Mary Wilcox Brown.
+
+It was announced that we would be unable to have this evening the paper promised on our programme to be given by Miss [Jane] Zacharias.
+
+Mrs. [W. H.] Anderson was called on to give us the Report of the work done by our Class in Economics. She told us that in the year 1891, a few—some six—of our members met, at the house of Miss [Charlotte de Macklot] Thompson, to study Political Economy. They began with the book of Mrs. Millicent Fawcett,—Fawcett being a name of a good omen since a daughter of that house has won the right to stand before the Senior Wrangler at Oxford. Our political economist studied the requisites of Production—Land—Labor, and Capital;—plodded through the problems belong to values and wages, supply and demand, bimettalism [bimetallism],—and Adam Smith’s four Canons of Taxation.[^bimetallism] Such fun as this went on until the brains felt bruised and battered; and the meetings generally
+[^bimetallism]: Bimetallism is currency system accepting two metals (in this case, gold and silver) as legal tender, in a fixed ratio to one another. Smith's "four canons of taxation, outlined in _The Wealth of Nations_, include 1) equity; 2) certainty; 3) convenience; and 4) economy.
+
+[113]
+
+closed with a cup of tea, to refresh exhausted vitality. Mr. Thackeray, I believe, said Heaven meant kindly by women when tea was made.
+
+When the warm weather came, the inspirer of the Political Economy Class had gone across the Atlantic; and soon the numbers dwindled, to two lone women; who, without hesitation, decided Political Economy to be a cold-weather study.
+
+Beginning again with new courage in the autumn, the place of meeting was changed to the rooms of Miss [Mary Worthington] Milnor; and the class studied several approved authors; including Professor Simon Newcomb and Mr. [John Stuart] Mill; and even made acquaintance with the works of Mr. Henry George. Mrs. [Cornelia M. B.] Anderson quoted to us the saying of a woman that the carrying out of one of Mr. George's theories was like the burning down the house to roast a pig. This woman would seem to relegate Mr. George back to the companionship of Charles Lamb’s prehistoric Chinaman, in the Essay on Roast Pig.[^Lamb2]
+[^Lamb2]: Lamb's "A Dissertation Upon Roast Pig" included reference to an essay by Chinese philosopher Confucius on the discovery of the culinary technique of roasting meat. Henry George (1839-1897) was a noted economist whose socialist views, popularized in his book _Progress and Poverty,_ were widely espoused in the late-nineteenth and early-twentieth centuries.
+
+Mrs. Anderson went on to describe the study accomplished and the work done by the Committee on Economics, after the moving into the handsome new quarters of our Club, and their having possession of our pleasant Committee room. She spoke of the meeting address by Archdeacon Moran, to which the whole Club was invited; and of the interest of other Committee meetings, to which other speakers and writers have contributed. Also of articles given at our general meetings; especially of the very interesting one of Miss [Eliza] Ridgley on the College Settlement in Philadelphia; and of that of Miss de Graffenried on The Housing of the Poor. Then of the vital interest that has been aroused in vital questions, in
+
+[114]
+
+the efforts of the present, and the hopes of the future.
+
+Our programme promised us “A Talk about Pullman,” by Miss Mary Wilcox Brown. Miss Brown said that, before describing her visit to Pullman, which is now considered a suburb of Chicago, she would lead up to her subject by mentioning some of the things that have been done for ameliorating the condition of the laboring classes in America, elsewhere. She spoke of the difference between the conditions of the present and those of the past; the protection given to the laborer, of co-operation, and trades-unions. She told us of Robert Owens of England, and of many who followed him; of the Rockdale pioneers; of the work done in France, and in America, and even in our own city of Baltimore. She dwelt on the difference between work done for charity or philanthropy, and work done, on strict business principles, for the good of all concerned, now,—and henceforward. Mr. Pullman, she said, is working to prevent evil, not to cure it, and disclaims the name of philanthropist.
+
+Miss Brown went on to Pullman alone, and arrived safely at the Hotel Florence,—named after Mr. Pullman’s daughter; he himself, being the owner of the whole place. She found the settlement clean, bright and attractive. There are twelve hundred houses, chiefly of brick,—not more than seventy five frame houses in the place. There is a park, and a public library of four thousand volumes, to which additions are often made. She described the Arcade Buildings, and also the halls in which the religious services of different denominations are held. Also the halls
+
+[115]
+
+for musical, literary and theatrical entertainment. Also of the loan and savings bank, which receives deposits of respectable amounts, especially on Saturday evenings, after the workmen are paid off. She spoke of the excellent sanitary arrangements, on which one million of dollars are said to have been spent. The work shops are comfortable, the dust of the furnaces is consumed, and not breathed. There are almost all languages talked, and almost all nationalities represented among the workmen. The best workmen are said to be the Swedes. The work is all piece work, not days-work; and the men generally work ten hours a day. The public schools are part of the system of Chicago. Almost everything for the Pullman cars is made at the Works, except the plush, curtain materials, china-ware and glass. At the hour for dinner the workmen come out, looking clean, and with their coats on. There is no direct profit sharing; but it seems to be made for the interest of all to do good work.
+
+Mr. Pullman says that the time has not yet come for the workmen to own land in Pullman; but half a mile off in the country they can, and, to some extent, do, own houses of their own.
+
+Miss Brown told us that there had never been a strike in Pullman;—that there were five doctors there, but no lawyer.
+
+Mrs. [Francese Litchfield] Turnbull congratulated the Committee on Economics; which, with so young to chairman as theirs, had been able to add so much to the interest of our Club. 
+
+Mrs. [Gertrude Pierce] Easby next gave us some account of the Cannon Foundry of the Krupps at Essen in 
+
+[116]
+
+Germany. She regretted that the facts she had to give us were not new,—but rather an old story. The Krupp Works are larger than those at Pullman, and our managed on the principle that it pays to take care of workmen, and make them comfortable. There are stores, where necessaries are furnished at something like cost rates. There are relief associations; there are special surgeons provided; also an oculist,—as working in iron is apt to be dangerous to the eyes. There is no theatre, however; for, as Mr. Conway says; “People who work from ten to twelve hours a day have no time to enjoy dramatic art.”
+
+Mrs. [Cornelia M. B] Anderson next read a letter from Mr. Howard, a labor statistician, on co-operative unions in Baltimore. He told of an attempt made some time ago to buy coal in large quantities, at summer prices, and to sell it in the winter, at summer rates also;—which failed; owing to a lack of comprehension, or of appreciation, or the dislike of a new venture in those who were intended specifically to be benefitted by the plan.
+
+Miss [Jenny] Nelson also gave us a letter from Mr. Howard, giving some information relating to the Tailors’ Co-operative Union, and to the garment cutters’ strike of some little time ago.
+
+In the discussion that followed, it was recalled to us that workmen continually fail to appreciate that the enormous majority of men are _not_ fitted to be leaders; and many object to the semblance of being led.
+
+Mrs. [Annie Leakin] Sioussat quoted the opinion of Frederick Maurice that the principles of Christianity must be applied to trade and industry, and must be
+
+[117]
+
+proved not incompatible with them. She spoke of the work done in Boston by the Church of the Carpenter; where co-operation is carried on to give employment to those who need it, in the name of the great Founder of such co-operation. It is this kind of work that can add the Keystone to the arch that shall bridge the gulf so long yawning before us.
+
+Miss Comins next spoke of the beautiful building on the cup and saucer presented to the Club by Miss Ridgely; and said that Miss Ely, the Discover of the new process, had wished her sister to introduce her to a Mr. Cooley, who would be likely to buy her right in the secret of this production. The interview was polite, but amusing; as Miss Ely did not dare to make experiments in Mr. Cooley’s presence, nor to tell him enough of the secret to make him take the risk of a chance—which might not be the main chance to him.
+
+Miss Comins however believed now that the discoverer of the process I had made arrangements by which it would be carried on under her own direction.
+
+The meeting adjourned.
+
+### 85th Meeting. [May 15th, 1893]
+
+The eighty fifth meeting of the Woman’s Literary Club of Baltimore was held on Tuesday, May 15th, 1893, at the corner of Franklin and Cathedral Streets.
+
+The meeting was called to order by Mrs.
+
+[118]
+
+[Francese Litchfield] Turnbull, the President; and the Recording Secretary read the Minutes of the previous meeting on May 9th.
+
+The President read a letter from Miss Keyser, the sister of Mr. Ephraim Keyser, the Sculptor. It expressed the gratification of Mr. Keyser from the high appreciation shown by the Woman’s Literary Club of his own State for his work as an artist. He had expressed particular pleasure that one of his works had inspired the poetic muse of a member of the Club.
+
+Our President then spoke of the honor lately conferred upon one of our honorary members, Miss Sarah Adams, the sister of our own Miss Elizabeth Adams. Our honorary member has come back to America from Europe, with a gold medal presented to her by the German Government in token of their appreciation of her efforts toward the success of the lately erected Memorials to Goethe and Schiller. Miss Sarah Adams had also been chosen by Grimm as the translator of his Works into English.
+
+A letter was then read by the Vice President Miss [Louisa Courtland Osburne] Haughton, from our fellow member, Miss Elizabeth Adams; “To the Ladies of the Woman’s Literary Club of Baltimore,” presenting to us a beautiful portrait, painted by herself, of our first, and for three years only President, Mrs. Turnbull. Miss Adams’s letter spoke of the excellent work done by the Club in the various departments of Literature and Art, during the three years of its existence,--“in
+
+[119]
+
+all of which the guiding hand of Mrs. Turnbull has been felt.” “For all this,” says the letter, “let us thank her; and let me hope that this portrait will bring her in full remembrance to you all.[“]
+
+A vote to thank Miss Adams was moved by Miss Brent, and seconded by Miss [Mary F.] Grace; and of course, carried immediately.
+
+Mrs. [Caroline Canfield] Bullock then read to us an Article in the last Churchman, giving an account of the Woman’s Literary Club of Baltimore. It spoke of the founders and prominent members of our Club,--of our President,--of the late Mrs. Tiernan [Mary Spear Tiernan],--Mrs. Franklin [Christine Ladd-Franklin],--Miss Hester Crawford Dorsey [Hester Crawford Dorsey Richardson],--Miss [Katharine Pearson] Woods,--Miss [Lizette Woodworth] Reese, and others; and gave some account of the excellent work, and growing good influence of the Club. It closed with a very appropriate quotation from the last annual address of our President.[^Churchman]
+[^Churchman]: The article "The Woman's Literary Club of Baltimore" appeared in the May 13, 1893 issue of _The Churchman,_ p. 665.
+
+Mrs. Turnbull next announced the request of our Treasurer, Mrs. Bullock, that her Report presented at our last meeting, should be audited by a Committee of her fellow members. As a matter of routine, the President appointed Mrs. [Annie Leakin] Sioussat and Miss [Henrietta] Szold as this committee.
+
+The President then announced that at our next meeting the annual election for all the officers of the Club would be held; and that to give time for this important business at half past three as usual. She also announced the Method or Scheme by which this election will be conducted,--as follows:
+
+- “A Judge of Election to be appointed to conduct the business of the Election.
+- “Three tellers to be chosen by the Judge of the Election.
+
+[120]
+
+- “One Teller to hold and give to the other Tellers, for distribution, blanks corresponding to the number of persons present,--no more,--no less.
+- “Colored blanks shall be distributed by the Tellers, on which each member is requested to make one nomination for the Presidency.
+- “These blanks shall be collected, and must correspond to the number of members present.
+- “All names receiving five (5) nominations will be considered as candidates. These names shall be written on the blackboard, with the number of nominations received.
+- _White_ blanks shall then be distributed, and members shall _vote_ for President, and the Candidate receiving a majority of the votes cast shall be declared elected. If no candidate receives a majority of the votes cast shall be declared first ballot, other ballots shall be cast until an election is made.
+- “The other officers to be nominated and voted for in the same manner as for President;--with the exception of the Corresponding Secretary; who is nominated by the President, and voted for by the Club.
+- “Doorkeepers shall be appointed to see that only members of the Club shall be admitted while the Election shall be in progress.
+- “Voting by letter shall be done by sealed notes, sent by mail, and with the signature of the voter.”
+
+Announcement was made to the members who have not received their certificates of membership, that they can; if they wish, apply for them.
+
+Announcement was also made that it is expected to
+
+[121]
+
+form in the Club, a Committee on Archeology which members interested in that subject may wish to join.
+
+Also that a Class in Geology in connection with the work of the Academy of Sciences is proposed. Dr. [Philip] Uhler has spoken of some new discoveries in this department of knowledge in the neighborhood of Baltimore; and he would be glad to see a more wide spread interest taken in the subject. The first meeting of this Class would be held on Thursday, at five o’ clock.
+
+The first literary article on our programme was by Miss [Annie S.] Perot, and was on the “Fin de Siecle, School of Fiction.”--She spoke of the Fiction of the present day; its lack of spirituality, its want of the development of the hidden meaning of common things, its treatment of Art as an end, and not as a means to reach something higher still. She spoke of the influence of [Robert] Browning and of [Richard] Wagner, and of other leaders of thought and expression in the nineteenth century. She spoke of the Fictions of Russia and Germany and France, as well as of those of England and America,--critically comparing their characteristics.
+
+The review was entertaining; but perhaps we may hope, that before the real Fin de Siecle, we may have better Fiction still than the first three years of the last decade of our century have been giving us; that the literature and and art of even the near future may, in its own way follow the clear leading voice of the late poet laureate,
+
+[poetry]
+“Call me not so often back!  
+Forward to the starry track,  
+On, and always on!”[^Tenny]
+[^Tenny]: Crane quotes from Alfred Tennyson's "The Silent Voices" (1892).
+[/poetry]
+
+Mrs. [Anna Dolores Tiernan] Tait, of the Committee on Current Criticism, next gave us her review of a Romance: “The Chevalier di Pensieri Vani,” by Henry B. Fuller. It was a lively de-
+
+[122]
+
+scription of scenery and characters, and especially of different points of view. The book is remarkable for the characterization evolved by description, without the aid of conversations; that is, without any talking in the first person at all, except by the author himself.
+
+Mrs. Tait brought before us with varied and lively interest the typical Italians,--male and female;--the English Duke, “fully armored in an amalgam of insularity and cosmopolitanism;” and Mr. G. W. Occident, an American. This last young man has left the “general awfulness” of Shelby County, “to see for himself if life were not better worth living than he could make it seem in the region where he had had the misfortune to be born.” Yet he finds it hard to forgive the blunt declaration of one of his Italian friends, that “America might indeed be an example to older countries,--to serve less as a pattern than as a warning.”
+
+Mrs. Tait gave us the Finale; in which Occident finds in the person of a successful Prima Donna in Italy, a girl, from Shelby County also;--and they two conclude to go back to their old home and old friends; taking with them grateful remembrances of the Cavaliere di Pensieri Vani.
+
+The next article on our programme was of three Poems by Miss Reese. The first was on “Lilies of the Valley.” She seemed to bring us these flowers of today, and to bring with them the olden times that bloom again for us when they bloom with the old perfume and loveliness. The second was called, “In a Prayer Book”; telling of the warfares that we must wage alone, and of the eternal comfort of knowing that the greatest Love is love still, and still prevails.
+
+Another poem read by Miss Reese tells us that
+
+[123]
+
+“Polly looks from her window, and takes the air,”--and “hears the nightingale,”--“when April is in town,” making us feel that even in town the good gift of spring can come to us.
+
+One other poem she read to us was called: “Fra Basil;”--telling of the pious, artless brother, who works in his garden for this Lord; and hopes that when in--or near--his Lord’s presence, he may have a little garden to work in, for his Lord’s praise still.
+
+The next article on our programme was a story by Miss [Sarah H.] Bennett, called: “A Corrected Impression.” In this story we have Margaret, who has brought her knitting and come to spend the evening with Belvedera. Both of them are sixty; both widows; but Belvedera has been a beauty; and a village belle; and Margaret has been “very plain” always:--which makes them different being of course. Yet Margaret has had a husband worth having, in her opinion, and in that of her neighbors, apparently;--and she visits his grave very often, saying “it is no much company for her” to be near where he lies. They talk of old times, recalling a certain Sunday when Belvedera wore her new spring bonnet and dress, and set the hearts of boys--and perhaps of the girls too--in a flutter. Margaret confesses that was the only time she ever felt jealous of Belvedera;--just then, when Joe left her, and went to talk to Belvedera for a minute or two. But he came back to her,--and asked her to marry him too. Of course she said “yes,”--“she had not thought she was going to get the pick of the lot.”
+
+Belvedera, after a moment, asks Margaret if she shall tell her what Joe said to her on that occasion? Mar-
+
+[124]
+
+garet assenting; Belvedera tells her that Joe said: “Belvedera, let’s take everything back, and be just as we were before.” “I only laughed at him,” she said, “I thought he was just like the rest of the boys;--but he wasn’t.” “You don’t mind Margaret,--do you?” “No, I don’t,” said Margaret;--but she got up, and went home.
+
+A little later she goes to Joe’s grave;--but her very prayer there is an indignant protest that it is not right for Belvedera to have had everything,--even Joe’s love.
+
+The bliss that may have been ignorance, was gone for ever,--or for this world, at any rate.
+
+The last article on our programme was by Miss Brent, and was on “Lorenzo di Medici.” She quoted [Thomas Babington] Macaulay’s eloquent description of the glory of Florence under the rule of the Medici family. She told us of the early life of Lorenzo; of his literary and artistic tastes; of his immense work for the improving and beautifying of Florence. Also, of his sonnets to his lady-love,--telling of a love more poetical than passionate, perhaps, for we were reminded of his saying, that poetry had made him a lover,--not love a poet. She spoke of his having been made to marry a lady chosen for him by his father; but she thought that the marriage was a happy one; and, in testimony to his opinion, she read us a pleasant letter to his wife, showing, as she said, that husbands and wives probably wrote to each other in those days very much the same kind of letters that they write to each other now. She told us of the great men of that time; not only those of Florence, but the great men of other countries also, who were attracted by the wealth of art and learning concentrated in the beautiful city on the Arno. Miss [Emma Fenwick] Brent closed with Mrs.
+
+[125]
+
+[Anna Brownell] Jameson's description of Florence;--“which seems to gather into itself all that makes life a sunny dream of beauty and delight.”
+
+The meeting adjourned.
+
+### 86th Meeting. [May 23, 1893]
+
+The eighty sixth Meeting of the Woman’s Literary Club of Baltimore,--being the occasion of the annual election of all the officers of the Club,--was held on May 23rd, 1893, at the corner of Franklin and Cathedral Streets.
+
+The meeting was called to order by the President, Mrs. [Francese Litchfield] Turnbull. The Recording Secretary read the minutes of the meeting of May 16th.
+
+The President announced the last Salon of the year, on Tuesday next, would be our Anniversary Meeting, in which the whole work of the past year would be reviewed. Mrs. Turnbull spoke of the influence of our Club, and of its responsibilities; and, in a few graceful words, invited us to assume the right and privilege of electing our officers for the coming year.
+
+The Scheme or Order of Election, which had been adopted by the Board of Management, and submitted to the Club at its last meeting, was then read to us.
+
+In accordance with this plan, Mrs. [M. N.] Perry was chosen Judge of the Election. She appointed as the three tellers Mrs. [Alice Emma Sauerwein] Lord, Mrs. [Louise C.] Haman and Miss [Edith] Duer;--the first to hold and give out the blanks for distribution, and the others to receive and count the votes. Mrs. [Aileen B. C.] Dammann was made Secretary of the Election, and Miss Fannie [Fanny] Hoffman was made the Doorkeeper.
+
+[126]
+
+The Roll of members was called by Mrs. [Caroline Canfield] Bullock, the Treasurer. Fifty seven members answered to their names, and afterwards the representation was increased by arrivals and by letters to sixty one names.
+
+The first action in order was the nomination of candidates for President. It had been agreed that all names receiving five or more nominating votes should be written on the blackboard, for the information of the members.
+
+The first nominating ballot resulted in the choice of four names. [Written in pencil:] [Emma Fenwick] Brent - [Mrs. W. Woolsey] Johnson - [Elizabeth] Adams - [Elizabeth T.] King.
+
+The first elective ballot resulted in a majority for Miss  Brent,--who was elected President.
+
+The nominating ballot for Vice President resulted in the choice of five names. [In pencil:] Adams - King - Johnson - [Annie Leakin] Sioussat - [Mary Wilcox] Brown.
+
+The first elective ballot resulted in no majority.
+
+Three of the candidates having withdrawn their names, on the second elective ballot Miss King was elected First Vice President. [In pencil:] (over Miss Adams.)
+
+The nominating ballot for Second Vice President resulted in the choice of four names. [In pencil:] [Louisa Courtland Osburne] Haughton, Adams, Johnson, Brown. 
+
+On the first elective ballot, Miss Haughton was elected First Vice President. 
+
+The nominating ballot for Recording Secretary showing a full majority for one candidate, the Club in order to save time, voted _viva voce_ to consider the nomination an election, and Miss [Lydia] Crane was declared re-elected Recording Secretary.
+
+The nominating ballot for Treasurer resulted in the choice of two names. [In pencil:] [Caroline Canfield] Bullock and [Henrietta] Szold.
+
+On the first elective ballot Mrs. Bullock was re-elected Treasurer.
+
+[127]
+
+The new President, Miss Brent then nominated for Corresponding Secretary, Miss Annie [S.] Perot.
+
+By a standing vote, Miss Perot was elected, without opposition, Corresponding Secretary.
+
+Miss Brent then thanked the Club for the honor done her, and expressed her hope and belief that each member of the Club would seek to work with her, and for the mental growth and advancement of us all.
+
+The nominating ballot for the six members of the Executive Committee resulted in the names of twenty one members receiving more than five votes.
+
+After one indecisive ballot,--as it was growing late, and there were evidences of an approaching storm,--the Judge of Election announced that it was necessary to adjourn the meeting to a subsequent occasion, at which the election could be concluded.
+
+The new President appointed the time of meeting again as Saturday Morning, May 27th, at 11 o’clock, until which time, the meeting adjo[u]rned.
+
+### Special Meeting. [May 27, 1893]
+
+The adjourned meeting of the Woman’s Literary Club of Baltimore, held for the special purpose of completing the election of officers for the Club[,] year of 1893 and 1894, took place on Saturday morning, May 27th 1893, at the corner of Franklin and Cathedral Streets.
+
+The officers still to be elected were the six members of the Executive Committee.
+
+The Officers of the Election were the same as on
+
+[128]
+
+the occasion of the former meeting, with the exception of the tellers, Miss [Virginia Woodward] Cloud doing duty in that capacity for Mrs. [Louise C.] Haman.
+
+At half past eleven, the Club proceeded to business.  
+
+There were thirty eight members present,--and fourteen members sent their written, sealed, votes, making a total of fifty two votes.  
+
+During the meeting some discussion arose on the right of members present to refrain from voting. It was ruled that any member desiring to so refrain ought to leave the room.  
+
+The first ballot for the election of the first member of the Executive Committee resulted in a majority for Miss Mary Willcox [Wilcox] Brown, who was, of course declared elected.
+
+For the second member of the Executive Committee five ballots were taken, the fifth resulting in the [election] of Mrs. [Alice Emma Sauerwein] Lord.
+
+The first ballot for the third member of the Executive Committee resulted in the election of Miss [Henrietta] Szold.
+
+For the fourth member of the Executive Committee two ballots were taken;--the second ballot resulting in the election of Mrs. [Susanna] Johnson.
+
+For the fifth member of the Executive Committee four ballots were taken,--the fourth ballot resulting in the election of Miss [Mary F.] Grace.
+
+For the sixth member of the Executive Committee, eight indecisive ballots were taken.
+
+[129]
+
+Not only did the candidates seem to have very constant supporters and friends, but the votes sent by mail, which could not be changed, added to the number necessary to be a choice, and consequently to the difficulty of obtaining a majority.
+
+The hour was growing late, and a compromise ticket was proposed presenting two names taken from the list on the blackboard. On this ticket two ballots were taken, resulting in the election of Mrs. [Aileen B. C.] Dammann, as the sixth member of the Executive Committee.
+
+A vote of thanks was given to our members who had acted as officers of the Election, and the meeting adjourned.
+
+### 25th Salon. [May 30, 1893]
+
+The twenty fifth Salon of the Woman’s Literary Club of Baltimore, being the last meeting of the season of 1892 and 1893 took place on Tuesday, May 30th, 1893, at the corner of Franklin and Cathedral Streets. It was also the anniversary occasion of the year; and was, as previously arranged, under the direction of the officers for the year just closing.
+
+Our first--and, for three years, only--President, Mrs. [Francese Litchfield] Turnbull, called the meeting to order.
+
+The Recording Secretary read her Report of the year’s literary work of the Club; which was, of course, compiled from her minutes of the meetings of the year, and recollections of specially interesting meetings.
+
+[130]
+
+The Librarian, Miss [Virginia Woodward] Cloud, then gave us her Report, of our library; which in November 1892, numbered sixty three volumes, and now numbered two hundred. After enumerating the books presented during the year, she spoke of our gratitude to our members, and to our other friends, who have increased the number of books in our library.
+
+As our Librarian has also been our Corresponding Secretary for the past year, a vote of thanks for all her work was moved by Mrs. [Elizabeth Turner] Graham, and seconded by Mrs. [Marguerite E.] Easter. In this motion the Recording Secretary was also included, and it was passed without opposition.
+
+Mrs. Turnbull then gave us the President’s Anniversary Address, which was also her farewell to us, before leaving for a long visit to Europe. Our retiring President spoke to us of our gathering to celebrate our third Anniversary. There has been a great advance in our material progress,--a thing which might be able to help, or hinder, our mental or spiritual progress. But we trust that the progress and success near to our hearts has been great also, that our work has taken a higher intellectual rank as time has gone on, and that into the domain which is higher still than that of intellect, we have gone, with larger views and nobler ideals.
+
+Mrs. Turnbull went on to speak of the recognition our work has received outside of our own circle. She spoke of her strong faith in the methods that have so far been pursued in our efforts to encourage “right and serious views of life and
+
+[131]
+
+literature"; and deprecated some proposed changes in these methods; as, for instance, the more frequent introduction into our social meetings of men as well as women. She thought that our work should be distinctly woman’s work, in the few hours we give to it, and to each other in our weekly meetings.
+
+She spoke also of our Board of Management, and of the work, especially the detailed or preliminary work, which it seems necessary in all organizations to commit to a selected number or portion of the members.
+
+Mrs. Turnbull reminded us of the critical age we live in; of the power of self-criticism; of our efforts to be artists in words; and of the value of artistic reticence. She spoke of the spiritualization of thought, and of the higher plane of literature that we hope for in the future.
+
+She then spoke of her love for the Club, and for the work we have all done together, and of her regret in leaving it, and us. She thanked us for the genuine appreciation of her motives, and for the co-operation she had received in her three years association with us;--and commended to our consideration and support our newly elected President.
+
+Mrs. Turnbull closed her address with the hope that the work dear to her heart, as to ours also, would have in the future a real, spiritual influence, harmonious, restful, and inspired.
+
+Miss [Louisa Courtland Osburne] Haughton then spoke earnestly and enthusiastically of all that Mrs. Turnbull has done for the Club;--of her wise suggestions and decisions; of her unfailing care and thoughtfulness, which has largely contributed to make the Club a happy
+
+[132]
+
+influence in unlooked for directions and circles.
+
+She then presented to Mrs. Turnbull a badge, bearing the Club colors and motto; which our first President was requested to wear, as a token of grateful from fellow members.
+
+In closing, Miss Haughton said that instead of using our own “good-bye,” we would borrow from our German cousins their “Auf Wiedersehen!”
+
+Mrs. Turnbull, in very few words gave thanks for the tributes she had received, and hoped that all the flowers blossoming here today might continue to give beauty and fragrance to the future for all of us.
+
+Mrs. Easter then read a original poem; speaking of the hush that comes to the woods, and to our Arcadian dreams in them, when the evening shadows are falling, and of the hush that comes to our spirits also, when the shadow is falling of the the absence of one very near to us.
+
+Miss [Maria H.] Middleton next read some lines of her own addressed, “To our Friend, who is going away.[“]  
+
+Miss [Lizette Woodworth] Reese next gave us one of her happy musical songs, “April in Town,”--and making a graceful reference to the portrait of our retiring President.
+
+Mrs. Turnbull said she felt herself all unworthy, in having no fitting words to give to her friends; but she thought that next to her home she would always hold the Club in her heart. She then spoke of the thanks due to the members of the retiring Board of Management;--also of their unselfish
+
+[133]
+
+work with her during the past year. And in now leaving the Chair, she presented to us the new President, and asked for loyal and generous support for her and her high ideals.
+
+Miss [Emma Fenwick] Brent said she wished to fulfill the work of her predecessor; or, at least to do a part of what our first President had done. For herself, she hoped for harmony among old and new friends, in our intellectual and literary work. She remind[ed] us of the saying of the great philosopher, Sir Isaac Newton, “that he seemed to himself like a child playing on the sea-shore, now and then finding a smoother pebble or a prettier shell than usual, while the great ocean of truth lay all undiscovered before him. That surely in this Spirit, and remembering always that love is the fulfilling of the law,” we can go on to study the little things--the low tones--of home, or the music of the Spheres. We can go on--
+
+[poetry]
+“Till old experience do attain  
+To something like prophetic strain.”
+[/poetry]
+
+“We know that no life is for itself alone, that each life tells something for eternity.
+
+Miss Brent then thanked our first, and until now, only, President for all that she has done for us.
+
+The announcement was made of the literary Committees of the Club for the coming year.
+
+Notice was given that certificates of membership could be applied for by those members who have not received them.
+
+The rest of the evening was chiefly spent in social intercourse,--and, as the programme said:
+
+[134]
+
+[poetry]
+--“Over the Tea-cups,--and over some other good things.  
+[/poetry]
+
+Mrs. Graham presented to us some refreshing, “non-alcoholic punch,” which was introduced to the Club by lively verses written and read by Miss [Margaret Moore] Piggot,--singing the praises of Lend-a-Hand Punch.
+
+With many parting regrets, but with happy hopes for the future re-unions the meeting adjourned.[^marginal note]
+
+[^marginal note]: Copies from this time made by Miss Hastings of Miss Crane’s Reports.
+
+[END OF SEASON]
