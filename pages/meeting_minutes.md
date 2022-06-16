@@ -25,9 +25,9 @@ permalink: /meeting_minutes.html
 </tr>
 
 <tr>
-<td><h4>Meeting Minutes</h4></td>
-<td><h4>Salon Minutes</h4></td>
-<td><h4>Board of Management Minutes</h4></td>
+<td><h4>Meeting</h4></td>
+<td><h4>Salon</h4></td>
+<td><h4>Board of Management</h4></td>
 </tr>
 
 <tr>

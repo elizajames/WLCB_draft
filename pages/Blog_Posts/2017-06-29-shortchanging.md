@@ -18,3 +18,5 @@ The women then debate whether they should just give her the money because it pro
 It was eventually decided that a decision of this gravity (whether or not to help a woman in need) was too much of a mature consideration for that meeting, so they postponed the decision until a later time.
 
 I have not yet reached the meeting where the decision is resolved, but let me tell you, I am truly waiting with baited breath to see what kind of convoluted decision they make in regards to someone a little less fortunate than them.
+
+*This content was migrated from the The WLCB log: Documenting the Woman's Literary Club of Baltimore 1890-1941*
