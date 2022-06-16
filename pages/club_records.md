@@ -3,26 +3,9 @@ title: Club Records
 layout: about
 permalink: /club_records.html
 ---
+{% include feature/nav-menu.html sections="Meeting Minutes;Programs;Constitutions;Membership Lists" %}
 
 ## Club Records
-<style>
-    td, th {
-        width: 120px;
-        height: 120px;
-        padding: 15px;
-        text-align: center;
-        vertical-align: top;
-    }
-</style>
-
-<table>
-<tr>
-<td>Minutes</td>
-<td>Programs</td>
-<td>Constitution</td>
-
-</tr>
-</table>
 
 ### Meeting Minutes
 
@@ -40,4 +23,10 @@ The notebooks containing the minutes were transcribed by members of the 2017-201
 
 ### Programs
 
-### Constitution
+For each of their weekly meetings, the Woman's Literary Club of Baltimore had a program printed. These programs give a concise overview of what happened at each meeting. Each one lists the date, order of events, titles of works shared, who created those works, who presented them to the Club, and which committee was in charge of organizing the meeting. Some of these programs have information that cannot be found in the minutes for a given meeting; for instance, the meeting minutes might describe a Club member reading a piece but neglect to include the exact title, which is listed on that meeting's program. All of this valuable information from the programs can be explored via this website's Advanced Search page, which accesses a database of meeting agenda items compiled through transcription of these programs.
+
+The significance of the programs goes beyond the raw data they contain, however. The materiality of these documents is also something special to behold: each one is printed in the Club's signature purple, with the WLCB crest at the top. The artful designs of the programs shifted over the course of many years, and some more elaborate Club events demanded more elaborate programs. This Programs exhibit highlights what these documents actually looked like, and in the process provides an in-depth look at what it would be like to follow along with a Club meeting.
+
+### Constitutions
+
+### Membership Lists
