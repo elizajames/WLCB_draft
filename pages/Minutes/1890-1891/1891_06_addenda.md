@@ -1,5 +1,8 @@
-Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3
-
+---
+title: 1891-01-13 Resolution Minutes
+layout: about
+permalink: /1891-01-13-resolution.html
+---
 [80]
 
 ### Resolutions of Regret on the Death of Mrs. Mary Spear Tiernan
@@ -35,3 +38,5 @@ And whereas: Mrs. Coleman was well and most appreciatively known and valued in B
 Resolved: that we sincerely regret her death, and that we would convey to her bereaved family our sympathy for their inestimable loss and our hope for their consolation through the evidence of the strong faith which characterized her life.
 
 Resolved: that a copy of these resolutions be forwarded to the family of our lamented friend, Mrs. Ann Mary Coleman.
+
+Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. Part of the second season.

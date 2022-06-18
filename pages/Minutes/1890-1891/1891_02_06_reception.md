@@ -1,5 +1,8 @@
-Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3
-
+---
+title: 1891-02-06 Reception Minutes
+layout: about
+permalink: /1891-02-06-reception.html
+---
 ### 1st Reception--February 6th 1891
 
 #### 1st reception; The Lyceum; Conversation; Refreshments--Given to Mr and Mrs. Richardson; Badge presented
@@ -17,3 +20,5 @@ Mrs. Richardson [Hester Crawford Dorsey Richardson] is the 1st Vice President, a
 
 Eliza Ridgely 
 Secretary
+
+Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. Part of the second season.

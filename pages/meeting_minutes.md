@@ -11,7 +11,7 @@ permalink: /meeting_minutes.html
 #### 1892-1893
 #### 1893-1894 - 
 
-Want to search all of the minutes? Simply enter the following search syntax at the beginning of your search string when you use the search bar in the upper right corner of the site: "+title:minutes" (do not include quotation marks). To add required words to the search, simply place a space after "+title:minutes".
+Interested in searching all of the minutes? Simply enter the following words at the beginning when you use the search bar in the upper right corner of the site: "+title:minutes" (do not include quotation marks). To add required words to the search, simply enter a space and any words you'd like to search for after "+title:minutes".
 
 
 
