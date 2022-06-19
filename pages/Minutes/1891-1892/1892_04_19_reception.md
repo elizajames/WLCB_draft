@@ -1,3 +1,8 @@
+---
+title: 1892-04-19-reception
+layout: about
+permalink: 1892-04-19-reception.html
+---
 Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3
 
 [148]
@@ -19,3 +24,5 @@ The supper was served after 9 o'clock in the upper hall under the care of Miss L
 
 Eliza Ridgely
 Secretary.
+
+Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. Part of the third season.
