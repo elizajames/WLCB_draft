@@ -1,10 +1,8 @@
 ---
-title: 1892-04-19-reception
+title: 1892-04-19 Reception Minutes
 layout: about
 permalink: 1892-04-19-reception.html
 ---
-Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3
-
 [148]
 
 ### 2nd Reception--April 19th 1892.
