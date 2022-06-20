@@ -1,10 +1,8 @@
 ---
-title: 1893-02-15-special-BOM
+title: 1893-02-15 Special Board of Management Minutes
 layout: about
 permalink: 1893-02-15-special-BOM.html
 ---
-Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/) Woman's Literary Club of Baltimore Collection, MS988, Box 3, Book 6
-
 [23] 
 
 ### Special Executive Meeting, February 15th. [1893]

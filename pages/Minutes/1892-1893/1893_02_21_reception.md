@@ -1,10 +1,8 @@
 ---
-title: 1893-02-21-reception
+title: 1893-02-21 Reception Minutes
 layout: about
 permalink: 1893-02-21-reception.html
 ---
-Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3, book dated Dec. 6, 1892-Dec. 19, 1893
-
 [57] 
 
 ### [Reception of the Academy of Sciences.[^Club room]
