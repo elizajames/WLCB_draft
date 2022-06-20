@@ -1,7 +1,7 @@
 ---
 title: 1892-04-19 Reception Minutes
 layout: about
-permalink: 1892-04-19-reception.html
+permalink: /1892-04-19-reception.html
 ---
 [148]
 

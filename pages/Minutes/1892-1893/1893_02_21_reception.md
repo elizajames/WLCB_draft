@@ -1,7 +1,7 @@
 ---
 title: 1893-02-21 Reception Minutes
 layout: about
-permalink: 1893-02-21-reception.html
+permalink: /1893-02-21-reception.html
 ---
 [57] 
 
