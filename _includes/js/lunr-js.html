@@ -27,7 +27,7 @@ var idx = lunr(function () {
 
 /* search function */
 function lunr_search () {
-  var urls_to_exclude = ["/records.html", null, "/objects/","/item.html,/meeting_minutes.html"];
+  var urls_to_exclude = ["/records.html", null, "/objects/","/item.html","/meeting_minutes.html"];
   var resultdiv = $('#lunrResults');
   var query = $('#lunrSearchBox').val();//.toLowerCase();
   /* basic search that supports operators */

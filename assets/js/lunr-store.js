@@ -5,7 +5,7 @@
 {%- assign fields = site.data.config-search -%}
 var page_info = [
 {%- for page in site.pages -%}
-{"id": {{page.permalink | jsonify}}, "title": {{page.title | jsonify}}, "content": {{page.content | strip_html | jsonify }}, "excerpt": {{page.content | strip_html | truncatewords: 20 | jsonify | remove: "#" }}}{%- unless forloop.last -%},{%- endunless -%}
+{"id": {{page.permalink | jsonify}}, "title": {{page.title | jsonify}}, "season": {{page.season | strip_html | jsonify }}, "content": {{page.content | strip_html | jsonify }}, "excerpt": {{page.content | strip_html | truncatewords: 20 | jsonify | remove: "#" }}}{%- unless forloop.last -%},{%- endunless -%}
 {%- endfor -%}
 ];
 var metadata_info = [

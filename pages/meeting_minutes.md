@@ -8,10 +8,10 @@ permalink: /meeting_minutes.html
 #### 1890 - [Minutes of meetings](https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Ainaugural%20-searching%20-omitted)
 #### 1890-1891 - [Minutes of meetings](https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Asecond%20-inaugural)
 #### 1891-1892 - [Minutes of meetings](https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Athird)
-#### 1892-1893 - [Minutes of meetings]()
-#### 1893-1894 - [Minutes of meetings]()
+#### 1892-1893 - [Minutes of meetings](https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Afourth)
+#### 1893-1894 - [Minutes of meetings](https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Afifth)
 
-Interested in searching all of the minutes? Simply enter the following words at the beginning when you use the search bar in the upper right corner of the site: "+title:minutes" (do not include quotation marks). To add required words to the search, simply enter a space and any words you'd like to search for after "+title:minutes".
+
 
 
 

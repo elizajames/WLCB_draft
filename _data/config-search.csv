@@ -7,4 +7,4 @@ subject,true,true
 location,true,false
 content,true,false
 excerpt,true,true
-
+season,true,false
