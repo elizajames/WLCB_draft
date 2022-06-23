@@ -4,31 +4,36 @@ layout: about
 permalink: /project_team.html
 ---
 
+{% include feature/image.html objectid="/assets/img/project_team.png" %}
 
-## Project Contributors
+## Project Team
+The Woman's Literary Club of Baltimore Archive project began in the summer of 2017. 
+
+#### Project lead
+- Jean Lee Cole, Professor Emeritus, Loyola University Maryland
 
 #### Summer 2017
-- Hunter Flynn
-- Sydney Johnson
-- Katie Kazmierski
-- Clara Love
-- Ellen Roussel
+- Hunter Flynn, Loyola Class of 2018
+- Sydney Johnson, Loyola Class of 2018
+- Katie Kazmierski, Loyola Class of 2018
+- Clara Love, Loyola Class of 2019
+- Ellen Roussel, Loyola Class of 2018
 
 #### Spring 2018
-- Tara Brooky 
-- Marina Fazio 
-- Jonathan Flink 
+- Tara Brooky, Loyola Class of 2021
+- Marina Fazio, Loyola Class of 2019 
+- Jonathan Flink, Loyola Class of 2018 
 - Hunter Flynn 
-- Jill Fury 
-- Megan Hultberg 
+- Jill Fury, Loyola Class of 2019 
+- Megan Hultberg, Loyola Class of 2018 
 - Sydney Johnson 
 - Katie Kazmierski 
-- Kaitlyn Kutch 
+- Kaitlyn Kutch, Loyola Class of 2020 
 - Clara Love 
-- Monica Malouf 
-- Ju'waun Morgan 
+- Monica Malouf, Loyola Class of 2018 
+- Ju'waun Morgan, Loyola Class of 2019 
 - Ellen Roussel 
-- Katie Shiber
+- Katie Shiber, Loyola Class of 2020
 
 #### Summer 2018
 - Marina Fazio 
@@ -36,22 +41,28 @@ permalink: /project_team.html
 - Clara Love
 
 #### Fall 2018-Spring 2019
-- Cole Barrett 
+- Cole Barrett, Loyola Class of 2019  
 - Tara Brooky 
-- Mary Cronin 
-- Francesca D'Aloia 
-- Matt Dabrowski 
-- Nicole Day 
+- Mary Cronin, Loyola Class of 2020  
+- Francesca D'Aloia, Loyola Class of 2020
+- Matt Dabrowski, Loyola Class of 2019  
+- Nicole Day, Loyola Class of 2019 
 - Jill Fury 
-- Alessia Hughes 
+- Alessia Hughes, Loyola Class of 2020  
 - Clara Love 
-- Katherine Marrinen 
-- Claire McElduff 
-- Natalie Muñoz 
-- Miranda Nolan 
-- Maddie Pikus 
-- Alyssa Schilke 
+- Katherine Marrinen, Loyola Class of 2020 
+- Claire McElduff, Loyola Class of 2019  
+- Natalie Muñoz, Loyola Class of 2019  
+- Miranda Nolan, Loyola Class of 2020 
+- Maddie Pikus, Loyola Class of 2019
+- Alyssa Schilke, Loyola Class of 2020 
 - Katie Shiber 
 
 #### Summer 2019
 - Miranda Nolan
+
+#### 2018-2020
+- Cynthia Requardt, volunteer
+
+#### 2022
+- Elizabeth James, West Virginia University Libraries
