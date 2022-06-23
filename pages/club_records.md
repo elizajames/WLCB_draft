@@ -3,6 +3,7 @@ title: Club Records
 layout: about
 permalink: /club_records.html
 ---
+{% include feature/image.html objectid="/assets/img/meeting_minutes.png" %}
 {% include feature/nav-menu.html sections="Meeting Minutes;Programs;Constitutions;Membership Lists" %}
 
 ## Club Records
