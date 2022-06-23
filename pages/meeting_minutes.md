@@ -1,8 +1,4 @@
----
-title: Meeting Minutes
-layout: about
-permalink: /meeting_minutes.html
----
+{% include feature/image.html objectid="/assets/img/meeting_minutes.png" %}
 ## Meeting Minutes
 
 #### 1890 - [Minutes of meetings](https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Ainaugural%20-searching%20-omitted)
