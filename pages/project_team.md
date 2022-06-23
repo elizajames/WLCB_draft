@@ -5,12 +5,11 @@ permalink: /project_team.html
 ---
 
 {% include feature/image.html objectid="/assets/img/project_team.png" %}
-
 ## Project Team
 The Woman's Literary Club of Baltimore Archive project began in the summer of 2017. 
 
 #### Project lead
-- Jean Lee Cole, Professor Emeritus, Loyola University Maryland
+- Jean Lee Cole, Professor Emerita, Department of English, Loyola University Maryland
 
 #### Summer 2017
 - Hunter Flynn, Loyola Class of 2018
