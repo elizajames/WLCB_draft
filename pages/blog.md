@@ -3,13 +3,17 @@ title: Blog
 layout: about
 permalink: /blog.html
 ---
-## 2020
+## WLCB project blog highlights
+
+Members of the project team posted research findings to the project blog from 2017-2020. These highlights provide fascinating glimpses of the time period, Club activities, individual members, and the execution of the WLCB archive project. They also provide starting points for many future research projects!
+
+### 2020
 
 [*New Year's, and after*](https://elizajames.github.io/WLCB_draft/2020-01-02.html) by Jean Lee Cole, January 2, 2020
 
 [*How the Vote Was Won*](https://elizajames.github.io/WLCB_draft/2020-01-15) by Jean Lee Cole, January 15, 2020
 
-## 2019
+### 2019
 
 [*A Christmas poem from Elizabeth Latimer*](https://elizajames.github.io/WLCB_draft/2019-12-21.html) by Jean Lee Cole, December 21, 2019
 
@@ -20,7 +24,7 @@ permalink: /blog.html
 [*Haughton & Haughton, dressmakers to the (Baltimore) stars*](https://elizajames.github.io/WLCB_draft/2019-03-07.html) by Jean Lee Cole, March 7, 2019
 
 
-## 2018
+### 2018
 
 [*Endings and sequels*](https://elizajames.github.io/WLCB_draft/2018-05-22.html) by Jean Lee Cole, May 22, 2018
 
@@ -38,7 +42,7 @@ permalink: /blog.html
 
 [*The House of Mirth … at last*](https://elizajames.github.io/WLCB_draft/2018-01-08.html) by Jean Lee Cole, January 8, 2018
 
-## 2017
+### 2017
 
 [*Hurrah for volunteers!*](https://elizajames.github.io/WLCB_draft/2017-10-27.html) by Jean Lee Cole, October 27, 2017
 
