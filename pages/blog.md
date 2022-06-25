@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: about
+layout: page
 permalink: /blog.html
 ---
 ## WLCB project blog highlights

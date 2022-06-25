@@ -1,6 +1,6 @@
 ---
 title: Adaline Vanderpoel
-layout: about
+layout: page
 permalink: /AdalineVanderpoel.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Virginia Woodward Cloud
-layout: about
+layout: page
 permalink: /VirginiaCloud.html
 ---
 

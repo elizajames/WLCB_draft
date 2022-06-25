@@ -1,6 +1,6 @@
 ---
 title: Pearl Daniels (Mrs. Philip R.) Uhler
-layout: about
+layout: page
 permalink: /PearlUhler.html
 ---
 

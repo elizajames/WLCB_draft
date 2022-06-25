@@ -1,6 +1,6 @@
 ---
 title: Caroline Canfield Bullock
-layout: about
+layout: page
 permalink: /CarolineBullock.html
 ---
 ## Caroline Canfield Bullock (1845-1926)

@@ -1,6 +1,6 @@
 ---
 title: Lizette Woodworth Reese
-layout: about
+layout: page
 permalink: /LizetteReese.html
 ---
 

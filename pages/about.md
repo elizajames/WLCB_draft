@@ -1,6 +1,6 @@
 ---
 title: About
-layout: about
+layout: page
 permalink: /about.html
 ---
 {% include feature/image.html objectid="/assets/img/WLCB_banner.png" %}

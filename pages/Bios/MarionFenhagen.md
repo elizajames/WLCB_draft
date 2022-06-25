@@ -1,6 +1,6 @@
 ---
 title: Marion Stansbury Fenhagen
-layout: about
+layout: page
 permalink: /MarionFenhagen.html
 ---
 

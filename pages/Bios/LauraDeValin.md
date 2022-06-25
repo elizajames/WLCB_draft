@@ -1,6 +1,6 @@
 ---
 title: Laura V. De Valin
-layout: about
+layout: page
 permalink: /LauraDeValin.html
 ---
 

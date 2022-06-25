@@ -1,6 +1,6 @@
 ---
 title: Marian V. Dorsey
-layout: about
+layout: page
 permalink: /MarianDorsey.html
 ---
 

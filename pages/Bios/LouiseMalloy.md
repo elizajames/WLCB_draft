@@ -1,6 +1,6 @@
 ---
 title: Louise Malloy
-layout: about
+layout: page
 permalink: /LouiseMalloy.html
 ---
 

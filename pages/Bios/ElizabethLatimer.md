@@ -1,6 +1,6 @@
 ---
 title: Elizabeth Wormeley Latimer
-layout: about
+layout: page
 permalink: /ElizabethLatimer.html
 ---
 

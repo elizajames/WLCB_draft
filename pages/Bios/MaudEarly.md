@@ -1,6 +1,6 @@
 ---
 title: Maud Graham Early
-layout: about
+layout: page
 permalink: /MaudEarly.html
 ---
 

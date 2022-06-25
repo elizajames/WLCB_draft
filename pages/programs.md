@@ -1,6 +1,6 @@
 ---
 title: Programs
-layout: about
+layout: page
 permalink: /programs.html
 ---
 ## Testing

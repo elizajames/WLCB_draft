@@ -1,6 +1,6 @@
 ---
 title: Ella Morrow Sollenberger
-layout: about
+layout: page
 permalink: /EllaSollenberger.html
 ---
 

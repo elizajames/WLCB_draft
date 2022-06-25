@@ -1,6 +1,6 @@
 ---
 title: Corinne Robert Redgrave
-layout: about
+layout: page
 permalink: /CorinneRedgrave.html
 ---
 

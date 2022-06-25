@@ -1,6 +1,6 @@
 ---
 title: Lily Tyson (Mrs. Gaston) Manly
-layout: about
+layout: page
 permalink: /LilyManly.html
 ---
 

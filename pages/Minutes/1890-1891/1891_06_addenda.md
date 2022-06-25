@@ -1,6 +1,6 @@
 ---
 title: 1891-01-13 Resolution Minutes
-layout: about
+layout: page
 permalink: /1891-01-13-resolution.html
 ---
 [80]

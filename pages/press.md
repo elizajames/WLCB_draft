@@ -1,6 +1,6 @@
 ---
 title: Press
-layout: about
+layout: page
 permalink: /press.html
 ---
 

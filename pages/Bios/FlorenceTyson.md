@@ -1,6 +1,6 @@
 ---
 title: Florence McIntyre Tyson
-layout: about
+layout: page
 permalink: /FlorenceTyson.html
 ---
 ## Florence McIntyre Tyson

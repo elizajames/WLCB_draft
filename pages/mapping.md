@@ -1,6 +1,6 @@
 ---
 title: Where They Lived
-layout: about
+layout: page
 permalink: /mapping.html
 ---
 ## Where They Lived

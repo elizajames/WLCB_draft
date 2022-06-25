@@ -1,6 +1,6 @@
 ---
 title: Elizabeth Lester Mullin
-layout: about
+layout: page
 permalink: /ElizabethMullin.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Letitia Humphreys Yonge Wrenshall
-layout: about
+layout: page
 permalink: /LetitiaWrenshall.html
 ---
 

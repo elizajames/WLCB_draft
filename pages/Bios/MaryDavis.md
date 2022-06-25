@@ -1,6 +1,6 @@
 ---
 title: Mary Dorsey Davis
-layout: about
+layout: page
 permalink: /MaryDavis.html
 ---
 

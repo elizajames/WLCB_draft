@@ -1,6 +1,6 @@
 ---
 title: Jane Zacharias
-layout: about
+layout: page
 permalink: /JaneZacharias.html
 ---
 

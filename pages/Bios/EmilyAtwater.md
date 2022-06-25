@@ -1,6 +1,6 @@
 ---
 title: Emily Paret Atwater
-layout: about
+layout: page
 permalink: /EmilyAtwater.html
 ---
 ## Emily Paret Atwater (1873-1951)

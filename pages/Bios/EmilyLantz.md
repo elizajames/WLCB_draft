@@ -1,6 +1,6 @@
 ---
 title: Emily Emerson Lantz
-layout: about
+layout: page
 permalink: /EmilyLantz.html
 ---
 

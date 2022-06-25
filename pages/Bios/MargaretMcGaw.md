@@ -1,6 +1,6 @@
 ---
 title: Margaret A. (Mrs. George K.) McGaw
-layout: about
+layout: page
 permalink: /MargaretMcGaw.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Virginia Berkley Bowie
-layout: about
+layout: page
 permalink: /VirginiaBowie.html
 ---
 ## Virginia Berkley Bowie (1880-1976)

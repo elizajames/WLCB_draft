@@ -1,6 +1,6 @@
 ---
 title: Biographies
-layout: about
+layout: page
 permalink: /bios.html
 ---
 <style>

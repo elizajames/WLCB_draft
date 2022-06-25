@@ -1,6 +1,6 @@
 ---
 title: Anne Weston Whitney
-layout: about
+layout: page
 permalink: /AnneWhitney.html
 ---
 

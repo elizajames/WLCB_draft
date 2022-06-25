@@ -1,6 +1,6 @@
 ---
 title: Christine Ladd-Franklin
-layout: about
+layout: page
 permalink: /ChristineLaddFranklin.html
 ---
 

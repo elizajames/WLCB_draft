@@ -1,6 +1,6 @@
 ---
 title: Documenting the only voting these women were allowed to take part in because they lived, and we continue to live, in a patriarchal society
-layout: about
+layout: page
 permalink: /2017-08-10-documenting.html
 ---
 ## Documenting the only voting these women were allowed to take part in because they lived, and we continue to live, in a patriarchal society

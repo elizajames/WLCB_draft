@@ -1,6 +1,6 @@
 ---
 title: Shortchanging the Janitress
-layout: about
+layout: page
 permalink: /2017-06-29-shortchanging.html
 ---
 

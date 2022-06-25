@@ -1,6 +1,6 @@
 ---
 title: Hester Crawford Dorsey Richardson
-layout: about
+layout: page
 permalink: /HesterRichardson.html
 ---
 

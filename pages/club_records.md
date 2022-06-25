@@ -1,6 +1,6 @@
 ---
 title: Club Records
-layout: about
+layout: page
 permalink: /club_records.html
 ---
 {% include feature/image.html objectid="/assets/img/meeting_minutes.png" %}

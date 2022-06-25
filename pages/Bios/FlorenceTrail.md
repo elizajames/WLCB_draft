@@ -1,6 +1,6 @@
 ---
 title: Florence Trail
-layout: about
+layout: page
 permalink: /FlorenceTrail.html
 ---
 

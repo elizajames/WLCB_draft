@@ -1,6 +1,6 @@
 ---
 title: Emily Anna (Mrs. Alan P.) Smith
-layout: about
+layout: page
 permalink: /EmilySmith.html
 ---
 

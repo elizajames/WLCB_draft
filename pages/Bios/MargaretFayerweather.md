@@ -1,6 +1,6 @@
 ---
 title: Margaret Pollock Fayerweather
-layout: about
+layout: page
 permalink: /MargaretFayerweather.html
 ---
 

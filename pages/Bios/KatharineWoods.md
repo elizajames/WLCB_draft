@@ -1,6 +1,6 @@
 ---
 title: Katharine Pearson Woods
-layout: about
+layout: page
 permalink: /KatharineWoods.html
 ---
 

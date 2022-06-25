@@ -1,6 +1,6 @@
 ---
 title: Marguerite E. Easter
-layout: about
+layout: page
 permalink: /MargueriteEaster.html
 ---
 

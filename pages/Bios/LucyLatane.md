@@ -1,6 +1,6 @@
 ---
 title: Lucy Temple Latané
-layout: about
+layout: page
 permalink: /LucyLatane.html
 ---
 

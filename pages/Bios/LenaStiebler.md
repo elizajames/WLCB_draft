@@ -1,6 +1,6 @@
 ---
 title: Lena Stiebler
-layout: about
+layout: page
 permalink: /LenaStiebler.html
 ---
 ## Lena Stiebler (1858-1926)

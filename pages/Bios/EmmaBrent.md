@@ -1,6 +1,6 @@
 ---
 title: Emma Fenwick Brent
-layout: about
+layout: page
 permalink: /EmmaBrent.html
 ---
 ## Emma Fenwick Brent (1836-1902)

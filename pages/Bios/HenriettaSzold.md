@@ -1,6 +1,6 @@
 ---
 title: Henrietta Szold
-layout: about
+layout: page
 permalink: /HenriettaSzold.html
 ---
 ## Henrietta Szold (1860-1945)

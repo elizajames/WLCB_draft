@@ -1,6 +1,6 @@
 ---
 title: Lucy Meacham Thruston
-layout: about
+layout: page
 permalink: /LucyThruston.html
 ---
 

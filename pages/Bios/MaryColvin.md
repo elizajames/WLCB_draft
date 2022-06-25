@@ -1,6 +1,6 @@
 ---
 title: Mary Noyes Colvin
-layout: about
+layout: page
 permalink: /MaryColvin.html
 ---
 

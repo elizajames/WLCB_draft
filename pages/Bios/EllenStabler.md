@@ -1,6 +1,6 @@
 ---
 title: Ellen (Mrs. Jordan) Stabler
-layout: about
+layout: page
 permalink: /EllenStabler.html
 ---
 ## Ellen Austin (Mrs. Jordan) Stabler (1851-1925?)

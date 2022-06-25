@@ -1,6 +1,6 @@
 ---
 title: Katharine H. Wrenshall Markland
-layout: about
+layout: page
 permalink: /KatharineMarkland.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Clara B. Newman Turner
-layout: about
+layout: page
 permalink: /ClaraTurner.html
 ---
 

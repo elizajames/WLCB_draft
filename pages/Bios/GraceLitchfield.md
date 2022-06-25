@@ -1,6 +1,6 @@
 ---
 title: Grace Denio Litchfield
-layout: about
+layout: page
 permalink: /GraceLitchfield.html
 ---
 

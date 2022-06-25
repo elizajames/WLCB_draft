@@ -1,6 +1,6 @@
 ---
 title: Project Team
-layout: about
+layout: page
 permalink: /project_team.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Ellen Duvall
-layout: about
+layout: page
 permalink: /EllenDuvall.html
 ---
 

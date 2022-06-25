@@ -1,6 +1,6 @@
 ---
 title: Annie Hollins
-layout: about
+layout: page
 permalink: /AnnieHollins.html
 ---
 

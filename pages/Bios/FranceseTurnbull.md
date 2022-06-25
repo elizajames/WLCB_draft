@@ -1,6 +1,6 @@
 ---
 title: Francese Litchfield Turnbull
-layout: about
+layout: page
 permalink: /FranceseTurnbull.html
 ---
 

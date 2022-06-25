@@ -1,6 +1,6 @@
 ---
 title: Project History
-layout: about
+layout: page
 permalink: /project_history.html
 ---
 {% include feature/image.html objectid="/assets/img/WLCB_banner.png" %}

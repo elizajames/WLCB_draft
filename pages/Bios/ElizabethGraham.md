@@ -1,6 +1,6 @@
 ---
 title: Elizabeth Turner Graham (Mrs. John T.)
-layout: about
+layout: page
 permalink: /ElizabethGraham.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mary Spear Tiernan
-layout: about
+layout: page
 permalink: /MaryTiernan.html
 ---
 

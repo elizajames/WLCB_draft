@@ -1,6 +1,6 @@
 ---
 title: Eliza Butler (Mrs. Edward, Jr.) Stabler
-layout: about
+layout: page
 permalink: /ElizaStabler.html
 ---
 

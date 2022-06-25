@@ -1,6 +1,6 @@
 ---
 title: Louise Clarkson Whitelock
-layout: about
+layout: page
 permalink: /LouiseWhitelock.html
 ---
 

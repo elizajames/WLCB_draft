@@ -1,6 +1,6 @@
 ---
 title: Annie Middleton Leakin Sioussat
-layout: about
+layout: page
 permalink: /AnnieSioussat.html
 ---
 

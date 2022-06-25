@@ -1,6 +1,6 @@
 ---
 title: Margaret Sutton Briscoe
-layout: about
+layout: page
 permalink: /MargaretBriscoe.html
 ---
 

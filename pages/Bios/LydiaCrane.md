@@ -1,6 +1,6 @@
 ---
 title: Lydia Crane
-layout: about
+layout: page
 permalink: /LydiaCrane.html
 ---
 

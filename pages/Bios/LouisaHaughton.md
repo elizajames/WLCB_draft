@@ -1,6 +1,6 @@
 ---
 title: Louisa Courtauld Osburne Haughton
-layout: about
+layout: page
 permalink: /LouisaHaughton.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 1893-02-15 Special Board of Management Minutes
-layout: about
+layout: page
 permalink: /1893-02-15-special-BOM.html
 ---
 [23] 

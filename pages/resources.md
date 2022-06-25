@@ -1,6 +1,6 @@
 ---
 title: Resources
-layout: about
+layout: page
 permalink: /resources.html
 ---
 

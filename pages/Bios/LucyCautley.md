@@ -1,6 +1,6 @@
 ---
 title: Lucy Randolph Cautley
-layout: about
+layout: page
 permalink: /LucyCautley.html
 ---
 

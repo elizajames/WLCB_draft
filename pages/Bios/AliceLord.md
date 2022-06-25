@@ -1,6 +1,6 @@
 ---
 title: Alice Emma Sauerwein Lord
-layout: about
+layout: page
 permalink: /AliceLord.html
 ---
 

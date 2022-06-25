@@ -1,6 +1,6 @@
 ---
 title: Octavia Williams Bates
-layout: about
+layout: page
 permalink: /OctaviaBates.html
 ---
 

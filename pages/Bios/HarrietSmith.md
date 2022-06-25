@@ -1,6 +1,6 @@
 ---
 title: Harriet Lummis Smith
-layout: about
+layout: page
 permalink: /HarrietSmith.html
 ---
 

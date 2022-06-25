@@ -1,6 +1,6 @@
 ---
 title: 1892-04-19 Reception Minutes
-layout: about
+layout: page
 permalink: /1892-04-19-reception.html
 ---
 [148]

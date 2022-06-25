@@ -1,6 +1,6 @@
 ---
 title: Elizabeth McCormick Reese
-layout: about
+layout: page
 permalink: /ElizabethReese.html
 ---
 

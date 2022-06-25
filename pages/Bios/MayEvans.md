@@ -1,6 +1,6 @@
 ---
 title: May Garrettson Evans
-layout: about
+layout: page
 permalink: /MayEvans.html
 ---
 

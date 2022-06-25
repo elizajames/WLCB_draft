@@ -1,3 +1,9 @@
+---
+title: Meeting Minutes
+layout: page
+permalink: /meeting_minutes.html
+---
+
 {% include feature/image.html objectid="/assets/img/meeting_minutes.png" %}
 ## Meeting Minutes
 
