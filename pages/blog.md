@@ -3,7 +3,7 @@ title: Blog
 layout: page
 permalink: /blog.html
 ---
-{% include feature/image.html objectid="demo_001" width="50" caption="I want to display this image https://elizajames.github.io/WLCB_draft/assets/img/conspicuous-women.jpg with the caption: "Article from the Baltimore Sun, Feb. 14, 1906 %}
+{% include feature/image.html objectid="/assets/img/conspicuous-women.jpg" width="50" caption="I want to display this image https://elizajames.github.io/WLCB_draft/assets/img/conspicuous-women.jpg with the caption: "Article from the Baltimore Sun, Feb. 14, 1906 %}
 
 ## WLCB project blog highlights
 
@@ -25,7 +25,7 @@ Between 2017-2020, project team members shared their research discoveries on the
 
 [*Haughton & Haughton, dressmakers to the (Baltimore) stars*](https://elizajames.github.io/WLCB_draft/2019-03-07.html) by Jean Lee Cole, March 7, 2019
 
-{% include feature/image.html objectid="demo_001" width="50" caption="I want to display this image https://elizajames.github.io/WLCB_draft/assets/img/duvall-obit.jpg with this caption: From 'Ellen Duvall: A look at the whole person,' Feb. 28, 2018" %}
+{% include feature/image.html objectid="assets/img/duvall-obit.jpg" width="50" caption="I want to display this image https://elizajames.github.io/WLCB_draft/assets/img/duvall-obit.jpg with this caption: From 'Ellen Duvall: A look at the whole person,' Feb. 28, 2018" %}
 
 ### 2018
 
