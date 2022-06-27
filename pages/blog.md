@@ -3,7 +3,7 @@ title: Blog
 layout: page
 permalink: /blog.html
 ---
-{% include feature/image.html objectid="/assets/img/conspicuous-women.jpg" width="50" caption="I want to display this image https://elizajames.github.io/WLCB_draft/assets/img/conspicuous-women.jpg with the caption: "Article from the Baltimore Sun, Feb. 14, 1906 %}
+{% include feature/image.html objectid="/assets/img/conspicuous-women.jpg" width="50" caption="Article from the Baltimore Sun, Feb. 14, 1906" %}
 
 ## WLCB project blog highlights
 
