@@ -14,6 +14,8 @@ custom-foot: js/timeline-js.html
 {%- if t == 0 -%}{{ i }}{% unless forloop.last %};{% endunless %}{% endif %}{% endfor %}{%- endcapture -%}
 {%- assign navYears = navYears | split: ";" -%}
 {%- endif -%}
+
+
 <div class="dropdown float-right" id="year-nav">
     <button class="btn btn-info dropdown-toggle" type="button" id="yearButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         Year
@@ -38,17 +40,13 @@ custom-foot: js/timeline-js.html
             <div class="row">
                 {%- assign inYear = items | where_exp: 'item', 'item.date contains year' -%}
                 {% for item in inYear %}
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6 text-center">
                     <a href="{{ '/item.html' | relative_url | append: '?id=' | append: item.objectid }}" >
                         {% if item.format contains 'image' or item.youtubeid %}
-                        <img class="lazyload img-thumbnail" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{% if item.youtubeid %}{{ 'https://img.youtube.com/vi/' | append: item.youtubeid | append: '/hqdefault.jpg' | relative_url }}{% elsif item.filename contains '/' %}{{ item.filename }}{% else %}{{ item.filename | prepend: '/objects/' | relative_url }}{% endif %}" alt="{{ item.title | escape }}" data-toggle="tooltip" data-placement="bottom" title="{{ item.title | escape }} | {{ item.date | escape }}">
+                        <img class="lazyload p-1" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{% if item.youtubeid %}{{ 'https://img.youtube.com/vi/' | append: item.youtubeid | append: '/hqdefault.jpg' | relative_url }}{% elsif item.thumb contains '/' %}{{ item.thumb }}{% else %}{{ item.thumb | prepend: '/objects/' | relative_url }}{% endif %}" alt="{{ item.title | escape }}" data-toggle="tooltip" data-placement="bottom" title="{{ item.title | escape }} | {{ item.date | escape }}">
                         {% else %}
-                        <div class="card"> 
-                            <div class="card-body text-center">
-                                <h4 class="card-title text-dark">{{ item.title }}</h4>
-                                <img class="lazyload img-thumbnail w-50" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{% if item.format contains 'audio' %}{{ '/assets/img/audio.svg' | relative_url }}{% elsif item.format contains 'video' %}{{ '/assets/img/video.svg' | relative_url }}{% elsif item.format contains 'pdf' %}{{ '/assets/img/pdf.svg' | relative_url }}{% else %}{{ '/assets/img/file.svg' | relative_url }}{% endif %}" alt="filetype thumbnail">
-                            </div>
-                        </div>
+                            <img class="lazyload p-1" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{% if item.format contains 'audio' %}{{ '/assets/img/audio.svg' | relative_url }}{% elsif item.format contains 'video' %}{{ '/assets/img/video.svg' | relative_url }}{% elsif item.format contains 'pdf' %}{{ item.thumb | relative_url }}{% else %}{{ '/assets/img/file.svg' | relative_url }}{% endif %}" alt="{{ item.title | escape }}" data-toggle="tooltip" data-placement="bottom" title="{{ item.title | escape }} | {{ item.date | escape }}">
+                      
                         {% endif %}
                     </a>
                 </div>
