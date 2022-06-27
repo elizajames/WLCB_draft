@@ -14,11 +14,10 @@ permalink: /bios.html
 </style>
 ## Who were they?
 
-The WLCB decided when they first formed in 1890 that "those only should belong who had sufficient interest in literature to have devoted some time and thought to original work for either newspapers and magazines or of a more lasting nature." Over the course of the club's half-century in existence, they were phenomenally successful in publishing "original work." However, the lives of individual members are virtually invisible in the historical record. 
+The WLCB decided when they first formed in 1890 that "those only should belong who had sufficient interest in literature to have devoted some time and thought to original work for either newspapers and magazines or of a more lasting nature." Over the course of the club's half-century in existence, they were phenomenally successful in publishing "original work." The lives of individual members, however, are virtually invisible in the historical record. 
 
-The project team has painstakingly recovered the histories of the most prominent members of the Club, including authors, Club leaders, performers, educators, journalists, and scientists. Read more about them by clicking on the links below.
+The project team has painstakingly recovered the histories of the most prominent members of the Club, including authors, Club leaders, performers, educators, journalists, and scientists. Read more about them by clicking on the links below. And check back for updates. Many Club members published work anonymously or under pseudonyms; these women are still being recovered. 
 
-The lives of the members of the Woman's LIterary Club of Baltimore 
 <table>
 <tr>
     <td><a href="https://elizajames.github.io/WLCB_draft/EmilyAtwater.html"><img src="https://elizajames.github.io/WLCB_draft/assets/img/EmilyAtwater.jpg" alt="Emily Paret Atwater"><br />Emily Paret Atwater</a></td>
