@@ -3,9 +3,11 @@ title: Blog
 layout: page
 permalink: /blog.html
 ---
+{% include feature/image.html objectid="demo_001" width="50" caption="I want to display this image https://elizajames.github.io/WLCB_draft/assets/img/conspicuous-women.jpg with the caption: "Article from the Baltimore Sun, Feb. 14, 1906 %}
+
 ## WLCB project blog highlights
 
-Members of the project team posted research findings to the project blog from 2017-2020. These highlights provide fascinating glimpses of the time period, Club activities, individual members, and the execution of the WLCB archive project. They also provide starting points for many future research projects!
+Between 2017-2020, project team members shared their research discoveries on the project blog. The highlighted posts included here show fascinating glimpses of the historical period and the evolution of the archive. Some of them are also starting points for future research projects. Please contact us if you'd like to contribute!
 
 ### 2020
 
@@ -23,6 +25,7 @@ Members of the project team posted research findings to the project blog from 20
 
 [*Haughton & Haughton, dressmakers to the (Baltimore) stars*](https://elizajames.github.io/WLCB_draft/2019-03-07.html) by Jean Lee Cole, March 7, 2019
 
+{% include feature/image.html objectid="demo_001" width="50" caption="I want to display this image https://elizajames.github.io/WLCB_draft/assets/img/duvall-obit.jpg with this caption: From 'Ellen Duvall: A look at the whole person,' Feb. 28, 2018" %}
 
 ### 2018
 
