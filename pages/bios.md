@@ -1,5 +1,5 @@
 ---
-title: Biographies
+title: Members
 layout: page
 permalink: /bios.html
 ---
