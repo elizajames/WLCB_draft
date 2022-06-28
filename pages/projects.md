@@ -12,3 +12,5 @@ permalink: /projects.html
 ### Katherine Pearson Woods
 
 ### Reading a Program
+
+[Exhibit created by Clara Love.](https://elizajames.github.io/WLCB_draft/reading-a-program.html)
