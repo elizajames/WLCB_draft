@@ -5,7 +5,7 @@ permalink: /AnneWhitney.html
 ---
 
 ## Anne Weston Whitney (1849-1909)
-<div style="float: left"><img src="https://elizajames.github.io/WLCB_draft/assets/img/AnneWhitney.jpg" alt="Anne Weston Whitney"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/AnneWhitney.jpg" alt="Anne Weston Whitney"></div>
 
 Anne "Annie" Weston Whitney was born in Massachusetts in 1849. She moved to Baltimore and was an extremely active Club member from 1892-1908, holding office as a Vice President and Chairman of many committees during those years. Whitney was also the secretary of the American Folk-Lore Society, and she published multiple collections of Maryland folk beliefs and superstitions. A volume of her writings, compiled with fellow member Caroline Canfield Bullock, was published posthumously in 1925, under the title *Folk-Lore in Maryland*. 
 

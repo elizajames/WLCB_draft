@@ -5,7 +5,7 @@ permalink: /MarianDorsey.html
 ---
 
 ## Marian V. Dorsey (Mary Virginia Dorsey)
-<div style="float: left"><img src="https://elizajames.github.io/WLCB_draft/assets/img/MarianDorsey.jpg" alt="Marian V. Dorsey"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/MarianDorsey.jpg" alt="Marian V. Dorsey"></div>
 
 Marian V. Dorsey was a founding member of the Woman's Literary Club of Baltimore and sister of Club co-founder Hester Dorsey Richardson. She was born Mary Virginia Dorsey on the Maryland's Eastern shore in Dorchester County, the subject of much of her writing. 
 

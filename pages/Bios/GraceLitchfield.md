@@ -5,7 +5,7 @@ permalink: /GraceLitchfield.html
 ---
 
 ## Grace Denio Litchfield (1849-1944)
-<div style="float: left"><img src="https://elizajames.github.io/WLCB_draft/assets/img/GraceLitchfield.jpg" alt="Grace Denio Litchfield"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/GraceLitchfield.jpg" alt="Grace Denio Litchfield"></div>
 
 Grace Denio Litchfield was born in Brooklyn Heights, Brooklyn. She spent much of her life traveling throughout Europe, and resided in Washington DC upon her return to the United States. Though she suffered from chronic ill health, she was known for her optimistic outlook and her humility. Litchfield was a prolific poet and short fiction writer, treating themes of nature, love, and pain. Litchfield was an honorary member of the Woman’s Literary Club of Baltimore throughout the early years of the Club and became an active member in the 1914-1915 season. Litchfield was the sister of the Club’s first President, Francese Hubbard Litchfield Turnbull.
 

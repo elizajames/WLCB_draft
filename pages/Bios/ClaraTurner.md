@@ -5,7 +5,7 @@ permalink: /ClaraTurner.html
 ---
 
 ## Clara B. Newman Turner (Mrs. Sidney) (1844-1920)
-<div style="float: left"><img src="https://elizajames.github.io/WLCB_draft/assets/img/ClaraTurner.jpg" alt="Clara B. Newman Turner"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/ClaraTurner.jpg" alt="Clara B. Newman Turner"></div>
 
 Clarissa Badger Newman was born in 1844. Her parents passed away when she was just eight years old, leaving Newman and her three sisters to join the household of their uncle Edward Dickinson, father of Emily Dickinson, in Amherst, Massachusetts. In 1869, Clara married Sidney Turner; the couple divided their time between Turner's hometown of Norwich, Connecticut and Baltimore. They had no children. Turner became a member of the Woman’s Literary Club of Baltimore in the 1893-1894 season and remained a loyal member for over twenty years. Turner was active in the club and appeared on programs hosted by a variety of committees, from the Committee on Art to the Committee on Essays and Essayists to the Committee on Modern Poetry. Turner published a single book of poetry, Mail from Nowhere, the only known copy of which is held at the Houghton Library at Harvard University. She passed away in 1920.
 
