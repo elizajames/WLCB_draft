@@ -15,4 +15,4 @@ On the evening of February 21st, 1893, the Academy of Sciences of Baltimore held
 The Reception was held in the large room furnished and prepared by the Woman’s Literary Club; -- and the Club members were, of course, among the guests of the occasion.]
 
 
-Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. Part of the fourth season.
+Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 

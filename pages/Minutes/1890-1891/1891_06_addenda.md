@@ -40,4 +40,4 @@ Resolved: that we sincerely regret her death, and that we would convey to her be
 
 Resolved: that a copy of these resolutions be forwarded to the family of our lamented friend, Mrs. Ann Mary Coleman.
 
-Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. Part of the second season.
+Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 
