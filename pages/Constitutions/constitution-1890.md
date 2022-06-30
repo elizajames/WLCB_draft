@@ -1,7 +1,7 @@
 ---
 title: 1890 Constitution
 layout: page
-permalink: /constition-1890.html
+permalink: /constitution-1890.html
 ---
 
 ## 1890 Constitution
@@ -9,6 +9,7 @@ permalink: /constition-1890.html
 [6]
 
 ### Constitution. [1890][^MCHC]
+
 [^MCHC]: The 1890 Constitution was printed as a pamphlet by the Isaac Friedenwald Co. in Baltimore. Front matter includes a list of WLCB officers for the 1890-1891 season and a list of preliminary topics to be discussed at meetings. Document held at the Maryland Center for History and Culture, PAM 2361.]
 
 #### Article I.
@@ -127,4 +128,5 @@ Sec. 2. The Board of Management shall be authorized to frame a code of By-Laws f
 3. Members wishing to invite residents of the city as guests may obtain invitations by application to the Committee on Invitations. The number of such guests at any one meeting shall be limited to five, and no resident of the city may be invited more than once during the season.
 
 4. At the meeting for the election of officers, nominations may be made by members of the Club. The six members of the Executive Commitee shall be separately voted for.[^13-16]
+
 [^13-16]: The remainder of the pamphlet contains a list of members during the 1890-1891 season.

@@ -13,6 +13,7 @@ permalink: /constitution-1902.html
 The Woman’s Literary Club of Baltimore
 Organized March 22nd, 1890.
 Incorporated January 25th, 1894.[^source]
+
 [^source]: Printed pamphlet, n.d. (after 1902), document held at the Maryland Center for History and Culture, PN22.W65 1900z]
 
 [2] 
@@ -233,4 +234,5 @@ Down through the ages the host has come, following the star with songs of joy an
 “To keep our Twelfth Night.”
 
 Excerpts from a Twelfth Night address by Mrs. John C. Wrenshall.[^back]
+
 [^back]: The remaining three pages of the pamphlet consists of blank pages with the word "MEMORANDA" at the top of each page.]

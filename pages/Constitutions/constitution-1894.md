@@ -7,7 +7,8 @@ permalink: /constitution-1894.html
 ## 1894 Constitution
 
 ### Constitution of the "Woman's Literary Club" of Baltimore.[^source]
-[^Handwritten manuscript, dated Nov. 27, 1894, included in the Woman's Literary Club of Baltimore collection, MS 988, Box 3, at the beginning of the notebook of meeting minutes dated Dec. 26, 1893-June 9, 1894.]
+
+[^source] Handwritten manuscript, dated Nov. 27, 1894, included in the Woman's Literary Club of Baltimore collection, MS 988, Box 3, at the beginning of the notebook of meeting minutes dated Dec. 26, 1893-June 9, 1894.
 
 #### Article 1. Name and Object.
 
@@ -126,6 +127,7 @@ Katharine Gross Spear. June 5, '94.
 Margaret A. McGaw. June 5th '94.
 Ellen Duvall
 Mar[^blank]
+
 [^blank]: This appears to be a partial name.
 
 [part of page left blank]
