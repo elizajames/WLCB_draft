@@ -3,6 +3,8 @@ title: Constitution
 layout: page
 permalink: /constitution.html
 ---
- o Club constitution - http://loyolanotredamelib.org/Aperio/WLCB/wlcb-constitution 
+## [1890](https://elizajames.github.io/WLCB_draft/constitution-1890.html)
 
- As well as some google docs go here
+## [1894](https://elizajames.github.io/WLCB_draft/constitution-1894.html)
+
+## [1902](https://elizajames.github.io/WLCB_draft/constitution-1902.html)
