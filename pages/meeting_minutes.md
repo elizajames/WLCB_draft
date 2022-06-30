@@ -12,6 +12,7 @@ permalink: /meeting_minutes.html
         vertical-align: top;
     }
 </style>
+
 ## Minutes of Club meetings
 
 At every meeting, the Recording Secretary took notes of the proceedings, which she then copied later into the official minutes books. On occasion, other officers or Club members took notes or transcribed the minutes on the Secretary if she was absent from a meeting or otherwise unable to perform her duties. The records of meeting minutes are remarkably complete, attesting to their importance to the Club.
@@ -20,17 +21,17 @@ Minutes are organized by seasons, which began in October and ended in May or ear
 
 <table>
 <tr>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Ainaugural%20-searching%20-omitted"><b>Spring 1890</b></a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Ainaugural"><b>Spring 1890</b></a></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
 </tr>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Asecond%20-inaugural"><b>1890-1891</b></a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Athird">1891-1892</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Afourth">1892-1893</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Afifth">1893-1894</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Btitle%3Aminutes%20%2Bcontent%3Ainaugural%20-searching%20-omitted">1894-1895</a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Afirst"><b>1890-1891</b></a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Asecond">1891-1892</a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Athird">1892-1893</a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Afourth">1893-1894</a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Afifth">1894-1895</a></td>
 </tr>
 <tr>
     <td><a href="">1895-1896</a></td>
