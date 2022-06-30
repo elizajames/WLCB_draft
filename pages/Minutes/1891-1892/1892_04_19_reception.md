@@ -12,6 +12,7 @@ permalink: /1892-04-19-reception.html
 The second Reception of the Woman's Literary Club took place at the Lyceum Parlors on Tuesday evening, April 19th, 1892, and was given in honor of the President of the Club--Mrs. Lawrence [Francese Litchfield] Turnbull, and Miss Grace Denio Litchfield.
 
 The hours were from 8 to 11 o'clock and there were about 360 invitations issued and about 175 acceptances received.[^ER1]
+
 [^ER1]: Among the invited guests were members of the Academy of Sciences and of the Historical Society, and personal friends of Mrs. Turnbull and Miss Litchfield.
 
 The Reception hall was tastefully decorated with growing plants and flowers, oil paintings and water colors under the direction of Miss [Elizabeth] Adams.

@@ -8,6 +8,7 @@ permalink: /1891-02-06-reception.html
 #### 1st reception; The Lyceum; Conversation; Refreshments--Given to Mr and Mrs. Richardson; Badge presented
 
 The first public reception of the Woman’s Literary Club of Baltimore was given in the Lyceum Parlors[^Lyceum] on Friday evening, February 6th 1891, at 7 o’clock.
+
 [^Lyceum]: Albaugh’s Lyceum Theatre opened in 1884 on North Charles Street in Mt. Vernon between Biddle and Preston Streets and was frequented by members of Baltimore society. In addition to being a theatrical venue, the Parlors appear to have been used for a variety of social events, including dances and receptions like the one described in the meeting. This public reception was held to honor the marriage of Hester Dorsey Richardson, who had just married Albert Richardson (see minutes from Jan. 20, 1891).
 
 The President and some of the members of the Executive Committee (or Board) received the guests, and the evening was spent in general conversation.

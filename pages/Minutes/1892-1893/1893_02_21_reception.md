@@ -5,8 +5,9 @@ permalink: /1893-02-21-reception.html
 ---
 [57] 
 
-### [Reception of the Academy of Sciences.[^Club room]
-[^Club room]: The Academy of Sciences would be the meeting place of the WLCB for the next two decades.
+### [Reception of the Academy of Sciences.[^Clubroom]
+
+[^Clubroom]: The Academy of Sciences would be the meeting place of the WLCB for the next two decades.
 
 On the evening of February 21st, 1893, the Academy of Sciences of Baltimore held a Reception to dedicate its new building on the corner of Franklin and Cathedral Streets.
 
