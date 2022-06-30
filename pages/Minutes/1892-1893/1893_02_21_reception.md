@@ -2,6 +2,7 @@
 title: 1893-02-21 Reception Minutes
 layout: page
 permalink: /1893-02-21-reception.html
+season: three
 ---
 [57] 
 
