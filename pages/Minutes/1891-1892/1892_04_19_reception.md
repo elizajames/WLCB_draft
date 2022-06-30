@@ -2,6 +2,7 @@
 title: 1892-04-19 Reception Minutes
 layout: page
 permalink: /1892-04-19-reception.html
+season: two
 ---
 [148]
 
