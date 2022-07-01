@@ -3,6 +3,11 @@ title: Documenting the only voting these women were allowed to take part in beca
 layout: page
 permalink: /2017-08-10-documenting.html
 ---
+<style>
+    .container{
+        font-size:1.4em;
+    }
+</style>
 ## Documenting the only voting these women were allowed to take part in because they lived, and we continue to live, in a patriarchal society
 #### Ellen Roussel, August 10, 2017
 

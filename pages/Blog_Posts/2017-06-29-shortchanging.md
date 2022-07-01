@@ -3,6 +3,11 @@ title: Shortchanging the Janitress
 layout: page
 permalink: /2017-06-29-shortchanging.html
 ---
+<style>
+    .container{
+        font-size:1.4em;
+    }
+</style>
 
 ## Shortchanging the Janitress
 #### Ellen Roussel, June 29, 2017
