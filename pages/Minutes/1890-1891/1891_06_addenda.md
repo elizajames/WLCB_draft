@@ -4,6 +4,12 @@ layout: page
 permalink: /1891-01-13-resolution.html
 season: first
 ---
+
+<style>
+    .container{
+        font-size:1.4em;
+    }
+</style>
 [80]
 
 ### Resolutions of Regret on the Death of Mrs. Mary Spear Tiernan

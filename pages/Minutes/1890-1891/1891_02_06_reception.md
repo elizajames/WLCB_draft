@@ -4,6 +4,12 @@ layout: page
 permalink: /1891-02-06-reception.html
 season: first
 ---
+
+<style>
+    .container{
+        font-size:1.4em;
+    }
+</style>
 ### 1st Reception--February 6th 1891
 
 #### 1st reception; The Lyceum; Conversation; Refreshments--Given to Mr and Mrs. Richardson; Badge presented

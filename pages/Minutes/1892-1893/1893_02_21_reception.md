@@ -4,6 +4,12 @@ layout: page
 permalink: /1893-02-21-reception.html
 season: third
 ---
+
+<style>
+    .container{
+        font-size:1.4em;
+    }
+</style>
 [57] 
 
 ### [Reception of the Academy of Sciences.[^Clubroom]

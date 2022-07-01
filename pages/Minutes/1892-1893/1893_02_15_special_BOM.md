@@ -4,6 +4,12 @@ layout: page
 permalink: /1893-02-15-special-BOM.html
 season: third
 ---
+
+<style>
+    .container{
+        font-size:1.4em;
+    }
+</style>
 [23] 
 
 ### Special Executive Meeting, February 15th. [1893]

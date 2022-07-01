@@ -4,6 +4,12 @@ layout: page
 permalink: /1892-04-19-reception.html
 season: second
 ---
+
+<style>
+    .container{
+        font-size:1.4em;
+    }
+</style>
 [148]
 
 ### 2nd Reception--April 19th 1892.

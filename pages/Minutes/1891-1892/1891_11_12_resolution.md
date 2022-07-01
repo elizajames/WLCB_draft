@@ -4,6 +4,12 @@ layout: page
 permalink: /1891-11-12-resolution.html
 season: second
 ---
+
+<style>
+    .container{
+        font-size:1.4em;
+    }
+</style>
 [100]
 
 #### Resolution of thanks passed by the Academy of Sciences and forwarded to the President--W.L.C.--by Mr Edward Stabler Jr.
