@@ -5,6 +5,12 @@ permalink: /blog.html
 ---
 {% include feature/image.html objectid="/assets/img/conspicuous-women.jpg" caption="Article from the Baltimore Sun, Feb. 14, 1906" %}
 
+<style>
+    #maincontent{
+        font-size:1.4em;
+    }
+</style>
+
 # WLCB project blog highlights
 
 Between 2017-2020, project team members shared their research discoveries on the project blog. The highlighted posts included here show fascinating glimpses of the historical period and the evolution of the archive. Some of them are also starting points for future research projects. Please contact us if you'd like to contribute!

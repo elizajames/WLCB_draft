@@ -4,7 +4,7 @@ layout: page
 permalink: /2017-08-10-documenting.html
 ---
 <style>
-    .container{
+    #maincontent{
         font-size:1.4em;
     }
 </style>
