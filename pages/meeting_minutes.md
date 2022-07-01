@@ -27,6 +27,7 @@ Minutes are organized by seasons, which began in October and ended in May or ear
     <td></td>
     <td></td>
 </tr>
+<tr>
     <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Afirst"><b>1890-1891</b></a></td>
     <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Asecond">1891-1892</a></td>
     <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Athird">1892-1893</a></td>
