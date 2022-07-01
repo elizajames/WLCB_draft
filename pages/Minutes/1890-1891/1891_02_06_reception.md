@@ -2,7 +2,7 @@
 title: 1891-02-06 Reception Minutes
 layout: page
 permalink: /1891-02-06-reception.html
-season: one
+season: first
 ---
 ### 1st Reception--February 6th 1891
 

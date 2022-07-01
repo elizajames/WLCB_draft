@@ -2,7 +2,7 @@
 title: 1891-01-13 Resolution Minutes
 layout: page
 permalink: /1891-01-13-resolution.html
-season: one
+season: first
 ---
 [80]
 

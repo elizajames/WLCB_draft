@@ -2,7 +2,7 @@
 title: 1893-02-15 Special Board of Management Minutes
 layout: page
 permalink: /1893-02-15-special-BOM.html
-season: three
+season: third
 ---
 [23] 
 
