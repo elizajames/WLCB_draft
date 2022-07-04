@@ -3,6 +3,12 @@ title: Where They Lived
 layout: page
 permalink: /mapping.html
 ---
+<style>
+    #maincontent{
+        font-size:1.4em;
+    }
+</style>
+
 # Where they lived
 
 Membership in the WLCB was defined in part by a shared desire to pursue literary avocations, but also by geographical proximity and socio-cultural networks including those defined by family, religion, ethnicity, and social class. These relationships shifted significantly during the years of the Club's existence, as Baltimore emerged from the schism of the Civil War as a center for industry and a locus of Eastern and Southern European immigration and internal migration of African Americans during the Great Migration.
