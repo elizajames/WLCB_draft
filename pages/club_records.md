@@ -3,6 +3,12 @@ title: Club Records
 layout: page
 permalink: /club_records.html
 ---
+<style>
+    #maincontent{
+        font-size:1.4em;
+    }
+</style>
+
 {% include feature/nav-menu.html sections="Meeting Minutes;Programs;Constitutions;Membership Lists" %}
 
 ## Club Records

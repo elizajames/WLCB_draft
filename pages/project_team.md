@@ -3,6 +3,11 @@ title: Project Team
 layout: page
 permalink: /project_team.html
 ---
+<style>
+    #maincontent{
+        font-size:1.4em;
+    }
+</style>
 
 {% include feature/image.html objectid="/assets/img/project_team.png" %}
 ## Project Team

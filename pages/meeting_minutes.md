@@ -11,6 +11,10 @@ permalink: /meeting_minutes.html
         text-align: center;
         vertical-align: top;
     }
+
+    #maincontent{
+        font-size:1.4em;
+    }
 </style>
 
 ## Minutes of Club Meetings

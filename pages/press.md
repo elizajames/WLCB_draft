@@ -4,6 +4,12 @@ layout: page
 permalink: /press.html
 ---
 
+<style>
+    #maincontent{
+        font-size:1.4em;
+    }
+</style>
+
 ## News About the Project
 - "Activating the Archives: Creative Collaborations with Local Universities," *Maryland Historical Society News*, Spring 2019
 
