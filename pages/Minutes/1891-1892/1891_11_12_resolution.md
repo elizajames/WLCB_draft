@@ -12,7 +12,7 @@ season: second
 </style>
 [100]
 
-### Resolution of thanks passed by the Academy of Sciences and forwarded to the President--W.L.C.--by Mr Edward Stabler Jr.
+#### Resolution of thanks passed by the Academy of Sciences and forwarded to the President--W.L.C.--by Mr Edward Stabler Jr.
 
 Recording Secretary Academy of Science--in a note dated November 12th 1891.
 

@@ -12,7 +12,7 @@ season: first
 </style>
 ### 1st Reception--February 6th 1891
 
-### 1st reception; The Lyceum; Conversation; Refreshments--Given to Mr and Mrs. Richardson; Badge presented
+#### 1st reception; The Lyceum; Conversation; Refreshments--Given to Mr and Mrs. Richardson; Badge presented
 
 The first public reception of the Woman’s Literary Club of Baltimore was given in the Lyceum Parlors[^Lyceum] on Friday evening, February 6th 1891, at 7 o’clock.
 

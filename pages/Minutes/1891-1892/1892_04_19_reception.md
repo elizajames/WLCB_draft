@@ -14,7 +14,7 @@ season: second
 
 ### 2nd Reception--April 19th 1892.
 
-### 2nd Reception. Lyceum Parlors. April 19th, 1892.; Given to President and Miss Litchfield; Hours--Invitations--etc.; Decorations; President and Miss Litchfield received.; Also Reception Committee.; Guests--.
+#### 2nd Reception. Lyceum Parlors. April 19th, 1892.; Given to President and Miss Litchfield; Hours--Invitations--etc.; Decorations; President and Miss Litchfield received.; Also Reception Committee.; Guests--.
 
 The second Reception of the Woman's Literary Club took place at the Lyceum Parlors on Tuesday evening, April 19th, 1892, and was given in honor of the President of the Club--Mrs. Lawrence [Francese Litchfield] Turnbull, and Miss Grace Denio Litchfield.
 
