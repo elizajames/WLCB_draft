@@ -15,20 +15,4 @@ Most frequently, however, Club members recruited friends and neighbors to join t
 
 Click on the Legend tab to view the locations of Club member residences between 1890-1915, in 5-year increments. Addresses were located in Club dues books and membership lists, as well as Baltimore city directories. Approximate locations for some member residences are included due to shifts in the street grid and changes in street names that took place over the course of the 20th century. 
 
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><small><a href="//clara-love.maps.arcgis.com/apps/Embed/index.html?webmap=612075e38b01461dbbe46f85731f6c6c&extent=-76.693,39.288,-76.5662,39.3406&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WLCB Membership" src="//clara-love.maps.arcgis.com/apps/Embed/index.html?webmap=612075e38b01461dbbe46f85731f6c6c&extent=-76.693,39.288,-76.5662,39.3406&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&disable_scroll=true&theme=light"></iframe></div>
-
-### Data
-
-Major Authors
-
-1890
-
-1895
-
-1900
-
-1905
-
-1910
-
-1915
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=29bd19f1d7534664a5016dc4574341d9&extent=-76.6377,39.2928,-76.5871,39.3141&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WLCB Membership and Meeting Locations Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=29bd19f1d7534664a5016dc4574341d9&extent=-76.6377,39.2928,-76.5871,39.3141&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light"></iframe></div>
