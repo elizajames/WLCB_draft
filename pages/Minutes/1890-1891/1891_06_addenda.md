@@ -12,8 +12,8 @@ season: first
 </style>
 [80]
 
-### Resolutions of Regret on the Death of Mrs. Mary Spear Tiernan
-### January 13th 1891.
+## Resolutions of Regret on the Death of Mrs. Mary Spear Tiernan
+## January 13th 1891.
 
 In the bright hours of the New Year that has come to us so full of hope and promise, we are called to stand still and hushed, in the presence of that great power which holds in its hand and guides into the “silent land” so much that is precious, so much that once made the beauty and gladness of life. To-day, only a short time before the hour appointed for the assembling of the Club came the unexpected and sad tidings of the going away from our midst of Mrs. Mary Spear Tiernan, one of the founders of the Woman’s Literary Club--one of its brightest members--one most suggestive and original in modes of thought, most alert to all that might advance the interests of our Association.
 
@@ -33,8 +33,8 @@ She has gone in the fullness of her powers, but as we feel sure, not before her 
 
 [82]
 
-### Resolutions of Regret on the Death of Mrs. Ann Mary Coleman (Mrs. Chapman [Anne Mary] Coleman)
-### 1891.
+## Resolutions of Regret on the Death of Mrs. Ann Mary Coleman (Mrs. Chapman [Anne Mary] Coleman)
+## 1891.
 
 A Committee of the Woman’s Club of Baltimore consisting of Mrs. [Laura] Atkinson, Mrs. [Caroline Canfield] Bullock, Miss [Jane] Zacharias and Mrs. Franklin [Christine Ladd-Franklin], having been appointed to take action upon the death of Mrs. Ann Mary Coleman, drew up the following resolutions:--
 
