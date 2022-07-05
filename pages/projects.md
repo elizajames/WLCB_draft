@@ -15,4 +15,4 @@ Based on dues records and membership notebooks, this [map created by Clara Love]
 [Exhibit under development]
 
 ### Reading a Program
-The WLCB printed programs for every one of their weekly meetings, which provide a succinct key to the planned events--if you know how to read them. This [exhibit created by Clara Love](https://elizajames.github.io/WLCB_draft/reading-a-program.html) takes you through one representative program to provide a snapshot of what a meeting may have looked--and sounded--like.
+The WLCB printed programs for every one of their weekly meetings, which provide a succinct key to the planned events--if you know how to read them. This [exhibit created by Clara Love](https://elizajames.github.io/WLCB_draft/reading-a-program.html) takes you through a program from one of their most notable annual traditions--the WLCB's Twelfth Night Celebration, held each year to celebrate the Epiphany-- to provide a snapshot of what a meeting may have looked and sounded like.
