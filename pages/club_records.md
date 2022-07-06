@@ -19,18 +19,12 @@ Well aware of their historic precedence, the Woman's Literary Club of Baltimore 
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><a href="https://elizajames.github.io/WLCB_draft/meeting_minutes.html"><img src="https://elizajames.github.io/WLCB_draft/assets/img/minutes.png" alt="Minutes icon"></a></div>
 
 The Maryland Center for History and Culture holds complete minutes for meetings between 1890 and 1920, and rough transcriptions of the vast majority have been uploaded to this site. Notes for additional seasons are in the process of being transcribed and all are being annotated to provide historical and situational context for the benefit of students and researchers. 
-
-Minutes of Club meetings are organized by season. Notes were taken at each meeting and then copied later into the minutes books by the Recording Secretary. On occasion, other officers or Club members took notes or transcribed the minutes on the Secretary if she was absent from a meeting or otherwise unable to perform her duties. The records of meeting minutes are remarkably complete, attesting to their importance to the Club. 
-
-Each season began in October and ended in May or early June. Salons were held roughly monthly and often included musical performances as well as readings of poetry and essays, and addresses to the Club from Club officers and notable guests. Board of Managers meetings were held bi-weekly or monthly, depending on the needs of the Club. In these meetings, Club officers made organizational decisions regarding finances, membership, governance, and other procedural matters. The meeting type is indicated within each transcribed document.
 <p style="clear: both;"></p>
 
 ### [Programs](https://elizajames.github.io/WLCB_draft/programs.html)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><a href="https://elizajames.github.io/WLCB_draft/programs.html"><img src="https://elizajames.github.io/WLCB_draft/assets/img/programs.png" alt="Programs icon"></a></div>
 
-The WLCB had programs printed for each of their weekly meetings. Each one lists the date, order of events, titles of works shared, who created those works, who presented them to the Club, and which committee was in charge of organizing the meeting. Some of these programs have information that cannot be found in the minutes for a given meeting; for instance, the meeting minutes might describe a Club member reading a piece but neglect to include the exact title, which is listed on that meeting's program. All of this valuable information from the programs can be explored via this website's Advanced Search page, which accesses a database of meeting agenda items compiled through transcription of these programs.
-
-The significance of the programs goes beyond the raw data they contain, however. The materiality of these documents is also something special to behold: each one is printed in the Club's signature purple, with the WLCB crest at the top. The artful designs of the programs shifted over the course of many years, and some more elaborate Club events demanded more elaborate programs. This Programs exhibit [need link](link) highlights what these documents actually looked like, and in the process provides an in-depth look at what it would be like to follow along with a Club meeting.
+The WLCB had programs printed for each of their weekly meetings, and an almost complete collection of programs from 1890-1914 is held at the Maryland Center for History and Culture. Each program lists the date, order of events, titles of works shared, who created those works, who presented them to the Club, and which committee was in charge of organizing the meeting. The data contained in these programs has been transcribed and made available as part of this archive. 
 <p style="clear: both;"></p>
 
 ### [Constitutions](https://elizajames.github.io/WLCB_draft/constitution.html)
