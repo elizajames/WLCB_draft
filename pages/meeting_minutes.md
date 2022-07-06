@@ -5,7 +5,7 @@ permalink: /meeting_minutes.html
 ---
 <style>
     td, th {
-        width: 120px;
+        width: 200px;
         height: 120px;
         padding: 15px;
         text-align: center;
