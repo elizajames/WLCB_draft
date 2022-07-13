@@ -32,4 +32,6 @@ Some arrangements for the next two meetings were announced.--
 
 The members informally inspected the rooms we expect to occupy in the future.
 
+<hr>
+
 Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 

@@ -29,4 +29,6 @@ Mrs. Richardson [Hester Crawford Dorsey Richardson] is the 1st Vice President, a
 Eliza Ridgely 
 Secretary
 
+<hr>
+
 Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 
