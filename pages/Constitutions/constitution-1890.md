@@ -3,16 +3,21 @@ title: 1890 Constitution
 layout: page
 permalink: /constitution-1890.html
 ---
+<style>
+    #maincontent{
+        font-size:1.4em;
+    }
+</style>
 
-## 1890 Constitution
+# 1890 Constitution
 
 [6]
 
-### Constitution. [1890][^MCHC]
+## Constitution. [1890][^MCHC]
 
 [^MCHC]: The 1890 Constitution was printed as a pamphlet by the Isaac Friedenwald Co. in Baltimore. Front matter includes a list of WLCB officers for the 1890-1891 season and a list of preliminary topics to be discussed at meetings. Document held at the Maryland Center for History and Culture, PAM 2361.]
 
-#### Article I.
+### Article I.
 Name and Object.
 
 Section 1. The name of this association is The Woman’s Literary Club of Baltimore.
@@ -21,7 +26,7 @@ Sec. 2. The object of the Club is the advancement of its members in literature, 
 
 [7]
 
-#### Article II.
+### Article II.
 
 Officers.
 
@@ -37,7 +42,7 @@ Sec. 5. The Secretary shall keep minutes of all the meetings of the Club and of 
 
 Sec. 6. The Treasurer shall collect and, under the direction of the Board of Management, shall disburse the funds. She shall report to the Executive Meetings when required, and shall read to the Club a semi-annual report of the expenses and receipts on the second Tuesday in January and the second Tuesday in May, each year.
 
-#### Article III.
+### Article III.
 
 Board of Management.
 
@@ -51,7 +56,7 @@ Sec. 3. The Executive Committee shall constitute the House Committee.
 
 Sec. 4. The Board shall exercise the right, at its members’ discretion, of inviting strangers, distinguished in science, literature or art, who may visit the city, to partake of the privileges of the Club during their stay.
 
-#### Article IV.
+### Article IV.
 
 Members.
 
@@ -83,7 +88,7 @@ Sec. 8. Members residing in the City of Baltimore, or within twenty miles thereo
 
 Sec. 9. Honorary membership shall be extended only to those who will confer distinction upon the Club by their attainments in literature or science, and only upon invitation by the Board of Management.
 
-#### Article V.
+### Article V.
 
 Dues.
 
@@ -97,7 +102,7 @@ Sec. 3. Non-resident members shall not be entitled to a vote, and shall bear no 
 
 [11]
 
-#### Article VI.
+### Article VI.
 
 Meetings.
 
@@ -109,7 +114,7 @@ Sec. 3. Special meetings of the Club may be called by the President at any time.
 
 Every notice of a special meeting shall designate the business to be transacted at such a meeting, and no other business shall be in order.
 
-#### Article VII.
+### Article VII.
 
 Amendments.
 
@@ -119,7 +124,7 @@ Sec. 2. The Board of Management shall be authorized to frame a code of By-Laws f
 
 [12]
 
-#### By-Laws.
+### By-Laws.
 
 1. The President shall make a report to the Club at the anniversary meeting.
 
@@ -130,3 +135,7 @@ Sec. 2. The Board of Management shall be authorized to frame a code of By-Laws f
 4. At the meeting for the election of officers, nominations may be made by members of the Club. The six members of the Executive Commitee shall be separately voted for.[^13-16]
 
 [^13-16]: The remainder of the pamphlet contains a list of members during the 1890-1891 season.
+
+<hr>
+
+##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988.

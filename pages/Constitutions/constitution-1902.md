@@ -3,10 +3,15 @@ title: 1902 Constitution
 layout: page
 permalink: /constitution-1902.html
 ---
+<style>
+    #maincontent{
+        font-size:1.4em;
+    }
+</style>
 
-## 1902 Constitution
+# 1902 Constitution
 
-### [Constitution, c. 1902]
+## [Constitution, c. 1902]
 
 [1]
 
@@ -22,7 +27,7 @@ Incorporated January 25th, 1894.[^source]
 
 [3]
 
-#### Founders.
+### Founders.
 
 Mrs. Mary Spear Tiernan.
 Mrs. Fabian Franklin.
@@ -59,13 +64,13 @@ Of
 The Woman’s Literary Club
 Of Baltimore
  
-#### Article I.- Name and Object.
+### Article I.- Name and Object.
 
 Section 1. The name of this Association shall be The Woman’s Literary Club of Baltimore.
 
 Sec. 2. The object of this Club shall be the advancement of its members in literature, and their association for the discussion of the literary and artistic questions of the day- by written papers and otherwise.
 
-#### Article II.- Officers and Directors. 
+### Article II.- Officers and Directors. 
 
 Section 1. There shall be six officers of the Club, namely: a President , two Vice-Presidents, a Recording Secretary, a Corresponding Secretary, and a Treasurer who, together with six Directors, shall constitute the Board of Management, in which shall be vested the government of the Club.
 
@@ -83,7 +88,7 @@ Sec. 6. The Corresponding Secretary shall issue notice of all meetings, notify n
 
 Sec. 7. The Treasurer shall collect, and under the direction of the Board of Management, shall disburse the funds. She shall report to the Board of Management when desired, and read a report, previously audited, at the annual meeting of the Club.
 
-#### Article III.- Board of Management.
+### Article III.- Board of Management.
 
 Section. 1. No expenses shall be incurred in excess of the funds already in the treasury.
 
@@ -118,7 +123,7 @@ Sec. 6. The meetings of the Board for the election of new members shall be held 
 
 Sec. 7. Other meetings for the election of members maybe held at the discretion of the President, when candidates who are regularly presented according to the foregoing rules, may be duly elected.
 
-#### Article V.- Dues.
+### Article V.- Dues.
 
 Sec. 1. The annual dues of resident members shall be ten dollars, payable in advance; one-half on the first day of October; and one-half on the first day of February.
 
@@ -130,7 +135,7 @@ After such notification the privileges of the club shall be with-held until dues
 
 Sec. 3. Members who have not sent in their resignations before the first of October or first of February, shall be held liable for full half-year dues.
 
-#### Article VI.- Meetings.
+### Article VI.- Meetings.
 
 Section. 1. The annual meeting of the Club for the election of officers and directors and the reading of the Treasurer’s report shall be held on the last business Tuesday in May.
 
@@ -146,7 +151,7 @@ Sec. 4. The Corresponding Secretary shall send notifications of a special meetin
 
 Sec. 5. One-third of the active members of the club shall constitute a quorum for the transaction of business, except for Constitutional amendments, when a majority of the active members must be present.
 
-#### Article VII.- Amendments.
+### Article VII.- Amendments.
 
 Section. 1. No alteration of the Constitution shall be made unless the same be proposed at the business meeting, and be finally adopted by a vote of two-thirds of the members present at the subsequent business meeting.
 
@@ -159,7 +164,7 @@ Esteeming it a privilege to belong to The Women’s Literary Club of Baltimore, 
 
 [14]
 
-#### By-Laws. 
+### By-Laws. 
 
 I. Membership shall be limited to one hundred, including non-resident members.
 
@@ -236,3 +241,7 @@ Down through the ages the host has come, following the star with songs of joy an
 Excerpts from a Twelfth Night address by Mrs. John C. Wrenshall.[^back]
 
 [^back]: The remaining three pages of the pamphlet consists of blank pages with the word "MEMORANDA" at the top of each page.]
+
+<hr>
+
+##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988

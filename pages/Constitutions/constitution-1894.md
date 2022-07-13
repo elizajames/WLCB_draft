@@ -3,20 +3,25 @@ title: 1894 Constitution
 layout: page
 permalink: /constitution-1894.html
 ---
+<style>
+    #maincontent{
+        font-size:1.4em;
+    }
+</style> 
 
-## 1894 Constitution
+# 1894 Constitution
 
-### Constitution of the "Woman's Literary Club" of Baltimore.[^source]
+## Constitution of the "Woman's Literary Club" of Baltimore.[^source]
 
-[^source] Handwritten manuscript, dated Nov. 27, 1894, included in the Woman's Literary Club of Baltimore collection, MS 988, Box 3, at the beginning of the notebook of meeting minutes dated Dec. 26, 1893-June 9, 1894.
+[^source]: Handwritten manuscript, dated Nov. 27, 1894, included in the Woman's Literary Club of Baltimore collection, MS 988, Box 3, at the beginning of the notebook of meeting minutes dated Dec. 26, 1893-June 9, 1894.
 
-#### Article 1. Name and Object.
+### Article 1. Name and Object.
 
 Section 1. The name of this association shall be The Woman's Literary Club of Baltimore.
 
 Section 2. The object of this club shall be the advancement of its members in literature, and their association for the discussion of the questions of the day--literary, artistic, social and political, by written papers, and otherwise.
 
-#### Article 2. Officers and Directors.
+### Article 2. Officers and Directors.
 
 Section 1. There shall be six officers of the Club, namely " a President, two Vice-Presidents, a Recording Secretary, a Corresponding Secretary, and a Treasurer who, together with six Directors, shall constitute the Board of Management, in which shall be vested the government of the Club.
 
@@ -42,7 +47,7 @@ She shall report to the Board of Management when desired, and read a
 
 report, previously audited, at the annual meeting of the Club.
 
-#### Article 3. Board of Management.
+### Article 3. Board of Management.
 
 Section 1. No expenses shall be incurred in excess of the funds already in the treasury.
 
@@ -56,7 +61,7 @@ Section 5. Seven members of the Board of Management shall constitute a quorum.
 
 [4]
 
-#### Article 4. Members.
+### Article 4. Members.
 
 Section 1. Members shall be chosen from women over twenty one years of age who are interested in intellectual pursuits, and willing when called upon to prepare a paper, or engage in a discussion upon some topic of common interest.
 
@@ -66,7 +71,7 @@ Section 3. Moreover, that any member who persistently refused to comply with the
 
 Section 4. The Club shall consist of Resident, Non-Resident, and Honorary Members. Members residing in the city of Baltimore, or within ten miles from the city limits, shall be classed as Resident, all others as Non-Resident Members.
 
-#### Non-Resident and Honorary Members
+### Non-Resident and Honorary Members
 
 [5]
 
@@ -80,7 +85,7 @@ Section 6. The meetings of the Board for the election of new members shall be he
 
 [6]
 
-#### Article 5.
+### Article 5.
 
 Section 1. The annual dues of resident members shall be ten dollars, payable in advance, one half on the first day of October, and one half on the first day of February. The annual dues of Non-Resident members shall be five dollars, payable in advance, on the first day of October.
 
@@ -90,7 +95,7 @@ Section 3. Members who have not sent in their resignations before the first of O
 
 [7]
 
-#### Article 6. Meetings.
+### Article 6. Meetings.
 
 Section 1. The annual meeting of the Club for the election of Officers and Directors and the reading of the Treasurer's report shall be held on the last business Tuesday in May.
 
@@ -106,7 +111,7 @@ Section 5. Thirty members shall constitute a quorum for the transaction of busin
 
 [9]
 
-#### Article 7. Amendments.
+### Article 7. Amendments.
 
 Section 1. No alteration of the Constitution shall be made unless the same be proposed at a business meeting and be finally adopted by a vote of two thirds of the members present at a subsequent business meeting.
 
@@ -160,6 +165,10 @@ Bertha B. Hammel
 
 [14]
 
-### Pledge.
+## Pledge.
 
 Esteeming it a privilege to belong to the Woman's Literary Club of Baltimore, I will be loyal to its aims and methods, carefully guarding its reputation, and striving to increase its influence, so long as I retain my membership.
+
+<hr>
+
+##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988
