@@ -20,4 +20,4 @@ _Resolved_, that the cordial thanks of the Academy be, and the same are hereby t
 
 <hr>
 
-Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 
+##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 

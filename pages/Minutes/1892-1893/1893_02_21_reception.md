@@ -23,4 +23,4 @@ The Reception was held in the large room furnished and prepared by the Woman’s
 
 <hr>
 
-Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 
+##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 

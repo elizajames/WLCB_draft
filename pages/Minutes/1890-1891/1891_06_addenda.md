@@ -48,4 +48,4 @@ Resolved: that a copy of these resolutions be forwarded to the family of our lam
 
 <hr>
 
-Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 
+##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 
