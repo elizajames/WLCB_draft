@@ -11,7 +11,9 @@ permalink: /meeting_minutes.html
         text-align: center;
         vertical-align: top;
     }
-
+    tr:nth-child(odd) {
+        background-color: #ffccff;
+    }
     #maincontent{
         font-size:1.4em;
     }
@@ -25,14 +27,14 @@ Minutes are organized by seasons, which began in October and ended in May or ear
 
 <table>
 <tr>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Ainaugural"><b>Spring 1890</b></a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Ainaugural">Spring 1890</a></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
 </tr>
 <tr>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Afirst"><b>1890-1891</b></a></td>
+    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Afirst">1890-1891</a></td>
     <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Asecond">1891-1892</a></td>
     <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Athird">1892-1893</a></td>
     <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Afourth">1893-1894</a></td>
@@ -46,7 +48,7 @@ Minutes are organized by seasons, which began in October and ended in May or ear
     <td><a href="">1899-1900</a></td>
 </tr>
 <tr>
-    <td><a href=""><b>1900-1901</b></a></td>
+    <td><a href="">1900-1901</a></td>
     <td><a href="">1901-1902</a></td>
     <td><a href="">1902-1903</a></td>
     <td><a href="">1903-1904</a></td>
@@ -60,7 +62,7 @@ Minutes are organized by seasons, which began in October and ended in May or ear
     <td><a href="">1909-1910</a></td>
 </tr>
 <tr>
-    <td><a href=""><b>1910-1911</b></a></td>
+    <td><a href="">1910-1911</a></td>
     <td><a href="">1911-1912</a></td>
     <td><a href="">1912-1913</a></td>
     <td><a href="">1913-1914</a></td>
@@ -74,7 +76,7 @@ Minutes are organized by seasons, which began in October and ended in May or ear
     <td><a href="">1919-1920</a></td>
 </tr>
 <tr>
-    <td><a href=""><b>1920-1921</b></a></td>
+    <td><a href="">1920-1921</a></td>
     <td><a href="">1921-1922</a></td>
     <td><a href="">1922-1923</a></td>
     <td><a href="">1923-1924</a></td>

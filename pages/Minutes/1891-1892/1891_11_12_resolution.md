@@ -21,3 +21,5 @@ _Resolved_, that the cordial thanks of the Academy be, and the same are hereby t
 <hr>
 
 ##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 
+
+[Return to meeting minutes](https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Asecond)
