@@ -6,13 +6,16 @@ permalink: /meeting_minutes.html
 <style>
     td, th {
         width: 200px;
-        height: 120px;
+        height: 90px;
         padding: 15px;
         text-align: center;
         vertical-align: top;
     }
     tr:nth-child(odd) {
         background-color: #ffccff;
+    }
+    table, th, td {
+        border: 1px solid #d7d6d6;
     }
     #maincontent{
         font-size:1.4em;
